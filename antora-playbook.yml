@@ -1,0 +1,13 @@
+site:
+  title: PermaSoft - une société de conseils en logiciels maintenables
+  url: https://permasoft.io
+  start_page: main::index.adoc
+content:
+  sources:
+    - url: ./
+      branches: main
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
