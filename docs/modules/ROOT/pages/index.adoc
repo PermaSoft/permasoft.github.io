@@ -1,3 +1,46 @@
 = PermaSoft
 
-PermaSoft est une société de services et conseils en logiciels maintenables.
+PermaSoft est une société de services et conseils en logiciels maintenables et évolutifs à la vitesse de votre business.
+Les logiciels, victimes de leurs succès, ont trop souvent tendance à grossir pendant que le business qu'ils traitent grandit.
+Il est facile d'être pris dans l'urgence du quotidien de vouloir un maximum de  fonctionnalités pour les coûts et délais les plus contraints.
+Cette attitude est salvatrice en start-up quand on cherche à toucher un marché, à expérimenter pour le comprendre et trouver une offre qui génère des revenus.
+Cette attitude de prise de raccourcis sont autant de dettes techniques prise sur les fondations du produit ou service que vous souhaitez construire.
+Tant que vous êtes dans cette recherche de "market fit", votre logiciel est composé d'hypothèses jetables.
+Lorsque vous avez trouvé vos clients et que vous avez une vision moyen terme de votre produit ou service, les anciens raccourcis à faible durée de vie deviennent une dette technique à longue durée de vie.
+Ainsi, les petits contournements d'hier deviennent des nids de poule et des dos d'ânes qui ralentissent votre progression.
+Un logiciel long terme doit pouvoir vivre et évoluer aussi longtemps que votre entreprise ! Malgré les départs de vos premiers collaborateurs, comme des suivants.
+Dans une phase de scale-up, l'acquisition de nouveaux clients se fait aussi par une consolidation de l'existant en améliorant sa qualité et son image de marque et en normalisant ses périmètres fonctionnels.
+Comme si on passe d'un produit avec une capacité métier à une ligne de produit composé d'une série de fonctionnalités décrite, construite et vendue de manière cohérente et maîtrisée.
+
+En scale-up, l'efficacité opérationnelle est une course que tout le monde coure jusqu'à l'épuisement de tous les acteurs.
+Soyez sûr que le gagnant est soit rincé pour exploiter sa victoire, soit c'est le dernier venu qui a appris de vos erreurs de jeunesse.
+Vous devez trouver une stratégie, un positionnement de votre offre qui vous distingue de vos concurrents et pour laquelle vous vous optimisez.
+Cela rends votre offre incomparable, avec des clients plus attachés et votre optimisation vous rends difficiles à copier.
+
+Lorsque vous sortez de la course à l'efficacité opérationnelle avec une stratégie produit unique, vous pouvez alors avoir une vision claire du produit à réaliser.
+Il est alors temps de construire un logiciel maintenable et évolutif.
+
+La maintenabilité, c'est :
+
+* Facile à comprendre
+** kiss, keep it simple & small
+** clean code dans le sens vocabulaire métier
+** architectures crud et métier selon la richesse fonctionnelle et microservices selon votre capacité de refonte (profit'n'loss, write off, ...)
+* Facile à arbitrer dans le sens on sait dire si une nouvelle fonctionnalité enrichie une existante ou l'annule et la remplace
+** clean test dans le sens spécification métier exécutable
+** tests fonctionnels automatisés de type:
+*** tests d'intégration métier de use cases
+*** tests unitaires métier de règles de gestion
+
+
+Permaculture et inspiration
+Ma vision de l'agilité
+La stratégie pour être difficilement copiable, donc sortir de la survie en urgence et autre optimisation opérationnelle et enfin investir dans le long terme sereinement.
+
+Audit de code suivi d'accompagnement à leur mise en place
+Conseils en architecture logicielle (pas en infra cloud) suivi d'accompagnement à leur mise en place
+Coaching technique
+Co Tech Lead, Co CTO
+Développement back Java Sénior avec un rôle modèle
+
+Katas books
