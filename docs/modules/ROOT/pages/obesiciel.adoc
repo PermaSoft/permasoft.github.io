@@ -1,0 +1,10 @@
+= Obésiciel, le destin naturel des logiciels à succès
+
+Le périmètre fonctionnel augmente en début de projet, puis il se évolue.
+Les nouveautés ne s'ajoutent plus, elle remplace une partie de l'existant.
+Pourtant la base de code continue d'augmenter...
+Dans le monde Java, il est difficile d'avoir une base de 200'000 lignes de code en bonne santé. A 400'000 lignes, cela devient à priori impossible.
+
+Taille max d'un soft maintenable
+Taille max d'un soft qu'on peut ré-écrire
+Taille max de votre soft ? le plus petit critère précédent

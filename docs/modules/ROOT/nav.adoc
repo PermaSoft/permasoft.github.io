@@ -1,1 +1,6 @@
 * xref:index.adoc[]
+* xref:maintenabilite.adoc[]
+* xref:metaphores.adoc[]
+* xref:obesiciel.adoc[]
+* xref:permaculture.adoc[]
+* xref:productivite.adoc[]
