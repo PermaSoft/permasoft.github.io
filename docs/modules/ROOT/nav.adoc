@@ -4,3 +4,5 @@
 * xref:obesiciel.adoc[]
 * xref:permaculture.adoc[]
 * xref:productivite.adoc[]
+* xref:services.adoc[]
+* xref:contact.adoc[]

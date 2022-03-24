@@ -9,9 +9,9 @@ Il n'y a pas de raccourcis.
 Nous devons décrire le comportement d'une machine selon plusieurs critères:
 
 1. De manière formelle et exhaustive pour qu'elle réalise les tâches dont nous avons besoin. (Kiss - Keep It Simple Small, Yagni, 3 rules of simple design)
-1. De manière imagée pour que le développeur qui maintient le code comprenne l'intention du développeur d'origine. (Clean Code, Domain Driven Design)
-1. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Clean Architecture)
-1. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est un ajout où une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
+2. De manière imagée pour que le développeur qui maintient le code comprenne l'intention du développeur d'origine. (Clean Code, Domain Driven Design)
+3. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Clean Architecture)
+4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est un ajout où une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
 Ainsi le code est *LA métaphore* du produit.
 Le logiciel à des entrées/sorties qui lui permettent d'interagir avec le monde (clavier, souris, réseau, écrans, disque dur, api tierces) de manière numérique.
