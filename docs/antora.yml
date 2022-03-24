@@ -1,6 +1,5 @@
 name: main
-title: PermaSoft - Main
-version: 0.1
-prerelease: -beta.1
+title: PermaSoft - Main Site
+version: ~
 nav:
   - modules/ROOT/nav.adoc
