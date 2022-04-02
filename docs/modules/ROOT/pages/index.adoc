@@ -1,33 +1,20 @@
-= PermaSoft
+PermaSoft est l'entreprise unipersonnelle de xref:contact.adoc[Nicolas Fédou], développeur, coach technique, conseiller en IT spécialisé dans le craftsmanship et la maintenabilité des logiciels.
 
-Pour des logiciels qui évoluent en harmonie avec votre business.
+== Pour des logiciels qui évoluent en harmonie avec votre business.
 
 Pendant que votre business pivote, s'adapte et grandit, les logiciels à succès ont tendances à grossir.
-Les nouvelles fonctionnalités s'intègrent dans une base de code existante qui décrit une version passée de votre business.
-Il faut une bonne maîtrise du développement logiciel pour éviter que la version suivante de votre logiciel n'ai pas marques de votre business passé.
+Les nouvelles fonctionnalités s'intègrent dans une base de code existante qui décrit une version passée et obsolète de votre business.
+Il faut une bonne maîtrise du développement logiciel pour éviter que la version suivante de votre logiciel n'ai pas marques de votre business passé, d'obsolescence fonctionnelle.
 Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à xref:obesiciel.adoc[devenir un obésiciel].
+De même, le code qui supporte vos fonctionnalités est construit avec des outils qui évoluent fonctionnellement ou en corrigeant leurs failles et impliquent une obsolescence technique qui mérite aussi de l'attention.
 
-PermaSoft vous accompagne dans le maintien de vos logiciels dans de
-xref:maintenabilite.adoc[bonnes conditions de maintenabilité] et de xref:productivite.adoc[productivité de vos projets informatiques].
+== Par xref:services.adoc[des interventions pragmatiques]
 
-PermaSoft est l'entreprise unipersonnelle de Nicolas Fédou, développeur, coach technique, conseiller en IT spécialisé dans le craftsmanship et la maintenabilité des logiciels.
+Par des interventions des plus légères \(diagnostiques, audits\) au plus complètes \(mentorat, développement\), je vous accompagne dans le maintien de vos logiciels dans de xref:maintenabilite.adoc[bonnes conditions de maintenabilité] et de xref:productivite.adoc[productivité de vos projets informatiques].
 
-Le nom de PermaSoft est inspiré de celui de la PermaCulture qui est une contraction de "permanent culture".
-La PermaCulture identifie et utilise les forces naturelles pour construire son projet (jardin, agriculture, etc.)
-Cela permet de minimiser ses actions d'une part et d'avoir des effets produits par l'environnement, sans effort de notre part.
-Cela demande plus de réflexion et moins d'actions pour un résultat équivalent.
-On ne va se mentir, nous n'arrêterons pas nos efforts à un résultat équivalent.
-Nous ferons la même quantité d'efforts dans tous les cas, nous irons simplement plus loin.
-Je ne suis pas fans xref:metaphores.adoc[des métaphores de nos métiers], elles forcément trompeuses.
-Je ne vous décrirais donc seulement xref:permaculture.adoc[ce que j'apprécie de la PermaCulture] sans essayer de vous faire passer une petite fleur pour un logiciel.
+* Les diagnostics sont des entretiens en distanciels facturés aux temps permettant d'avoir des premières pistes pour passer un obstacle à moindre frais.
+* Les audits sont des diagnostics à 360° de votre contexte et de vos solutions avec des interviews de personnes clefs et une analyse du code et des symptômes que vous me remontez.
+* Les accompagnements sont des aides à la mise en place de préconisations d'un audit, d'une demande client ou de bonnes pratiques de développement agile.
+* Les développements sont des réalisations de fonctionnalités du produit ou de fonctionnalités qui supportent le produit
 
-Ma vision de l'agilité
-La stratégie pour être difficilement copiable, donc sortir de la survie en urgence et autre optimisation opérationnelle et enfin investir dans le long terme sereinement.
 
-Audit de code suivi d'accompagnement à leur mise en place
-Conseils en architecture logicielle (pas en infra cloud) suivi d'accompagnement à leur mise en place
-Coaching technique
-Co Tech Lead, Co CTO
-Développement back Java Sénior avec un rôle modèle
-
-Katas books

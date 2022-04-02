@@ -1,20 +1,31 @@
 = Offres de services
 
-* Diagnostique en visio au temps passé, 100€/Heure
-* Audit de Code : 1250 € / Jour
-* Interview d'1h de 4 e 6 personnes/jours
-* Analyse du comportement de l'application de 1 a 2 use cases représentatif par jour
-* Analyse statique du code de 50'000 lignes de code par jour (tout n'est pas lu...)
-* Consolidation et de synthèse de 2 à 3 jours
-* Mode opératoire :
-* Interview du sponsor de l'application
-* Interview des acteurs interagissant avec l'application (utilisateurs clefs, PO, BA, Dev)
-* Exécution de l'application en Démo locale, débuggable et analyse du comportement
-* Exécution des tests et analyse
-* Relecture du code et analyse de sa structure et de son architecture
-* Exploitation des outils d'analyse disponible (Code Maat, Sonar, etc.)
-* Synthèse et remise des recommandations
+1. Diagnostique en distanciel au temps passé, 125 € / Heure
+2. Audit de Code : 1250 € / Jour
+** Interview d'1h de 4 e 6 personnes / Jours
+** Analyse du comportement de l'application de 1 a 2 use cases représentatif par jour
+** Analyse statique du code de 50'000 lignes de code par jour (tout n'est pas lu...)
+** Consolidation et de synthèse de 2 à 3 jours
+** Mode opératoire :
+*** Interview du sponsor de l'application
+*** Interview des acteurs interagissant avec l'application (utilisateurs clefs, PO, BA, Dev)
+*** Exécution de l'application en Démo locale, débuggable et analyse du comportement
+*** Exécution des tests et analyse
+*** Relecture du code et analyse de sa structure et de son architecture
+*** Exploitation des outils d'analyse disponible (Code Maat, Sonar, etc.)
+*** Synthèse et remise des recommandations
 
-* Coaching Technique : 1000 € / Jour
-* Mentor / Co - Tech Lead / Référent Technique / Architecte Logiciel : 800 €  / Jour
-*
+3. Accompagnements : 800 € / Jour ou 125 € / Heure
+** Soit par contrat de coaching
+*** Application d'un contrat de coaching tri-partite (commanditaire, coachés, coach) défini par un contexte, un problème, des besoins et une demande à satisfaire
+*** En intervention à la journée ou demi-journée
+** Soit par lot d'heures de support
+4. Développeur Craft : 700 € / Jour
+** Mise en place d'outils permettant de meilleures pratiques de développement
+*** Tests de fonctionnalités unitaires et d'intégration en boite blanche
+*** Outils de maintiens de l'architecture logicielle, de respect des conventions
+** Rôle Modèle
+*** Co-Tech Lead sur le partage de bonnes pratiques de développement et leur mise en place
+*** Architecte Logiciel pour aller vers des services de tailles raisonnables (micro ou non), de la clean architecture et du KISS (Keep It Simple, Small - NDLR : je préfère Small)
+*** Développeur volontaire (sur la mise en place de pratiques de développement et tenant  les délais de livraison de fonctionnalités métier)
+
