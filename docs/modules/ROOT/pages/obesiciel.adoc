@@ -8,3 +8,7 @@ Dans le monde Java, il est difficile d'avoir une base de 200'000 lignes de code 
 Taille max d'un soft maintenable
 Taille max d'un soft qu'on peut ré-écrire
 Taille max de votre soft ? le plus petit critère précédent
+
+
+Obsolescence fonctionnelle (le business ou l'usage des utilisateurs bouge) et techniques (patch de sécu, fin de support)
+Dette fonctionnelle (vision produit floue, raccourci pour atteindre le marché tôt ou pour le sonder) et techniques (raccourcis sur la qualité tenir un délai)
