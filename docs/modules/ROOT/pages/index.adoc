@@ -5,12 +5,12 @@ PermaSoft est l'entreprise unipersonnelle de xref:contact.adoc[Nicolas Fédou], 
 Pendant que votre business pivote, s'adapte et grandit, les logiciels à succès ont tendances à grossir.
 Les nouvelles fonctionnalités s'intègrent dans une base de code existante qui décrit une version passée et obsolète de votre business.
 Il faut une bonne maîtrise du développement logiciel pour éviter que la version suivante de votre logiciel n'ai pas marques de votre business passé, d'obsolescence fonctionnelle.
-Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à xref:obesiciel.adoc[devenir un obésiciel].
+Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à xref:opinions/obesiciel.adoc[devenir un obésiciel].
 De même, le code qui supporte vos fonctionnalités est construit avec des outils qui évoluent fonctionnellement ou en corrigeant leurs failles et impliquent une obsolescence technique qui mérite aussi de l'attention.
 
 == Par xref:services.adoc[des interventions pragmatiques]
 
-Par des interventions des plus légères \(diagnostiques, audits\) au plus complètes \(mentorat, développement\), je vous accompagne dans le maintien de vos logiciels dans de xref:maintenabilite.adoc[bonnes conditions de maintenabilité] et de xref:productivite.adoc[productivité de vos projets informatiques].
+Par des interventions des plus légères \(diagnostiques, audits\) au plus complètes \(mentorat, développement\), je vous accompagne dans le maintien de vos logiciels dans de xref:opinions/maintenabilite.adoc[bonnes conditions de maintenabilité] et de xref:opinions/productivite.adoc[productivité de vos projets informatiques].
 
 * Les diagnostics sont des entretiens en distanciels facturés aux temps permettant d'avoir des premières pistes pour passer un obstacle à moindre frais.
 * Les audits sont des diagnostics à 360° de votre contexte et de vos solutions avec des interviews de personnes clefs et une analyse du code et des symptômes que vous me remontez.

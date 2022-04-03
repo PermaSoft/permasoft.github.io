@@ -1,8 +1,15 @@
-* xref:index.adoc[PermaSoft]
-* xref:maintenabilite.adoc[La maintenabilité d’un logiciel]
-* xref:metaphores.adoc[Une bonne métaphore et une mauvaise métaphore]
-* xref:obesiciel.adoc[Obésiciel, le destin naturel des logiciels à succès]
-* xref:permaculture.adoc[Mon intérêt pour la PermaCulture]
-* xref:productivite.adoc[Cycle de production logiciel]
+// * xref:index.adoc[PermaSoft]
 * xref:services.adoc[Mes Offres De Services]
-* xref:contact.adoc[Lettre à mon futur client]
+* xref:contact.adoc[Lettre À Mon Futur Client]
+//* xref:opinions/index.adoc[Mes Valeurs Et Opinions]
+* Opinions Et Valeurs
+** xref:opinions/maintenabilite.adoc[La Maintenabilité D’Un Logiciel]
+** xref:opinions/metaphores.adoc[Une Bonne Métaphore Et Une Mauvaise Métaphore]
+** xref:opinions/obesiciel.adoc[Obésiciel, Le Destin Naturel Des Logiciels À Succès]
+** xref:opinions/permaculture.adoc[Mon Intérêt Pour La PermaCulture]
+** xref:opinions/productivite.adoc[Cycles De Production Logiciel]
+* xref:jardins/index.adoc[Les Jardins De PermaSoft]
+** Livres
+*** xref:jardins/livres/effective_java_3.adoc[Effective Java 3rd]
+** CodeKatas
+*** xref:jardins/codeKatas/FizzBuzz.adoc[Fizz Buzz]

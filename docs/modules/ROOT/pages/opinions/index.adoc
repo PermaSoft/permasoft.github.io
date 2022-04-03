@@ -1,0 +1,6 @@
+Dans cette section, vous trouverez quelques billets sur ma vision de quelques grands thèmes de l'IT.
+Ces grands thèmes sont plus stables qu'un framework front.
+En lieu et place d'un blog chronologique, je préfère une collection de sujets intemporels.
+
+//inclure un graph obsidian sur la collection de sujets
+

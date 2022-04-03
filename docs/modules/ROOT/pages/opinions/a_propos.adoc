@@ -6,6 +6,6 @@ Cela permet de minimiser ses actions d'une part et d'avoir des effets produits p
 Cela demande plus de réflexion et moins d'actions pour un résultat équivalent.
 On ne va se mentir, nous n'arrêterons pas nos efforts à un résultat équivalent.
 Nous ferons la même quantité d'efforts dans tous les cas, nous irons simplement plus loin.
-Je ne suis pas fans xref:metaphores.adoc[des métaphores de nos métiers], elles forcément trompeuses.
-Je ne vous décrirais donc seulement xref:permaculture.adoc[ce que j'apprécie de la PermaCulture] sans essayer de vous faire passer une petite fleur pour un logiciel.
+Je ne suis pas fans xref:opinions/metaphores.adoc[des métaphores de nos métiers], elles forcément trompeuses.
+Je ne vous décrirais donc seulement xref:opinions/permaculture.adoc[ce que j'apprécie de la PermaCulture] sans essayer de vous faire passer une petite fleur pour un logiciel.
 
