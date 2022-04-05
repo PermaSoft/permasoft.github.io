@@ -13,3 +13,9 @@ ui:
     #url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     url: ./ui/permasoft-ui-default
     snapshot: true
+  supplemental_files: # publish .noJekyll so github pages don't run jekyll (who whypes out ressources starting with _)
+    - path: ui.yml
+      contents: |
+        static_files:
+        - .nojekyll
+    - path: .nojekyll

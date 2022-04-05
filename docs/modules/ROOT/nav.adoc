@@ -8,8 +8,8 @@
 ** xref:opinions/obesiciel.adoc[Obésiciel, Le Destin Naturel Des Logiciels À Succès]
 ** xref:opinions/permaculture.adoc[Mon Intérêt Pour La PermaCulture]
 ** xref:opinions/productivite.adoc[Cycles De Production Logiciel]
-* xref:jardins/index.adoc[Les Jardins De PermaSoft]
-** Livres
-*** xref:jardins/livres/effective_java_3.adoc[Effective Java 3rd]
-** CodeKatas
-*** xref:jardins/codeKatas/FizzBuzz.adoc[Fizz Buzz]
+//* xref:jardins/index.adoc[Les Jardins De PermaSoft]
+//** Livres
+//*** xref:jardins/livres/effective_java_3.adoc[Effective Java 3rd]
+//** CodeKatas
+//*** xref:jardins/codeKatas/FizzBuzz.adoc[Fizz Buzz]
