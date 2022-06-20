@@ -18,4 +18,6 @@ ui:
       contents: |
         static_files:
         - .nojekyll
+        - CNAME
     - path: .nojekyll
+    - path: CNAME
