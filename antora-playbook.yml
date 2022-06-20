@@ -19,8 +19,10 @@ ui:
         static_files:
         - .nojekyll
         - CNAME
+        - favicon.ico
     - path: .nojekyll
     - path: CNAME
       contents: |
         www.permasoft.io
-        
+    - path: favicon.ico
+      contents: freebsd.ico
