@@ -2,12 +2,9 @@
 
 Le nom de PermaSoft est inspiré de celui de la PermaCulture qui est une contraction de "permanent culture".
 La PermaCulture identifie et utilise les forces naturelles pour construire son projet (jardin, agriculture, etc.)
-La PermaCulture s'appuie sur l'environnement et le contexte pour construire son projet sans lutter à contre-courant.
-Cela permet de minimiser ses actions d'une part et d'avoir des effets produits par l'environnement, sans effort de notre part.
-Cela demande plus de réflexion et moins d'actions pour un résultat équivalent.
-On ne va pas se mentir, personne n'arrête ses efforts à un résultat équivalent.
-Nous ferons la même quantité d'efforts dans tous les cas, nous irons simplement plus loin.
-
-Je ne suis pas fans xref:opinions/metaphores.adoc[des métaphores de nos métiers], elles sont forcément limitées dans un cadre que seul l'auteur de la métaphore maîtrise.
-Si l'auditoire raisonne de lui-même avec cette métaphore, sa méconnaissance du cadre où elle est valide l'induira en erreur.
+La PermaCulture s'appuie sur l'environnement et le contexte pour construire son projet en profitant des forces naturelles.
+C'est cet aspect de construction à partir des forces et faiblesses déjà en place qui inspirent le nom de ma société. +
+Je ne fais pas de métaphores entre la permaculture et le développement de logiciel.
+Je ne suis pas fans xref:opinions/metaphores.adoc[des métaphores de nos métiers], elles ne sont valides que dans un cadre que seul l'auteur de la métaphore maîtrise et induit trop souvent les auditeurs en erreur.
+Ceci dis, il existe une métaphore du https://www.methodsandtools.com/archive/softwaregardening.php["Software Gardener"], du logiciel que l'on maintient en bonne santé comme on le ferait pour un jardin ou une fleur.
 Je ne vous décrirais donc seulement xref:opinions/permaculture.adoc[ce que j'apprécie de la PermaCulture] sans essayer de vous faire passer une petite fleur pour un logiciel.
