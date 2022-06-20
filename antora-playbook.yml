@@ -21,3 +21,6 @@ ui:
         - CNAME
     - path: .nojekyll
     - path: CNAME
+      contents: |
+        www.permasoft.io
+        
