@@ -1,6 +1,6 @@
 site:
   title: PermaSoft - une société de conseils en logiciels maintenables
-  url: https://permasoft.io
+  url: https://www.permasoft.io
   start_page: main::index.adoc
 content:
   sources:
@@ -26,3 +26,5 @@ ui:
         www.permasoft.io
     - path: favicon.ico
       contents: freebsd.ico
+output:
+  clean: true
