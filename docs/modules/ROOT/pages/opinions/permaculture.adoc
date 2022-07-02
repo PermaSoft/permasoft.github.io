@@ -40,7 +40,7 @@ Bref, je garde cette idée de partir de la maison, cette zone connue, pour ensui
 Cette approche est une façon de commencer la construction d'un projet de permaculture.
 La construction d'une vision holistique essaye de prendre tous les éléments à notre disposition pour en faire un tout.
 Pour réfléchir l'agriculture, on pense souvent _aux agriculteurs_ et à _leurs outils_.
-Dans une approche holistique, on va y ajouter _du contexte, ce qui entre et sort du système_, comme la rivière d'à voté, le fumier du centre équestre, les graines, ... +
+Dans une approche holistique, on va y ajouter _du contexte, ce qui entre et sort du système_, comme la rivière d'à coté, le fumier du centre équestre, les graines, ... +
 De plus, la Permaculture est une agriculture permanente basée sur l'observation, l'analyse et le design de ce qui est permanent.
 Autrement dit, elle est basée sur les connaissances des anciens.
 On ajoutera donc une étude _des traditions_, habitudes et méthodes d'aujourd'hui.
@@ -54,16 +54,18 @@ L'étude préalable au démarrage de projet de Permaculture prend donc en compte
 
 Le cycle de la nature se faisant à l'année, cette étude préalable peut prendre un an lorsqu'il n'y a pas d'urgence (comme relancer l'agriculture d'une région après un désastre - guerre, sauterelles, ...).
 
-Il me semble que cette "checklist" est un bon point de départ pour construire une équipe, faire de l'architecture et/ou faire de l'architecture socio-technique (construire des équipes qui ressemblent au SI à construire, cf loi de conway, team topologies).
+Il me semble que cette "check list" est un bon point de départ pour construire une équipe, faire de l'architecture et/ou faire de l'architecture socio-technique (construire des équipes qui ressemblent au SI à construire, cf loi de conway, team topologies).
+
+Pour un projet ou un produit, cette check list peut devenir :
+
+* Les acteurs : le sponsor qui finance, les utilisateurs/clients, les équipes de réalisations (PO, BA, DEV, QA, UX, ...), oui, tout ceux qui interagissent avec le système construit ou à construire
+* Les traditions : l'ensemble des actions sur le projet (aka : la culture d'entreprise), le savoir-faire actuel
+* Les sciences : le craft, lean, agile, mais aussi les technologies (Cloud, CI/CD, ..), voire les opportunités ?
+* Le contexte : le marché, suivi de notre stratégie pour s'y positionner
 
 === Horizons de réflexions et Alignement sur la vision
 
-La nature est un système résilient qui se répare lui-même.
-Comme pour la médecine, un premier principe est de ne pas faire de mal, de travailler avec la nature, pas contre elle.
-On l'observe et on en tire des leçons.
-Comme si en informatique, l'humanité ou l'équipe était le cœur du système étudié.
-
-Pour être aligné sur la Permaculture, ils utilisent un équivalent à 4 étages des horizons de GTD (Getting Things Done) :
+Pour être aligné sur la vision de la Permaculture, ils utilisent un équivalent à 4 étages des horizons de GTD (Getting Things Done) qu'Yves appelle un Mandala Holistique :
 
 1. Éthique
 2. Principes
@@ -98,10 +100,48 @@ Enfin, les techniques s'occupent d'exécuter au mieux la stratégie.
 
 == Chronologie et gestion des activités
 
-Pour définir la stratégie et les techniques, nous sortons du monde de la réflexion, de l'étude du problème et nous entrons le monde opérationnel, de la définition d'une solution.
+Pour définir la stratégie et les techniques, nous sortons du monde de la réflexion, de l'étude du problème et nous entrons le monde opérationnel, de la définition d'une solution. +
+La méthode qui suit est itérative comme un https://fr.wikipedia.org/wiki/Roue_de_Deming#D%C3%A9marche_d'utilisation[P.D.C.A.] sauf qu'il porte sur un projet complet donc un sur un temps plus long.
+Cette méthode se nomme OBREDIM :
 
-OBREDIM
+1. Observation
+2. Bordures
+3. Ressources
+4. Evaluation
+5. Design
+6. Implémentation
+7. Maintenance
 
+=== Observation
 
+Du + proche au + lointain
+
+s'observer soi-même
 
 5 zones
+
+=== Bordures
+
+Connaitre et rendre explicite les bordures, les diversifier
+
+=== Ressources
+
+Tout élément utile ou présent.
+
+Tous matériaux que l'on a sous la main, y compris le plastique
+
+=== Evaluation
+
+Simuler la dynamique des ressources
+
+=== Design
+
+Fusionner les rêves, besoins, envies et projets de vie de chacun en ayant en tête le Mandala Hollistique
+
+=== Implémentation
+
+Construction et mise en oeuvre
+
+=== Maintenance
+
+Maintien du système en place et observations pour ajuster et relancer un tour de cycle.
