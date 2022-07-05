@@ -112,36 +112,34 @@ Cette méthode se nomme OBREDIM :
 6. Implémentation
 7. Maintenance
 
-=== Observation
+Cette première phase d'Observation est une phase d'étude de l'existant, du plus proche au plus éloigné et sans jugement.
+C'est le moment de collecter de l'information, d'identifier les bordures, de lister les ressources, ...
+On en profite aussi pour s'observer soi-même ainsi que l'ensemble des acteurs du projet.
 
-Du + proche au + lointain
+Ensuite, on identifie les bordures et on liste ce qui rentre et sort du système actuel.
+On continue avec la liste des ressources présentes dans le système des plantes, aux animaux en passant par les matériaux, même non recyclables, mais aussi celles qui nous seront utiles et qui ne sont pas encore dans le ssytème.
 
-s'observer soi-même
+Tout ce qui précède nous donne une vision statique du système existant et du système à construire.
+L'étape d'évaluation consiste à regarder la dynamique de ces ressources et leurs interactions.
 
-5 zones
+Le temps du design est le moment où l'on applique l'art du placement dans l'espace et dans le temps.
+C'est un moment où l'on garde le mandala holistique et où l'on fusionne les rêves, les besoins et les envies de chacun.
 
-=== Bordures
+Une fois les décisions prises, viens le temps de l'action, de l'implémentation dans le terrain.
+Finalement, une fois construit votre nouveau système, il faut le maintenir et l'observer pour l'ajuster aux besoins initiaux ou aux nouveaux besoins et envies.
 
-Connaitre et rendre explicite les bordures, les diversifier
+== Template de placement
 
-=== Ressources
+Dernier élément qui m'a plus dans ce week-end d'introduction à la Permaculture, c'est le zonage, une façon de ranger les choses.
+La zone 0 est son propre habitat, où l'on est. +
+La zone 1 est la zone quotidienne, où l'on passe tous les jours.
+On y trouve les herbes aromatiques, le potager. +
+La zone 2 est la zone hebdomadaire où l'on passe une à deux fois par semaines.
+On y trouve les arbres greffés. +
+La zone 3 est moins fréquenté et est dédiée aux grands arbres, aux ruches. +
+La zone 4 est peu fréquenté assez sauvage où l'on fait de la cueillette.
+La zone 5 est inexploitée et permet d'observer la nature sans intervention humaine.
 
-Tout élément utile ou présent.
+On y voit un critère de rangement par fréquentation naturelles.
+On retrouve ce type de raisonnement d'optimisation du ratio effort/effet dans les cartographies de Wardley et dans la https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40[matrice de capacités métiers versus la complexité métier].
 
-Tous matériaux que l'on a sous la main, y compris le plastique
-
-=== Evaluation
-
-Simuler la dynamique des ressources
-
-=== Design
-
-Fusionner les rêves, besoins, envies et projets de vie de chacun en ayant en tête le Mandala Hollistique
-
-=== Implémentation
-
-Construction et mise en oeuvre
-
-=== Maintenance
-
-Maintien du système en place et observations pour ajuster et relancer un tour de cycle.
