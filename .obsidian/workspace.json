@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contact.md",
+                "file": "salon/metaphores.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contact.md",
+                "file": "salon/metaphores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contact.md",
+                "file": "salon/metaphores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contact.md"
+                "file": "salon/metaphores.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   "active": "82cb7172377d6b76",
   "lastOpenFiles": [
     "accueil.md",
+    "contact.md",
     "salon/permaculture.md",
     "salon/obesiciel.md",
     "services.md",
@@ -150,7 +151,6 @@
     "jardins/codeKatas/FizzBuzz.md",
     "salon/_productivite.md",
     "salon/_maintenabilite.md",
-    "salon/a_propos.md",
-    "salon/metaphores.md"
+    "salon/a_propos.md"
   ]
 }

@@ -9,13 +9,10 @@ Je leur permets de reprendre le contrôle sur leur patrimoine logiciel et d'avoi
 Le bénéfice principal étant de retrouver un logiciel capable d'évoluer à la vitesse du business du client sans défaut et qu'on ne décommissionne pas.
 
 J'interviens souvent avec un rôle de développeur mentor, co-Tech Lead ou encore en coaching technique pour déployer les préconisations d'un audit réalisé par moi-même ou par un pair.
-Je constitue parfois des diagnostics facturés au temps passé pour résoudre un problème rapide.
+Je réalise donc des audits ou des accompagnements pour remettre l'IT sur de bons rails.
 Certains clients me délèguent la réalisation d'une capacité fonctionnelle ou technique que le quotidien ne leur permet pas.
-Vous savez cette fameuse fonctionnalité importante qui vous aiderai, mais qui sera toujours moins prioritaire, moins urgente que la fonctionnalité suivante.
+Vous savez cet outil annexe qui vous aiderai beaucoup, mais qui ne pars pas en production et sera toujours moins prioritaire, moins urgente que la fonctionnalité métier suivante.
 Vous pouvez consulter le détail de [mes offres sur la page dédiée](services).
 
-Je vous remercie de l'intérêt que vous portez à mon travail et à ma vision de notre métier.
-
 En espérant pouvoir collaborer avec vous,
-
 Nicolas Fédou.
