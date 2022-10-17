@@ -27,3 +27,5 @@ Lorsque j'ai un peu de disponibilité, je peux prendre une heure au déjeuner ou
 	* Co-Tech Lead sur le partage de bonnes pratiques de développement et leur mise en place
 	* Architecte Logiciel pour aller vers des services de tailles raisonnables (micro ou non), de la clean architecture et du KISS (Keep It Simple, Small - NDLR : je préfère Small)
 	* Développeur volontaire (sur la mise en place de pratiques de développement et tenant les délais de livraison de fonctionnalités métier)
+
+<span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>

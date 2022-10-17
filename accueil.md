@@ -2,8 +2,8 @@ PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se pr
 
 <span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
-titre
-===
+<p> </p>
+
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
 Pendant que votre business pivote, s'adapte et grandit, les logiciels à succès ont tendances à grossir.
