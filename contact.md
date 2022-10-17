@@ -2,9 +2,9 @@ Bonjour,
 
 Je suis Nicolas Fédou, développeur back Java et coach technique.
 J'aime l'informatique depuis que je compose des commandes avec Linux. Assembler des commandes, des objets, des composants, des pipelines, c'est comme jouer aux Légo pour moi.
-Depuis mes premières missions, j'ai toujours cherché à améliorer les conditions de travail de l'équipe par des petits scripts, puis de la CI/CD et depuis quelques années avec de la montée en compétence sur les bonnes pratiques de développement agile, le craftsmanship.
+Depuis mes premières missions, j'ai toujours cherché à améliorer les conditions de travail de l'équipe par des petits scripts, puis de la CI/CD et depuis quelques années avec de la montée en compétence sur les bonnes pratiques de développement agile, [le craftsmanship/artisanat logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr).
 
-Je travaille généralement avec des entreprises dont le logiciel est victime de son succès et commence à perdre en productivité ou en fiabilité.
+Je travaille généralement avec des entreprises dont le logiciel est victime de son succès et commence à perdre en productivité et/ou en fiabilité.
 Je leur permets de reprendre le contrôle sur leur patrimoine logiciel et d'avoir des développeurs qui maitrisent un savoir-faire proche de l'état de l'art.
 Le bénéfice principal étant de retrouver un logiciel capable d'évoluer à la vitesse du business du client sans défaut et qu'on ne décommissionne pas.
 
