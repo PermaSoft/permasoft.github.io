@@ -1,5 +1,8 @@
 {
   "theme": "system",
   "translucency": true,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "align"
+  ]
 }
