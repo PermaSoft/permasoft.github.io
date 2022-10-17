@@ -18,4 +18,4 @@ Par [des interventions des plus légères (diagnostiques, audits) au plus compl�
 * Les audits sont des diagnostics à 360° de votre contexte et de vos solutions avec des interviews de personnes clefs et une analyse du code et des symptômes que vous me remontez.
 * Les accompagnements sont des aides à la mise en place de préconisations d'un audit, d'une demande client ou de bonnes pratiques de développement agile (Coaching Craft, Coaching Technique).
 	* Ces accompagnements peuvent être planifiés et rythmés par semaines ou plus légers en panier d'heures de disponibilité
-* Les développements sont les réalisations opérationnelles comme n'importe quel développeurs ou des réalisations hors opérations/production pour améliorer vos conditions de travail, car on sait qu'il y aura toujours un sujet plus urgent que ce tuning de la CI
+* Les développements sont les réalisations opérationnelles comme n'importe quel développeur ou des réalisations hors opérations/production pour améliorer vos conditions de travail, car on sait qu'il y aura toujours un sujet plus urgent que ce tuning de la CI, cette mise en place de tests un peu fastidieuse, etc...
