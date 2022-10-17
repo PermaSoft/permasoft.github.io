@@ -9,6 +9,8 @@ Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajouta
 
 De même, le code qui supporte vos fonctionnalités est construit avec des outils qui évoluent fonctionnellement ou en corrigeant leurs failles et impliquent une obsolescence technique qui mérite aussi de l'attention.
 
+
+
 ## Par des interventions pragmatiques
 
 Par [des interventions des plus légères (diagnostiques, audits) au plus complètes (mentorat, développement)](services), je vous accompagne dans le maintien de vos logiciels dans de bonnes conditions de maintenabilité et de productivité de vos projets informatiques.
