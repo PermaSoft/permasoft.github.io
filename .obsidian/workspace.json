@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "85260dad07f22320",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cc0f918f3dc2fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cb7172377d6b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "accueil.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c637ec4d74332996",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d21fb785a5baec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267ea05465f6d52a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72663ec2a0bb3da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5d4201e90ec613c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1120032ef0a19f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "afa426ea91de6273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09dd8dd1536dac81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "accueil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9962a9c99b577655",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "accueil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68d6582b0e3ccaaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "479958abbdab73f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "accueil.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "479958abbdab73f6",
+  "lastOpenFiles": [
+    "services.md",
+    "sevices.md",
+    "jardins/codeKatas/FizzBuzz.md",
+    "salon/_productivite.md",
+    "salon/_maintenabilite.md",
+    "salon/a_propos.md",
+    "salon/permaculture.md",
+    "salon/obesiciel.md",
+    "salon/metaphores.md",
+    "salon/index.md"
+  ]
+}
