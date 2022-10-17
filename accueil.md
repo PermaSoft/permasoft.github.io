@@ -1,4 +1,9 @@
-PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se propose comme [développeur, coach technique, conseiller en IT](services) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
+PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se propose comme [développeur, coach technique, conseiller en IT](Offres%20de%20services.md) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
+
+LinkedIn
+Twitter
+Github
+Github
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
@@ -13,7 +18,7 @@ Cette intention de rendre le code maintenable à long terme et adapté à votre 
 
 ## Par des interventions pragmatiques
 
-Par [des interventions des plus légères (diagnostiques, audits) au plus complètes (mentorat, développement)](services), je vous accompagne dans le développement de vos logiciels dans de bonnes conditions de maintenabilité et de productivité de vos projets informatiques.
+Par [des interventions des plus légères (diagnostiques, audits) au plus complètes (mentorat, développement)](Offres%20de%20services.md), je vous accompagne dans le développement de vos logiciels dans de bonnes conditions de maintenabilité et de productivité de vos projets informatiques.
 
 * Les audits sont des diagnostics à 360° de votre contexte et de vos solutions avec des interviews de personnes clefs et une analyse du code et des symptômes que vous me remontez.
 * Les accompagnements sont des aides à la mise en place de préconisations d'un audit, d'une demande client ou de bonnes pratiques de développement agile (Coaching Craft, Coaching Technique).
