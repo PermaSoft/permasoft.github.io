@@ -1,7 +1,7 @@
 PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se propose comme [développeur, coach technique, conseiller en IT](Offres%20de%20services.md) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
 
-|---|---|---|---|
 |[LinkedIn](https://www.linkedin.com/in/nicolas-fedou/)|[Twitter](https://twitter.com/CoulasFedou)|[Github](https://github.com/coulas)|[Github](https://github.com/PermaSoft)|
+|---|---|---|---|
 
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
