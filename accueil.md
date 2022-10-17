@@ -3,7 +3,6 @@ PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se pr
 |[LinkedIn](https://www.linkedin.com/in/nicolas-fedou/)|[Twitter](https://twitter.com/CoulasFedou)|[Github](https://github.com/coulas)|[Github](https://github.com/PermaSoft)|
 |---|---|---|---|
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
