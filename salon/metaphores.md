@@ -28,8 +28,7 @@ Finalement, les développeurs codent une comparaison implicite entre une activit
 
 ## La bonne métaphore est une métaphore du système
 
-La méthodologie XP de Kent Beck décris cette méc
-[*UNE métaphore* du produit/du système](https://xp123.com/articles/the-system-metaphor/)
+La méthodologie XP de Kent Beck décris cette mécanique de métaphore comme [Will Wake le fait sur son superbe site](https://xp123.com/articles/the-system-metaphor/). De nos jours, les systèmes sont moins exotiques
 
 Le logiciel à des entrées/sorties qui lui permettent d'interagir avec le monde (clavier, souris, réseau, écrans, disque dur, api tierces) de manière numérique.
 Le code va donc réaliser une activité numérique qui remplacera ou aurait pu être une activité physique.
