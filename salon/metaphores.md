@@ -1,4 +1,4 @@
- La Métaphore du développeur
+## La Métaphore du développeur n'est pas la bonne
 
 Les métaphores de notre métier avec les bâtisseurs, les chirurgiens, les artisans ou les jardiniers ont des limites de validité que seul les développeurs peuvent identifier.
 L'auditoire qui n'est pas du métier va appliquer la métaphore complète sur notre métier sans en connaitre les limites... 
