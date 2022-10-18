@@ -8,15 +8,15 @@ Quand la métaphore n'est plus valide, les raisonnement deviennent surprenant, d
 - Les chirurgiens suivent un protocole strict établi et reconnu quand ils réparent leur code.
 - Les artisans sont très fiers de leur brioche parfaite et "inimitable".
 - Les jardiniers entretiennent des IAs qui se développent avec de l'eau, du soleil et de l'autonomie
+Les personnes intelligentes dont je parle sont des collègues ou des clients ayant d'autres métiers que le développement et on fait des erreurs de raisonnement avec nos métaphores, bien plus petites, légères et/ou fines que les précédentes, mais tout de même, ils s'étaient fait de mauvaises idées avec nos belles métaphores.
 
-Ils se construiront donc des idées erronées de notre métier.
-
-La seule manière de décrire notre métier est de parler de notre métier.
+J'ai le sentiment que la seule manière de décrire notre métier est de parler de notre métier.
 Il n'y a pas de raccourcis. 
 Nous devons comprendre le problème à résoudre de nos utilisateurs souvent humains pour exprimer une solution souvent numérique.
 Une solution numérique est un comportement que devra avoir la machine.
-L'expression de cette solution (NDLR: du code) doit être formel pour la machine puisse l'appliquer et exhaustive pour que la machine ne plante pas sur un cas inconnu.
-En fin, cette expression doit aussi être compréhensible par le futur développeur qui maintiendra cette solution.
+L'expression de cette solution (NDLR: du code) doit être formel pour que la machine puisse l'appliquer et exhaustive pour que la machine ne plante pas sur un cas inconnu.
+Et pour les artisans développeurs, cette expression doit aussi être compréhensible par le futur développeur qui maintiendra cette solution.
+
 
 ## La bonne métaphore est une métaphore du système
 
