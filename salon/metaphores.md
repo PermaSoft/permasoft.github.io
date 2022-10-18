@@ -1,6 +1,8 @@
 ## La Métaphore du développeur n'est pas la bonne
 
 Les métaphores de notre métier avec les bâtisseurs, les chirurgiens, les artisans ou les jardiniers ont des limites de validité que seul les développeurs peuvent identifier.
+Chaque métaphore que l'on utilise sers d'image pour passer un message. Une fois le message transmis, le message et la métaphore restent en tête de l'auditoire.
+J'ai trop régulièrement discuté avec ces personnes qui continuaient la métaphore au-dela du message d'origine
 L'auditoire qui n'est pas du métier va appliquer la métaphore complète sur notre métier sans en connaitre les limites... 
 Ils se construiront donc des idées erronées de notre métier.
 
