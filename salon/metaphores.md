@@ -24,10 +24,11 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 3. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Hexagonal Architecture, ...)
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
-Finalement, les développeurs codent *UNE métaphore* du produit/du système réel.
+Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, *UNE métaphore* du produit/du système réel.
 
 ## La bonne métaphore est une métaphore du système
 
+La méthodologie XP de Kent Beck 
 [*UNE métaphore* du produit/du système](https://xp123.com/articles/the-system-metaphor/)
 
 Le logiciel à des entrées/sorties qui lui permettent d'interagir avec le monde (clavier, souris, réseau, écrans, disque dur, api tierces) de manière numérique.
