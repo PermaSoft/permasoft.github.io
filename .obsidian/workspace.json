@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offres de services.md",
+                "file": "accueil.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ff10c0199fc9f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "salon/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offres de services.md",
+                "file": "accueil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offres de services.md",
+                "file": "accueil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offres de services.md"
+                "file": "accueil.md"
               }
             }
           }
@@ -142,15 +155,15 @@
   },
   "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
-    "contact.md",
+    "salon/index.md",
     "accueil.md",
-    "Offres de services.md",
     "salon/a_propos.md",
+    "salon/_productivite.md",
+    "salon/_maintenabilite.md",
+    "Offres de services.md",
+    "contact.md",
     "salon/metaphores.md",
     "salon/permaculture.md",
-    "salon/obesiciel.md",
-    "sevices.md",
-    "jardins/codeKatas/FizzBuzz.md",
-    "salon/_productivite.md"
+    "salon/obesiciel.md"
   ]
 }
