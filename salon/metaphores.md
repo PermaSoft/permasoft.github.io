@@ -2,8 +2,9 @@
 
 Les métaphores de notre métier avec les bâtisseurs, les chirurgiens, les artisans ou les jardiniers ont des limites de validité que seul les développeurs peuvent identifier.
 Chaque métaphore que l'on utilise sers d'image pour passer un message. Une fois le message transmis, le message et la métaphore restent en tête de l'auditoire.
-J'ai trop régulièrement discuté avec ces personnes qui continuaient la métaphore au-dela du message d'origine
-L'auditoire qui n'est pas du métier va appliquer la métaphore complète sur notre métier sans en connaitre les limites... 
+J'ai trop régulièrement discuté avec des personnes intelligentes qui continuaient la métaphore au-delà du message d'origine.
+Quand la métaphore n'est plus valide, les raisonnement deviennent surprenant.
+Les bâty
 Ils se construiront donc des idées erronées de notre métier.
 
 La seule manière de décrire notre métier est de parler de notre métier.
