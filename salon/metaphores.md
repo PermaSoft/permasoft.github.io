@@ -15,10 +15,7 @@ Il n'y a pas de raccourcis.
 Nous devons comprendre le problème à résoudre de nos utilisateurs souvent humains pour exprimer une solution souvent numérique.
 Une solution numérique est un comportement que devra avoir la machine.
 L'expression de cette solution (NDLR: du code) doit être formel pour que la machine puisse l'appliquer et exhaustive pour que la machine ne plante pas sur un cas inconnu.
-Et pour les artisans développeurs, cette expression doit aussi être compréhensible par le futur développeur qui maintiendra cette solution.
-( Oui, il n'y a pas besoin d'être Craft pour souhaiter faire du code maintenable. )
-
-## La bonne métaphore est une métaphore du système
+Et pour les développeurs (souvent artisans), cette expression doit aussi être compréhensible par le futur développeur qui maintiendra cette solution.
 
 Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 
@@ -27,7 +24,11 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 3. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Hexagonal Architecture, ...)
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
-Finalement, les développeurs codent [*UNE métaphore* du produit/du système](https://xp123.com/articles/the-system-metaphor/).
+Finalement, les développeurs codent *UNE métaphore* du produit/du système réel.
+
+## La bonne métaphore est une métaphore du système
+
+[*UNE métaphore* du produit/du système](https://xp123.com/articles/the-system-metaphor/)
 
 Le logiciel à des entrées/sorties qui lui permettent d'interagir avec le monde (clavier, souris, réseau, écrans, disque dur, api tierces) de manière numérique.
 Le code va donc réaliser une activité numérique qui remplacera ou aurait pu être une activité physique.
