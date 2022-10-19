@@ -24,7 +24,7 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 3. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Hexagonal Architecture, ...)
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
-Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, *UNE métaphore* du produit/du système réel.
+Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, [*UNE métaphore*](https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation)(https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation) du produit/du système réel.
 
 ## La bonne métaphore est une métaphore du système
 
@@ -32,12 +32,5 @@ La méthodologie XP de Kent Beck décris cette mécanique de métaphore comme [W
 Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
 Dans mon contexte remplis "d'applications métier", les métaphores naïves mais approfondies par une exploration du domaine me semblent suffisantes.
 Les pratiques de "knowledge crunching", event storming, domain modeling, domain story telling ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
-J'ai l'impression que la modélisation du domaine adressée par le Domain Driven Design a pris le relai sur ces métaphores du systèmes.
+J'ai l'impression que la modélisation du domaine adressée par le Domain Driven Design a pris le relai sur ces métaphores du systèmes, pas vous ?
 
-Le logiciel à des entrées/sorties qui lui permettent d'interagir avec le monde (clavier, souris, réseau, écrans, disque dur, api tierces) de manière numérique.
-Le code va donc réaliser une activité numérique qui remplacera ou aurait pu être une activité physique.
-Nous vivons dans un monde physique et nos "entrées/sorties" sont nos sens et notre corps.
-Nous imaginons le comportement du logiciel depuis notre monde physique.
-Le logiciel ne perçois que le monde numérique.
-Nous expliquons aux machines le comportement qu'elles doivent avoir à l'aide de code adaptant notre contexte physique à son contexte numérique.
-Ce code du logiciel est [une métaphore](https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation), une représentation numérique limitée de l'activité physique, nécessaire et suffisante pour que le logiciel ait les effets attendus.
