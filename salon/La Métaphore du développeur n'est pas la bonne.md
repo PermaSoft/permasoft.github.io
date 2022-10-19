@@ -32,6 +32,6 @@ Les métaphores étaient une façon d'imaginer la solution a mettre en place, un
 Cette pratique a été mise de coté car les métaphores ont des limites de validité/pertinence et sont finalement peu alignées avec la solution à mettre en œuvre.
 Le besoin reste et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
 
-Ce terme de modélisation du domaine viens du "Domaine Driven Design" et de ses pratiques de "knowledge crunching". 
-Elles ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
+Ce terme de modélisation du domaine viens du ["Domain Driven Design"](https://github.com/ddd-crew/welcome-to-ddd) et de ses pratiques de "[knowledge crunching]". 
+Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
 
