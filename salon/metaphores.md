@@ -28,9 +28,10 @@ Finalement, les développeurs codent une comparaison implicite entre une activit
 
 ## La bonne métaphore est une métaphore du système
 
-La méthodologie XP de Kent Beck décrit cette mécanique de métaphore comme [Will Wake le fait sur son superbe site](https://xp123.com/articles/the-system-metaphor/). 
+La méthodologie XP de Kent Beck décrit cette mécanique de métaphore comme le décrit [Will Wake sur son site xp123](https://xp123.com/articles/the-system-metaphor/). 
 Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
 Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'explorer les solutions possibles.
+Cette pratique a été mise de coté car les métaphores ont des limites et il est rare de trouver une métaphore qui couvre un ensemble
 Quelques années plus tard, on parle de modélisation du domaine et on ne parle plus que "d'applications métiers".
 La solution moderne semble être cette métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait).
 
