@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "salon/La Métaphore du développeur n'est pas la bonne.md",
+                "file": "salon/La métaphore du développeur n'est pas la bonne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salon/La Métaphore du développeur n'est pas la bonne.md",
+                "file": "salon/La métaphore du développeur n'est pas la bonne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "salon/La Métaphore du développeur n'est pas la bonne.md",
+                "file": "salon/La métaphore du développeur n'est pas la bonne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "salon/La Métaphore du développeur n'est pas la bonne.md"
+                "file": "salon/La métaphore du développeur n'est pas la bonne.md"
               }
             }
           }
@@ -143,7 +143,7 @@
   "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
     "salon/La bonne métaphore est une métaphore du système.md",
-    "salon/La Métaphore du développeur n'est pas la bonne.md",
+    "salon/La métaphore du développeur n'est pas la bonne.md",
     "salon/index.md",
     "accueil.md",
     "salon/a_propos.md",

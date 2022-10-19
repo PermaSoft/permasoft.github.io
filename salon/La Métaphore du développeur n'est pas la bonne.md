@@ -34,4 +34,5 @@ Le besoin reste et quelques années plus tard, la solution moderne semble être 
 
 Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
 Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
-
+Et comme on dis : Tous les modèles sont faux mais certains sont utiles !
+Mais ça, c'est une autre histoire !
