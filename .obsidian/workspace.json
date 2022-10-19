@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index_of_PermaSoft.md",
+                "file": "bibliothèque/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index_of_PermaSoft.md",
+                "file": "bibliothèque/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index_of_PermaSoft.md",
+                "file": "bibliothèque/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index_of_PermaSoft.md"
+                "file": "bibliothèque/index.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
+    "bibliothèque/Index_of_bibliothèque.md",
+    "jardins/codeKatas/Index_of_codeKatas.md",
     "salon/Index_of_salon.md",
-    "salon/obesiciel.md",
     "Index_of_PermaSoft.md",
+    "salon/obesiciel.md",
     "github_logo.png",
     "salon/index.md",
     "salon/La métaphore du développeur n'est pas la bonne.md",
     "salon/La bonne métaphore est une métaphore du système.md",
-    "accueil.md",
-    "salon/a_propos.md",
-    "bibliothèque/index.md"
+    "accueil.md"
   ]
 }
