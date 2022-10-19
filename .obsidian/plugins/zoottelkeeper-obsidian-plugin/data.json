@@ -1,5 +1,5 @@
 {
-  "indexPrefix": "Index_of_",
+  "indexPrefix": "",
   "indexItemStyle": "pureLink",
   "indexTagValue": "MOC",
   "indexTagBoolean": true,
@@ -9,11 +9,11 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": true,
-  "foldersExcluded": "*.png\n*.ico\n_*",
+  "foldersExcluded": "\n",
   "foldersIncluded": "*",
   "sortOrder": "asc",
   "addSquareBrackets": true,
-  "embedSubIndex": true,
+  "embedSubIndex": false,
   "templateFile": "",
   "frontMatterSeparator": "---"
 }
