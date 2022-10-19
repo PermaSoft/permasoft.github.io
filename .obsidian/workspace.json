@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "salon/index.md",
-                "mode": "source",
+                "file": "salon/Index_of_salon.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salon/index.md",
+                "file": "salon/Index_of_salon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "salon/index.md",
+                "file": "salon/Index_of_salon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "salon/index.md"
+                "file": "salon/Index_of_salon.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
+    "Index_of_PermaSoft.md",
+    "salon/index.md",
     "salon/La métaphore du développeur n'est pas la bonne.md",
     "salon/La bonne métaphore est une métaphore du système.md",
-    "salon/index.md",
     "accueil.md",
     "salon/a_propos.md",
     "bibliothèque/index.md",
     "salon/_productivite.md",
     "salon/_maintenabilite.md",
-    "Offres de services.md",
-    "contact.md"
+    "Offres de services.md"
   ]
 }
