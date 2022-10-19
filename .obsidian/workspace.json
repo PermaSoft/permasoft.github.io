@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Index_of_PermaSoft.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -142,15 +142,15 @@
   },
   "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
-    "salon/Index_of_salon.md",
+    "github_logo.png",
     "Index_of_PermaSoft.md",
+    "salon/Index_of_salon.md",
     "salon/index.md",
     "salon/La métaphore du développeur n'est pas la bonne.md",
     "salon/La bonne métaphore est une métaphore du système.md",
     "accueil.md",
     "salon/a_propos.md",
     "bibliothèque/index.md",
-    "salon/_productivite.md",
-    "salon/_maintenabilite.md"
+    "salon/_productivite.md"
   ]
 }

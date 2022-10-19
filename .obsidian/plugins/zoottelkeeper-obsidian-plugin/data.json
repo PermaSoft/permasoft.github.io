@@ -1,6 +1,6 @@
 {
   "indexPrefix": "Index_of_",
-  "indexItemStyle": "list",
+  "indexItemStyle": "pureLink",
   "indexTagValue": "MOC",
   "indexTagBoolean": true,
   "indexTagSeparator": ", ",
