@@ -1,5 +1,3 @@
-## La Métaphore du développeur n'est pas la bonne
-
 Les métaphores de notre métier avec les bâtisseurs, les chirurgiens, les artisans ou les jardiniers ont des limites de validité que seul les développeurs peuvent identifier.
 Chaque métaphore que l'on utilise sers d'image pour passer un message. Une fois le message transmis, le message et la métaphore restent en tête de l'auditoire.
 J'ai trop régulièrement discuté avec des personnes intelligentes qui continuaient la métaphore au-delà du message d'origine.
@@ -26,14 +24,6 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 
 Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, [*UNE métaphore*](https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation)(https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation) du produit/du système réel.
 
-## La bonne métaphore est une métaphore du système
+[[salon/La bonne métaphore est une métaphore du système]]
 
-La méthodologie XP de Kent Beck décrit cette mécanique de métaphore comme le décrit [Will Wake sur son site xp123](https://xp123.com/articles/the-system-metaphor/). 
-Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
-Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'explorer les solutions possibles.
-Cette pratique a été mise de coté car les métaphores ont des limites et sont peu alignées avec la solution à mettre en œuvre.
-Le besoin reste et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
-
-Les pratiques de "knowledge crunching", event storming, domain modeling, domain story telling ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
-J'ai l'impression que la modélisation du domaine adressée par le Domain Driven Design a pris le relai sur ces métaphores du systèmes, pas vous ?
 
