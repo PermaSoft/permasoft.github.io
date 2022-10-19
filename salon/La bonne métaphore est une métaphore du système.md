@@ -4,6 +4,6 @@ Les métaphores étaient une façon d'imaginer la solution a mettre en place, un
 Cette pratique a été mise de coté car les métaphores ont des limites de validité/pertinence et sont finalement peu alignées avec la solution à mettre en œuvre.
 Le besoin reste et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
 
-Les pratiques de "knowledge crunching", event storming, domain modeling, domain story telling ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
+Les pratiques de "knowledge crunching" ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
 
 

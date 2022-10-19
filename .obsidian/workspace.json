@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "salon/La Métaphore du développeur n'est pas la bonne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4110505aae79f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "salon/La bonne métaphore est une métaphore du système.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ff10c0199fc9f72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "salon/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,14 +140,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ed4110505aae79f4",
+  "active": "21ca88ec87099ab0",
   "lastOpenFiles": [
     "salon/La Métaphore du développeur n'est pas la bonne.md",
+    "salon/index.md",
     "salon/La bonne métaphore est une métaphore du système.md",
     "accueil.md",
     "salon/a_propos.md",
     "bibliothèque/index.md",
-    "salon/index.md",
     "salon/_productivite.md",
     "salon/_maintenabilite.md",
     "Offres de services.md",
