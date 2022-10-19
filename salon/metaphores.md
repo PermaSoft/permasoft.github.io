@@ -28,9 +28,12 @@ Finalement, les développeurs codent une comparaison implicite entre une activit
 
 ## La bonne métaphore est une métaphore du système
 
-La méthodologie XP de Kent Beck décris cette mécanique de métaphore comme [Will Wake le fait sur son superbe site](https://xp123.com/articles/the-system-metaphor/). 
+La méthodologie XP de Kent Beck décrit cette mécanique de métaphore comme [Will Wake le fait sur son superbe site](https://xp123.com/articles/the-system-metaphor/). 
 Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
-Dans mon contexte remplis "d'applications métier", les métaphores naïves mais approfondies par une exploration du domaine me semblent suffisantes.
+Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'xplorer les solutions possibles.
+Quelques années plus tard, on parle de modélisation du domaine et on ne parle plus que "d'applications métiers".
+La solution moderne semble être cette métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait).
+
 Les pratiques de "knowledge crunching", event storming, domain modeling, domain story telling ont toutes pour objectifs de partager et former les développeurs soit sur le problème à résoudre soit sur la solution, le comportement que le système devrait avoir.
 J'ai l'impression que la modélisation du domaine adressée par le Domain Driven Design a pris le relai sur ces métaphores du systèmes, pas vous ?
 
