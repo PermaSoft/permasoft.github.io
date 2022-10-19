@@ -30,7 +30,7 @@ Finalement, les développeurs codent une comparaison implicite entre une activit
 
 La méthodologie XP de Kent Beck décrit cette mécanique de métaphore comme [Will Wake le fait sur son superbe site](https://xp123.com/articles/the-system-metaphor/). 
 Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
-Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'xplorer les solutions possibles.
+Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'explorer les solutions possibles.
 Quelques années plus tard, on parle de modélisation du domaine et on ne parle plus que "d'applications métiers".
 La solution moderne semble être cette métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait).
 
