@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e6a72c1234798c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "village/Quartier TDD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salon/a_propos.md",
+                "file": "village/Quartier TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "salon/a_propos.md",
+                "file": "village/Quartier TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "salon/a_propos.md"
+                "file": "village/Quartier TDD.md"
               }
             }
           }
@@ -140,8 +154,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "21ca88ec87099ab0",
+  "active": "3e6a72c1234798c3",
   "lastOpenFiles": [
+    "salon/a_propos.md",
     "salon/index.md",
     "salon/La métaphore du développeur n'est pas la bonne.md",
     "jardins/Index_of_jardins.md",
@@ -150,7 +165,6 @@
     "jardins/codeKatas/Index_of_codeKatas.md",
     "salon/Index_of_salon.md",
     "Index_of_PermaSoft.md",
-    "salon/obesiciel.md",
-    "github_logo.png"
+    "salon/obesiciel.md"
   ]
 }

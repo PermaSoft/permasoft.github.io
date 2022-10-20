@@ -1,0 +1,1 @@
+Kent Beck, simple design, 3 lois, TPP, triangulation
