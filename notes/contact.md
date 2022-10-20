@@ -16,4 +16,4 @@ Vous pouvez consulter le détail de [mes offres sur la page dédiée](Offres%20d
 
 En espérant pouvoir collaborer avec vous,
 Nicolas Fédou.
-<span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>
+<span class="right-align">[![[assets/linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[assets/twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[assets/github_logo.png|24]]](https://github.com/coulas) [![[assets/github_logo.png|24]]](https://github.com/PermaSoft)</span>

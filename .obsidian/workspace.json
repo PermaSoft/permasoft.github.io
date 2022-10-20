@@ -11,52 +11,32 @@
             "id": "21ca88ec87099ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "salon/a_propos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "3e6a72c1234798c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bibliothèque/TDD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b2079d43df64d23b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "village/Flowcon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "bbce8e04f070c633",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "village/Craft Conf.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -126,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "village/Craft Conf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "village/Craft Conf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "village/Craft Conf.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,8 +156,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bbce8e04f070c633",
+  "active": "267ea05465f6d52a",
   "lastOpenFiles": [
+    "village/Craft Conf.md",
     "village/Flowcon.md",
     "bibliothèque/TDD.md",
     "salon/a_propos.md",
@@ -190,7 +167,6 @@
     "jardins/Index_of_jardins.md",
     "bibliothèque/index.md",
     "bibliothèque/Index_of_bibliothèque.md",
-    "jardins/codeKatas/Index_of_codeKatas.md",
-    "salon/Index_of_salon.md"
+    "jardins/codeKatas/Index_of_codeKatas.md"
   ]
 }
