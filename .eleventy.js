@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
         html: true,
         linkify: true
     };
-    
+
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-attrs'))
