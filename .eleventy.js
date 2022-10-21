@@ -1,8 +1,11 @@
+const markdownIt = require('markdown-it');
+const hljs = require('highlight.js'); // https://highlightjs.org
+
 module.exports = function(eleventyConfig) {
     
-    const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,
+        xhtmlOut: true,
         linkify: true
     };
 
@@ -20,7 +23,17 @@ module.exports = function(eleventyConfig) {
                 match.url = `/notes/${parts[0].trim()}/`;
             }
         })
-    })
+    })({
+        highlight: function (str, lang) {
+          if (lang && hljs.getLanguage(lang)) {
+            try {
+              return hljs.highlight(str, { language: lang }).value;
+            } catch (__) {}
+          }
+      
+          return ''; // use external default escaping
+        }
+      })
     
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
