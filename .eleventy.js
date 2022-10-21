@@ -30,7 +30,7 @@ module.exports = function(eleventyConfig) {
         return md.render(string)
     })
 
-    eleventyConfig.ammendLibrary('md', md);
+    eleventyConfig.amendLibrary('md', md => );
     
     eleventyConfig.addCollection("notes", function (collection) {
         return collection.getFilteredByGlob(["notes/**/*.md", "index.md"]);
