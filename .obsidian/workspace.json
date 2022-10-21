@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/jardins/index.md",
+                "file": "root/salon/obésiciel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root/jardins/index.md",
+                "file": "root/salon/obésiciel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root/jardins/index.md",
+                "file": "root/salon/obésiciel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/jardins/index.md"
+                "file": "root/salon/obésiciel.md"
               }
             }
           }
@@ -194,14 +194,14 @@
   "active": "15e9a0ee37eec2ac",
   "lastOpenFiles": [
     "root/index.md",
-    "jardins.md",
+    "root/salon/obésiciel.md",
+    "root/jardins.md",
     "root/jardins/index.md",
+    "jardins.md",
     "root/contact.md",
     "about.md",
     "CONTRIBUTING.md",
     "README.md",
-    "index.md",
-    "assets/avatar.png",
-    "village/Craft Conf.md"
+    "index.md"
   ]
 }

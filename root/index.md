@@ -2,14 +2,14 @@ PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se pr
 
 <span class="right-align">[![[assets/linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[assets/twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[assets/github_logo.png|24]]](https://github.com/coulas) [![[assets/github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
-Avec ce site web, je vous propose de faire un tour de ma vision dans [mon jardin](jardins/) et de [mes opinions](salon/index) sur notre métier, ainsi que [quelques références](bibliothèque/) et cela commence ici par mes valeurs.
+Avec ce site web, je vous propose de faire un tour de ma vision dans [mon jardin](jardins/) ou mes [[jardins]] et de mes opinions sur notre métier dans [le salon](salon/index), ainsi que quelques références dans [la bibliothèque](bibliothèque/) et cela commence ici par mes valeurs.
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
 Pendant que votre business pivote, s'adapte et grandit, les logiciels à succès ont tendances à grossir.
 Les nouvelles fonctionnalités s'intègrent dans une base de code existante qui décrit une version passée et obsolète de votre business. 
 Il faut une bonne maîtrise du développement logiciel pour éviter que la version suivante de votre logiciel n'ai pas marques de votre business passé, d'obsolescence fonctionnelle.
-Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à [devenir un obésiciel](salon/obesiciel). 
+Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à devenir un [[obésiciel]]. 
 
 De même, le code qui supporte vos fonctionnalités est construit avec des outils qui évoluent fonctionnellement ou en corrigeant leurs failles et impliquent une obsolescence technique qui mérite aussi de l'attention.
 
