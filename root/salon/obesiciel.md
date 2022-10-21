@@ -3,7 +3,8 @@ title: Obésiciel
 layout: default
 
 eleventyNavigation:
-  key: Obésiciel
+  key: obesiciel
+  title: Obésiciel
   parent: salon
   order: 1
 

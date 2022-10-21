@@ -20,15 +20,15 @@
     <table>
         <tr>
             <td>
-                {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+                {{ collections.all | eleventyNavigation | eleventyNavigationToHtml }} <!-- | safe }} -->
             </td>
             <td>
                 <main>
-                    {{content | safe }}
+                    {{content }} <!-- | safe }} -->
                 </main>
             </td>
             <td>
-                {{content.toc | safe}}
+                {{content.toc }} <!-- | safe }} -->
             </td>
         </tr>
     </table>
