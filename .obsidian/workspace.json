@@ -48,12 +48,30 @@
             "id": "36f1cd91088020ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "root/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15e9a0ee37eec2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/jardins/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "root/jardins/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "root/jardins/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "root/jardins/index.md"
+              }
             }
           }
         ],
@@ -169,11 +191,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "267ea05465f6d52a",
+  "active": "15e9a0ee37eec2ac",
   "lastOpenFiles": [
-    "root/jardins/index.md",
-    "jardins.md",
     "root/index.md",
+    "jardins.md",
+    "root/jardins/index.md",
     "root/contact.md",
     "about.md",
     "CONTRIBUTING.md",
