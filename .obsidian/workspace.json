@@ -35,12 +35,25 @@
             "id": "bbce8e04f070c633",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36f1cd91088020ef",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,15 +171,15 @@
   },
   "active": "267ea05465f6d52a",
   "lastOpenFiles": [
+    "root/jardins/index.md",
+    "jardins.md",
+    "root/index.md",
+    "root/contact.md",
+    "about.md",
     "CONTRIBUTING.md",
     "README.md",
     "index.md",
     "assets/avatar.png",
-    "village/Craft Conf.md",
-    "village/Flowcon.md",
-    "bibliothèque/TDD.md",
-    "salon/a_propos.md",
-    "salon/index.md",
-    "salon/La métaphore du développeur n'est pas la bonne.md"
+    "village/Craft Conf.md"
   ]
 }
