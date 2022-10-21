@@ -32,6 +32,17 @@ module.exports = function(eleventyConfig) {
           }
       
           return ''; // use external default escaping
+/* si on veut mettre une classe css sur le code :
+          if (lang && hljs.getLanguage(lang)) {
+            try {
+              return '<pre class="hljs"><code>' +
+                     hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
+                     '</code></pre>';
+            } catch (__) {}
+          }
+      
+          return '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + '</code></pre>';
+ */      
         }
       })
     
