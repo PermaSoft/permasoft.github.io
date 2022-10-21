@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     {% include 'head.html' %}
 </head>
+
 <body>
     <header class="page-header">
         <a href="/" class="page-header__logo" title="Go home">
@@ -16,13 +18,24 @@
         </nav>
     </header>
     <table>
-        <
-    <main>
-        {{content}}
-    </main>
-</table>
+        <tr>
+            <td>
+                {% set navPages = collections.all | eleventyNavigation %}
+                {{ navPages | dump | safe }}
+            </td>
+            <td>
+                <main>
+                    {{content}}
+                </main>
+            </td>
+            <td>
+                {{content.toc}}
+            </td>
+        </tr>
+    </table>
     <footer class="page-footer">
         <small>Copyright {{site.author}}</small>
     </footer>
 </body>
+
 </html>
