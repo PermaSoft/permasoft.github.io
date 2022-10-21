@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
-    .use(require('markdown-it-obsidian'))
+    .use(require('markdown-it-obsidian')())
     .use(require('markdown-it-highlightjs'), { inline: true })
     .use(require('markdown-it-attrs'))
 /*     .use(function(md) {
@@ -26,10 +26,10 @@ module.exports = function(eleventyConfig) {
         })
     })
  */    
-     eleventyConfig.addFilter("markdownify", string => {
+/*      eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
     })
-
+ */
     eleventyConfig.setLibrary('md', md);
     
 /*     eleventyConfig.addCollection("notes", function (collection) {
@@ -40,6 +40,12 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false);
 
     return {
+        templateFormats: [
+              "md",
+              "njk",
+              "html",
+              "liquid"
+        ],
         dir: {
             input: "root",
             output: "_site",
