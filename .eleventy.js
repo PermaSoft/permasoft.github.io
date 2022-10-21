@@ -39,6 +39,9 @@ module.exports = function(eleventyConfig) {
             includes: "includes",
             data: "_data"
         },
-        passthroughFileCopy: true
+        passthroughFileCopy: true,
+        markdownTemplateEngine: "njk",
+        htmlTemplateEngine: "njk",
+        dataTemplateEngine: "njk",
     }
 }
