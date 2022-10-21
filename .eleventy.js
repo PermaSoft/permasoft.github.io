@@ -26,10 +26,10 @@ module.exports = function(eleventyConfig) {
         })
     })
  */    
-/*     eleventyConfig.addFilter("markdownify", string => {
+     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
     })
- */
+
     eleventyConfig.setLibrary('md', md);
     
 /*     eleventyConfig.addCollection("notes", function (collection) {
