@@ -1,3 +1,14 @@
+---
+title: Obésiciel
+layout: default
+
+eleventyNavigation:
+  key: Obésiciel
+  parent: salon
+  order: 1
+
+---
+
 # Obésiciel, le destin naturel des logiciels à succès
 
 Le périmètre fonctionnel augmente en début de projet, puis il se transforme.

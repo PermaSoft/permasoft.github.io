@@ -20,16 +20,15 @@
     <table>
         <tr>
             <td>
-                {% set navPages = collections.all | eleventyNavigation %}
-                {{ navPages | dump | safe }}
+                {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
             </td>
             <td>
                 <main>
-                    {{content}}
+                    {{content | safe }}
                 </main>
             </td>
             <td>
-                {{content.toc}}
+                {{content.toc | safe}}
             </td>
         </tr>
     </table>
