@@ -10,9 +10,10 @@ module.exports = function(eleventyConfig) {
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
+    .use(require('markdown-it-obsidian'))
     .use(require('markdown-it-highlightjs'), { inline: true })
     .use(require('markdown-it-attrs'))
-    .use(function(md) {
+/*     .use(function(md) {
         // Recognize Mediawiki links ([[text]])
         md.linkify.add("[[", {
             validate: /^\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/,
@@ -24,12 +25,12 @@ module.exports = function(eleventyConfig) {
             }
         })
     })
-    
+ */    
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
     })
 
-    eleventyConfig.setLibrary('md', md);
+    eleventyConfig.ammendLibrary('md', md);
     
     eleventyConfig.addCollection("notes", function (collection) {
         return collection.getFilteredByGlob(["notes/**/*.md", "index.md"]);

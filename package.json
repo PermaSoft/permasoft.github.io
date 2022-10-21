@@ -25,6 +25,7 @@
     "title-case": "^3.0.3"
   },
   "dependencies": {
-    "markdown-it-highlightjs": "^4.0.1"
+    "markdown-it-highlightjs": "^4.0.1",
+    "markdown-it-obsidian": "^1.1.0"
   }
 }
