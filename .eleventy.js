@@ -10,7 +10,11 @@ module.exports = function(eleventyConfig) {
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
-    .use(require('markdown-it-obsidian')())
+    .use(require('markdown-it-obsidian')(
+        {
+            relativePath:"root"
+        }
+    ))
     .use(require('markdown-it-highlightjs'), { inline: true })
     .use(require('markdown-it-attrs'))
 /*     .use(function(md) {
