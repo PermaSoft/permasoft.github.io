@@ -1,5 +1,4 @@
 const markdownIt = require('markdown-it');
-const hljs = require('highlight.js'); // https://highlightjs.org
 
 module.exports = function(eleventyConfig) {
     
@@ -11,6 +10,7 @@ module.exports = function(eleventyConfig) {
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
+    .use(require('markdown-it-highlightjs'), { inline: true })
     .use(require('markdown-it-attrs'))
     .use(function(md) {
         // Recognize Mediawiki links ([[text]])
@@ -23,28 +23,7 @@ module.exports = function(eleventyConfig) {
                 match.url = `/notes/${parts[0].trim()}/`;
             }
         })
-    })({
-        highlight: function (str, lang) {
-          if (lang && hljs.getLanguage(lang)) {
-            try {
-              return hljs.highlight(str, { language: lang }).value;
-            } catch (__) {}
-          }
-      
-          return ''; // use external default escaping
-/* si on veut mettre une classe css sur le code :
-          if (lang && hljs.getLanguage(lang)) {
-            try {
-              return '<pre class="hljs"><code>' +
-                     hljs.highlight(str, { language: lang, ignoreIllegals: true }).value +
-                     '</code></pre>';
-            } catch (__) {}
-          }
-      
-          return '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + '</code></pre>';
- */      
-        }
-      })
+    })
     
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
