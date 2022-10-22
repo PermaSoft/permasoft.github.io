@@ -1,3 +1,11 @@
+---
+title: Offres de services
+layout: default
+
+eleventyNavigation:
+  key: Offres
+  order: 2
+---
 
 ## 0. Rencontres et BBLs
 Lorsque j'ai un peu de disponibilité, je peux prendre une heure au déjeuner ou juste après pour faire connaissance avec vous et vos enjeux.

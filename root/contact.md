@@ -1,3 +1,12 @@
+---
+title: Contact
+layout: default
+
+eleventyNavigation:
+  key: Contact
+  order: 1
+---
+
 Bonjour,
 
 Je suis Nicolas Fédou, développeur back Java et coach technique.
