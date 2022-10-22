@@ -17,26 +17,25 @@
             <a href="/notes">Notes</a>
         </nav>
     </header>
-    <!--     <table>
+    <table>
         <tr>
             <td>
- -->
-<nav>
-    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-</nav>
-    <!--             </td>
+                <navbar>
+                    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+                </navbar>
+            </td>
             <td>
- -->
-    <main>
-        {{content | safe }}
-    </main>
-    <!--             </td>
+
+                <main>
+                    {{content | safe }}
+                </main>
+            </td>
             <td>
- --> {{content.toc | safe }}
-    <!--             </td>
+                {{content.toc | safe }}
+            </td>
         </tr>
     </table>
- -->
+
     <footer class="page-footer">
         <small>Copyright {{site.author}}</small>
     </footer>
