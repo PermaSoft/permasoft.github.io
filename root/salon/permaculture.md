@@ -1,3 +1,15 @@
+---
+title: PermaCulture
+layout: default
+
+eleventyNavigation:
+  key: PermaCulture
+  title: PermaCulture
+  parent: salon
+  order: 1
+
+---
+
 # PermaCulture
 
 J'ai fait un stage de Permaculture à l'Escargotier d'Yves Joignant.

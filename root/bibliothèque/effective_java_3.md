@@ -5,5 +5,5 @@ layout: default
 eleventyNavigation:
   key: effectiveJava3
   order: 99
-  parent: Home
+  parent: bibilotheque
 ---

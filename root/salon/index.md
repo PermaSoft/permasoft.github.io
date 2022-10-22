@@ -8,3 +8,5 @@ eleventyNavigation:
   order: 1
 
 ---
+
+Le lieux du débat d'idées.
