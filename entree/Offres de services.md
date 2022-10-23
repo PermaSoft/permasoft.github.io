@@ -3,6 +3,7 @@ title: Offres de services
 layout: default
 
 eleventyNavigation:
+  parent: Home
   key: Offres
   order: 2
 ---

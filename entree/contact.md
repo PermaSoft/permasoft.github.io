@@ -3,6 +3,7 @@ title: Contact
 layout: default
 
 eleventyNavigation:
+  parent: Home
   key: Contact
   order: 1
 ---

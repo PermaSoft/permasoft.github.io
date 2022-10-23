@@ -37,7 +37,7 @@ module.exports = function (eleventyConfig) {
             "liquid"
         ],
         dir: {
-            input: "root",
+            input: "./",
             output: "_site",
             layouts: "_layouts",
             includes: "_includes",
