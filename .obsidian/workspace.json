@@ -63,7 +63,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/salon/obesiciel.md",
+                "file": "root/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b525f699ecfb5a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a0621c1f1469a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -137,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root/salon/obesiciel.md",
+                "file": "root/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root/salon/obesiciel.md",
+                "file": "root/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root/salon/obesiciel.md"
+                "file": "root/index.md"
               }
             }
           }
@@ -191,17 +217,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "15e9a0ee37eec2ac",
+  "active": "0a0621c1f1469a47",
   "lastOpenFiles": [
+    "root/salon/permaculture.md",
+    "root/index.md",
+    "root/salon/obesiciel.md",
     "root/salon/index.md",
     "root/jardins/index.md",
     "root/bibliothèque/effective_java_3.md",
     "root/bibliothèque/index.md",
     "root/bibliothèque/TDD.md",
-    "root/index.md",
     "root/Offres de services.md",
-    "root/contact.md",
-    "root/salon/obesiciel.md",
-    "root/jardins.md"
+    "root/contact.md"
   ]
 }

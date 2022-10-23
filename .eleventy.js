@@ -24,9 +24,9 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setLibrary('md', md);
 
-    eleventyConfig.addPassthroughCopy('assets');
+    eleventyConfig.addPassthroughCopy('_assets');
     eleventyConfig.setUseGitIgnore(false);
-    eleventyConfig.addWatchTarget("./assets");
+    eleventyConfig.addWatchTarget("./_assets");
     eleventyConfig.addWatchTarget("./root/");
 
     return {
@@ -39,8 +39,8 @@ module.exports = function (eleventyConfig) {
         dir: {
             input: "root",
             output: "_site",
-            layouts: "layouts",
-            includes: "includes",
+            layouts: "_layouts",
+            includes: "_includes",
             data: "_data"
         },
         passthroughFileCopy: true,
