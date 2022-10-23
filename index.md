@@ -11,7 +11,7 @@ PermaSoft est l'entreprise unipersonnelle de [Nicolas Fédou](contact) qui se pr
 
 <span class="right-align">[![[assets/linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[assets/twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[assets/github_logo.png|24]]](https://github.com/coulas) [![[assets/github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
-Avec ce site web, je vous propose de faire un tour de ma vision dans [mon jardin](jardins/) ou mes [[jardins]] et de mes opinions sur notre métier dans [le salon](salon/index), ainsi que quelques références dans [la bibliothèque](bibliothèque/) et cela commence ici par mes valeurs.
+Avec ce site web, je vous propose de faire un tour de ma vision dans [mon jardin](jardins/) ou [[jardins|mes jardins]] et de mes opinions sur notre métier dans [le salon](salon/index), ainsi que quelques références dans [la bibliothèque](bibliothèque/) et cela commence ici par mes valeurs.
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
