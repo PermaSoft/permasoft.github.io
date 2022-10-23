@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-garden",
+  "name": "PermaSoft",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binyamin/eleventy-garden.git"
+    "url": "git+https://github.com/PermaSoft/permasoft.github.io.git"
   },
   "keywords": [],
   "author": "Binyamin Aron Green (https://binyam.in/)",
