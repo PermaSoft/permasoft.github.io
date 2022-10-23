@@ -7,14 +7,15 @@ module.exports = function (eleventyConfig) {
     const markdownItOptions = {
         html: true,
         xhtmlOut: true,
-        linkify: true
+        break: false,
+        typographer: true,
+        linkify: true,
     };
 
     const md = markdownIt(markdownItOptions)
         .use(require('markdown-it-footnote'))
         .use(require('markdown-it-obsidian')(
             {
-                /*            relativeBaseURL:"./root/"*/
                 baseURL: '/',
                 relativeBaseURL: './',
             }
@@ -24,7 +25,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setLibrary('md', md);
 
-    eleventyConfig.addPassthroughCopy('_assets');
+    eleventyConfig.addPassthroughCopy('./_assets');
     eleventyConfig.setUseGitIgnore(false);
     eleventyConfig.addWatchTarget("./_assets");
 
