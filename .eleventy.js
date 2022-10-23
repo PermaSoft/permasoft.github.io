@@ -24,6 +24,7 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.setUseGitIgnore(false);
+    eleventyConfig.addWatch();
 
     return {
         templateFormats: [
