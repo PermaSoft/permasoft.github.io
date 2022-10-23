@@ -1,9 +1,9 @@
 const markdownIt = require('markdown-it');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
-    
+
     const markdownItOptions = {
         html: true,
         xhtmlOut: true,
@@ -11,17 +11,19 @@ module.exports = function(eleventyConfig) {
     };
 
     const md = markdownIt(markdownItOptions)
-    .use(require('markdown-it-footnote'))
-    .use(require('markdown-it-obsidian')(
-        {
-/*            relativeBaseURL:"./root/"*/
-        }
-    ))
-    .use(require('markdown-it-highlightjs'), { inline: true })
-    .use(require('markdown-it-attrs'))
+        .use(require('markdown-it-footnote'))
+        .use(require('markdown-it-obsidian')(
+            {
+                /*            relativeBaseURL:"./root/"*/
+                baseURL: '/',
+                relativeBaseURL: './',
+            }
+        ))
+        .use(require('markdown-it-highlightjs'), { inline: true })
+        .use(require('markdown-it-attrs'))
 
     eleventyConfig.setLibrary('md', md);
-    
+
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.setUseGitIgnore(false);
     eleventyConfig.addWatchTarget("./assets");
@@ -29,10 +31,10 @@ module.exports = function(eleventyConfig) {
 
     return {
         templateFormats: [
-              "md",
-              "njk",
-              "html",
-              "liquid"
+            "md",
+            "njk",
+            "html",
+            "liquid"
         ],
         dir: {
             input: "root",
