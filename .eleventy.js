@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-obsidian')(
         {
-            relativeBaseURL:"./root/"
+/*            relativeBaseURL:"./root/"*/
         }
     ))
     .use(require('markdown-it-highlightjs'), { inline: true })
