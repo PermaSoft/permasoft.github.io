@@ -21,14 +21,11 @@
             <td>
 
                 <main>
-                    {{content | safe }}
+                    {{ content | safe }}
                 </main>
-                <backlinks>
-                    {{ backlinks }}
-                </backlinks>
             </td>
             <td>
-                {{content.toc | safe }}
+                {% include 'backlinks.html' %}
             </td>
         </tr>
     </table>
