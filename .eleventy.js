@@ -25,7 +25,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setLibrary('md', md);
 
-    eleventyConfig.addPassthroughCopy('./_assets');
+    eleventyConfig.addPassthroughCopy({ "_assets": "assets" });
     eleventyConfig.setUseGitIgnore(false);
     eleventyConfig.addWatchTarget("./_assets");
 
