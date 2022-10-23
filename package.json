@@ -11,12 +11,7 @@
     "url": "git+https://github.com/PermaSoft/permasoft.github.io.git"
   },
   "keywords": [],
-  "author": "Binyamin Aron Green (https://binyam.in/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/binyamin/eleventy-garden/issues"
-  },
-  "homepage": "https://github.com/binyamin/eleventy-garden#readme",
+  "author": "Nicolas Fedou (https://permasoft.io/)",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
