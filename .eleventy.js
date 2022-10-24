@@ -1,6 +1,7 @@
 const markdownIt = require('markdown-it');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const eleventyBacklinks = require("eleventy-plugin-backlinks");
+const sanitize = require('sanitize-filename')
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -22,6 +23,15 @@ module.exports = function (eleventyConfig) {
             {
                 baseURL: '/',
                 relativeBaseURL: './',
+                postProcessPageName: (pageName) => {
+                    let origin = pageName;
+                    pageName = pageName.trim()
+                    pageName = pageName.substring(eleventyConfig.dir.input)
+                    pageName = pageName.split('/').map(sanitize).join('/')
+                    pageName = pageName.replace(/\s+/, '_')
+                    console.log(["transform", origin, " into ", pageName])
+                    return pageName
+                  },
             }
         ))
         .use(require('markdown-it-highlightjs'), { inline: true })
@@ -42,7 +52,7 @@ module.exports = function (eleventyConfig) {
             "liquid"
         ],
         dir: {
-            input: "./",
+            input: "salon",
             output: "_site",
             layouts: "_layouts",
             includes: "_includes",
