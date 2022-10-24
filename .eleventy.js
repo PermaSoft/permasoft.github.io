@@ -5,7 +5,7 @@ const eleventyBacklinks = require("eleventy-plugin-backlinks");
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(eleventyBacklinks, {
-        folder: '(salon' // The folder with your notes
+        folder: '' // The folder with your notes
     });
 
     const markdownItOptions = {
