@@ -1,9 +1,13 @@
 const markdownIt = require('markdown-it');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const eleventyBacklinks = require("eleventy-plugin-backlinks");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
+    eleventyConfig.addPlugin(eleventyBacklinks, {
+        folder: './' // The folder with your notes
+    });
+    
     const markdownItOptions = {
         html: true,
         xhtmlOut: true,
@@ -22,6 +26,7 @@ module.exports = function (eleventyConfig) {
         ))
         .use(require('markdown-it-highlightjs'), { inline: true })
         .use(require('markdown-it-attrs'))
+
 
     eleventyConfig.setLibrary('md', md);
 
