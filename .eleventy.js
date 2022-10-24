@@ -52,7 +52,7 @@ module.exports = function (eleventyConfig) {
             "liquid"
         ],
         dir: {
-            input: "salon",
+            input: "src",
             output: "_site",
             layouts: "_layouts",
             includes: "_includes",
