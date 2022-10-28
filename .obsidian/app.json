@@ -6,5 +6,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "./",
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false,
+  "showUnsupportedFiles": true
 }
