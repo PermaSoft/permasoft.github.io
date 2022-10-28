@@ -3,7 +3,8 @@
   "translucency": true,
   "accentColor": "",
   "enabledCssSnippets": [
-    "align"
+    "align",
+    "publish"
   ],
   "cssTheme": "Typewriter"
 }
