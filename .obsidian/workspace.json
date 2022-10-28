@@ -67,8 +67,13 @@
             "id": "0a0621c1f1469a47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -138,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ],
@@ -190,15 +199,15 @@
   },
   "active": "0a0621c1f1469a47",
   "lastOpenFiles": [
+    "linkedin_logo.png",
     "index.md",
+    "github_logo.png",
     "salon/permaculture.md",
     "salon/obesiciel.md",
     "root/index.md",
     "root/salon/permaculture.md",
     "root/salon/obesiciel.md",
     "root/salon/index.md",
-    "root/jardins/index.md",
-    "root/bibliothèque/effective_java_3.md",
-    "root/bibliothèque/index.md"
+    "root/jardins/index.md"
   ]
 }
