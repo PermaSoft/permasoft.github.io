@@ -20,5 +20,6 @@ Au mieux, [les premiers octets peuvent déterminer le format binaire utilisé](h
 Alors qu'un format texte peut être lu par un humain, vous pouvez perdre votre logiciel sans perdre vos messages.
 Le format texte, comme les formats binaire peuvent être lu par des logiciels.
 D'un point de vue pérennité, on a donc le meilleur des deux monde avec un format texte.
-Les formats binaire sont nécéssaire pour afficher ce que l'on ne peut pas ex
-Le seul point fort des formats binaire est leur densité, leur capacité à exprimer les informations d'un format texte en utilisant moins de place, moins d'octet, donc une plus haute performance quand des logiciels discutent entre eux.
+Les formats binaire sont nécessaire pour afficher ce que l'on ne peut pas exprimer avec du texte : les images, la musique, ...
+L'autre point fort des formats binaire est leur densité, leur capacité à exprimer les informations d'un format texte en utilisant moins de place, moins d'octets, donc une plus haute performance quand on doit transmettre beaucoup de messages.
+Pour un développeur, il peut être utile de toujours commencer par un format texte en développant son logiciel et d'ajouter une capacité configurable de transmettre en binaire plus tard pour économiser des ressources (donc des factures en cloud) ou gagner en performances.

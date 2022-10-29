@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bibliothèque/Pragmatic Programmer.md",
+                "file": "garage/Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bibliothèque/Pragmatic Programmer.md",
+                "file": "garage/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bibliothèque/Pragmatic Programmer.md",
+                "file": "garage/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bibliothèque/Pragmatic Programmer.md"
+                "file": "garage/Obsidian.md"
               }
             }
           }
@@ -277,8 +277,8 @@
   },
   "active": "a75f4c2e4c123e7e",
   "lastOpenFiles": [
-    "garage/Obsidian.md",
     "bibliothèque/Pragmatic Programmer.md",
+    "garage/Obsidian.md",
     "garage/Sauvegardes de Obsidian.md",
     "garage/Zettelkasten.md",
     "garage/GTD.md",
