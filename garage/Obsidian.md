@@ -31,4 +31,5 @@ Vous êtes en train de le lire.
 Editer ce site est un travail que je ne fait pas sur téléphone.
 Comme on peut être pris à partie pour tout ce que l'on communique, je souhaite garder tout l'historique de ce que je met sur ce site.
 En bon développeur, j'utilise Git et un plugin qui commit push au lieu d'une solution d'archivage.
-Enfin, j'ai eu la joie de constater que le plugin Obsidian de publication de notes en site est cher, et que ma capacité de faire un site propre (ET maitrisé) avec des outi
+Enfin, j'ai eu la joie de constater que le plugin Obsidian de publication de notes en site est cher, et que ma capacité de faire un site propre (ET maitrisé) avec des outils de génération de sites statiques (ssg  - eleventy, hugo, jekyll, elmstatic) me coute encore pus cher en temps...
+Bref, j'utilise le plugin publish d'Obisidan et j'en suis ravis.
