@@ -1,4 +1,4 @@
-Obsidian est une solution de prises de notes.
+[Obsidian est une solution de prises de notes](https://help.obsidian.md/Obsidian/Obsidian).
 Les notes sont des fichiers markdown (un [[bibliothèque/Pragmatic Programmer#Les formats binaires Vs caractères|format texte]]) stockés dans un dossier (et sous dossiers) de votre ordinateur/téléphone comme n'importe quel autre document.
 Obsidian peut afficher un liste des liens d'un fichier qui pointent vers d'autres fichiers, mais il peut aussi afficher les rétro-lien : les liens d'autres fichiers qui pointent vers le fichier en cours.
 Comme l'association d'idées est base de la réflexion humains, cette capacité à parcourir les liens dans les deux sens est finalement très utile.
