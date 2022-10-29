@@ -23,4 +23,12 @@ Le seul outil que j'ai toujours sur moi est un téléphone.
 Mais je dois aussi les avoir sur l'ordinateur où je travaille pour affiner ces listes de tâches.
 J'ai donc un Obsidian sur mon téléphone et mon ordinateur qui travaillenet tous les deux sur un sous dossier d'un disque réseau - "un drive" comme one drive, google drive, drop box, ...).
 Par contre, je n'utilise pas le client drive de mon téléphone, mais un outil de synchronisation qui met à disposition une copie exacte du drive. Aux yeux d'Obsidian, il travaille sur un dossier local de mon téléphone.
-Rarement, j'édite un même fichier sur les deux outils et la synchronisation me fournit la seconde version avec un nom de fichier d'origine augmenter de "(confilct YYYY-MM-DD HH:mm:ss)", qu'on peut lire confit 
+Rarement, j'édite un même fichier sur les deux outils et la synchronisation me fournit la seconde version avec un nom de fichier d'origine augmenté du mot "conflit" suivi de la date et de l'heure.
+
+## Mon site Web
+
+Vous êtes en train de le lire.
+Editer ce site est un travail que je ne fait pas sur téléphone.
+Comme on peut être pris à partie pour tout ce que l'on communique, je souhaite garder tout l'historique de ce que je met sur ce site.
+En bon développeur, j'utilise Git et un plugin qui commit push au lieu d'une solution d'archivage.
+Enfin, j'ai eu la joie de constater que le plugin Obsidian de publication de notes en site est cher, et que ma capacité de faire un site propre (ET maitrisé) avec des outi
