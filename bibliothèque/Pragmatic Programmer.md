@@ -15,4 +15,4 @@ Le livre nous fait réfléchir aux limitations d'un format binaire pour sa maint
 Il faut un logiciel pour le lire, là où un fichier caractère est lisible par un humain sans plus d'outil.
 Si on perd le logiciel, on perd tous les messages encodé dans ce format binaire.
 Le logiciel de lecture, n'est jamais inclu dans le message...
-Au mieux, [[https://en.wikipedia.org/wiki/Magic_number_(programming)#In_files|les premiers octets peuvent déterminer le format binaire utilisé]] et a vous de trouver un lecteur adapté.
+Au mieux, [les premiers octets peuvent déterminer le format binaire utilisé](https://en.wikipedia.org/wiki/Magic_number_(programming)#In_files) et a vous de trouver un lecteur adapté.
