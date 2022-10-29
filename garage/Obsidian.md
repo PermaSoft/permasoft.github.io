@@ -10,5 +10,8 @@ Le deuxième contient le site que vous être en train lire.
 
 ## Mes Notes Personnelles
 
-Mes notes contiennent mon GTD
+Mes notes contiennent [[garage/GTD avec Obsidian|mon GTD]] et [[garage/Zettelkasten avec Obsidian|mon Zettelkasten]].
+GTD est une méthode pour avoir des listes de tâches utiles.
+Zettelkasten est une base de connaissance orienté notes et association entre ces notes.
+Comme GTD décrit une zone de notes de références
 Pour mes notes, je veux les avoir sur mon ordinateur de travail, mais aussi sur mon téléphone pour les saisir ou une consultation rapide.
