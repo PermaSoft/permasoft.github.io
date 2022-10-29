@@ -21,4 +21,6 @@ Comme GTD décrit une zone de notes de références (avec les factures, et autre
 Pour que ces listes de tâches "à la GTD", soient utiles, je dois pouvoir sortir tout ce qui me trotte dans la tête au moment où ca trotte.
 Le seul outil que j'ai toujours sur moi est un téléphone.
 Mais je dois aussi les avoir sur l'ordinateur où je travaille pour affiner ces listes de tâches.
-J'ai donc un Obsidian sur mon téléphone et mon ordinateur qui 
+J'ai donc un Obsidian sur mon téléphone et mon ordinateur qui travaillenet tous les deux sur un sous dossier d'un disque réseau - "un drive" comme one drive, google drive, drop box, ...).
+Par contre, je n'utilise pas le client drive de mon téléphone, mais un outil de synchronisation qui met à disposition une copie exacte du drive. Aux yeux d'Obsidian, il travaille sur un dossier local de mon téléphone.
+Rarement, j'édite un même fichier sur les deux outils et la synchronisation me fournit la seconde version avec un nom de fichier d'origine augmenter de "(confilct YYYY-MM-DD HH:mm:ss)", qu'on peut lire confit 
