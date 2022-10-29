@@ -11,9 +11,14 @@ Le deuxième contient le site que vous être en train lire.
 ## Mes Notes Personnelles
 
 Mes notes contiennent [[garage/GTD avec Obsidian|mon GTD]] et [[garage/Zettelkasten avec Obsidian|mon Zettelkasten]].
-GTD est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
-Zettelkasten est une base de connaissance orienté notes et association entre ces notes.
+
+[[garage/GTD|GTD - "Getting Things Done"]] est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
+Ces listes sont ensuite travaillées par la méthode pour nous fournir une vision des activités à faire qui permet de se mettre tout de suite au travail sans tergiverser.
+
+[[garage/Zettelkasten|Zettelkasten]] est une base de connaissance orienté notes et association entre ces notes.
 Comme GTD décrit une zone de notes de références (avec les factures, et autres papiers), j'y met mes notes de Zettelkasten.
 
 Pour que ces listes de tâches "à la GTD", soient utiles, je dois pouvoir sortir tout ce qui me trotte dans la tête au moment où ca trotte.
-Le seul outil que j'ai toujours sur moi, 
+Le seul outil que j'ai toujours sur moi est un téléphone.
+Mais je dois aussi les avoir sur l'ordinateur où je travaille pour affiner ces listes de tâches.
+J'ai donc un Obsidian sur mon téléphone et mon ordinateur qui 
