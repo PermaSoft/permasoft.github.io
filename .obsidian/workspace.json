@@ -75,9 +75,87 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "51a079921e646cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/GTD avec Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e64f8e84ff9c9b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/Zettelkasten avec Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b9e5b3610c1d6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/GTD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0d8742614a71e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/Zettelkasten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "50796f1e7012b15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/Sauvegardes de Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a75f4c2e4c123e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garage/Sauvegardes de Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -143,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "garage/Sauvegardes de Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "garage/Sauvegardes de Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "garage/Sauvegardes de Obsidian.md"
               }
             }
           }
@@ -197,17 +275,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a0621c1f1469a47",
+  "active": "a75f4c2e4c123e7e",
   "lastOpenFiles": [
-    "linkedin_logo.png",
+    "garage/Obsidian.md",
+    "garage/Sauvegardes de Obsidian.md",
+    "garage/Zettelkasten.md",
+    "garage/GTD.md",
+    "garage/Zettelkasten avec Obsidian.md",
+    "garage/GTD avec Obsidian.md",
     "index.md",
+    "linkedin_logo.png",
     "github_logo.png",
-    "salon/permaculture.md",
-    "salon/obesiciel.md",
-    "root/index.md",
-    "root/salon/permaculture.md",
-    "root/salon/obesiciel.md",
-    "root/salon/index.md",
-    "root/jardins/index.md"
+    "salon/permaculture.md"
   ]
 }
