@@ -11,8 +11,13 @@
             "id": "e5d52112905547ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "garage/Obsidian.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "garage/Obsidian.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "garage/Obsidian.md"
+                "file": "index.md"
               }
             }
           }
@@ -132,7 +137,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "479958abbdab73f6",
+  "active": "e5d52112905547ac",
   "lastOpenFiles": [
     "bibliothèque/Pragmatic Programmer.md",
     "garage/Obsidian.md",
