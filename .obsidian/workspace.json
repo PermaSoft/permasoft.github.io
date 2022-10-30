@@ -153,9 +153,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8149bb3ed82c5e57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -272,10 +282,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a75f4c2e4c123e7e",
+  "active": "8149bb3ed82c5e57",
   "lastOpenFiles": [
     "bibliothèque/Pragmatic Programmer.md",
     "garage/Obsidian.md",
