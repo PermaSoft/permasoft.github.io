@@ -1,5 +1,5 @@
 [Obsidian est une solution de prises de notes](https://help.obsidian.md/Obsidian/Obsidian).
-Les notes sont des fichiers markdown (un [[bibliothèque/Pragmatic Programmer#Les formats binaires Vs caractères|format texte]]) stockés dans un dossier (et sous dossiers) de votre ordinateur/téléphone comme n'importe quel autre document.
+Les notes sont des fichiers markdown (un [[Bibliothèque/Pragmatic Programmer#Les formats binaires Vs caractères|format texte]]) stockés dans un dossier (et sous dossiers) de votre ordinateur/téléphone comme n'importe quel autre document.
 Obsidian peut afficher un liste des liens d'un fichier qui pointent vers d'autres fichiers, mais il peut aussi afficher les rétro-lien : les liens d'autres fichiers qui pointent vers le fichier en cours.
 Comme l'association d'idées est base de la réflexion humains, cette capacité à parcourir les liens dans les deux sens est finalement très utile.
 Il est gratuit, fonctionne sur tous les systèmes d'exploitation majeurs et est rempli de plugins pour les choses étranges que l'on voudrait faire en plus (Kanban, Calendrier, Publier sur un site web, ...).
@@ -10,12 +10,12 @@ Le deuxième contient le site que vous être en train lire.
 
 ## Mes Notes Personnelles
 
-Mes notes contiennent [[garage/GTD avec Obsidian|mon GTD]] et [[garage/Zettelkasten avec Obsidian|mon Zettelkasten]].
+Mes notes contiennent [[Garage/GTD avec Obsidian|mon GTD]] et [[Garage/Zettelkasten avec Obsidian|mon Zettelkasten]].
 
-[[garage/GTD|GTD - "Getting Things Done"]] est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
+[[Garage/GTD|GTD - "Getting Things Done"]] est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
 Ces listes sont ensuite travaillées par la méthode pour nous fournir une vision des activités à faire qui permet de se mettre tout de suite au travail sans tergiverser.
 
-[[garage/Zettelkasten|Zettelkasten]] est une base de connaissance orienté notes et association entre ces notes.
+[[Garage/Zettelkasten|Zettelkasten]] est une base de connaissance orienté notes et association entre ces notes.
 Comme GTD décrit une zone de notes de références (avec les factures, et autres papiers), j'y met mes notes de Zettelkasten.
 
 Pour que ces listes de tâches "à la GTD", soient utiles, je dois pouvoir sortir tout ce qui me trotte dans la tête au moment où ca trotte.

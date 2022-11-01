@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "Salon/_maintenabilite.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "Salon/_maintenabilite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "Salon/_maintenabilite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md"
+                "file": "Salon/_maintenabilite.md"
               }
             }
           }
@@ -139,14 +139,14 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
-    "bibliothèque/Pragmatic Programmer.md",
-    "garage/Obsidian.md",
-    "garage/Sauvegardes de Obsidian.md",
-    "garage/Zettelkasten.md",
-    "garage/GTD.md",
-    "garage/Zettelkasten avec Obsidian.md",
-    "garage/GTD avec Obsidian.md",
     "Bienvenue.md",
+    "Bibliothèque/Pragmatic Programmer.md",
+    "Garage/Obsidian.md",
+    "Garage/Sauvegardes de Obsidian.md",
+    "Garage/Zettelkasten.md",
+    "Garage/GTD.md",
+    "Garage/Zettelkasten avec Obsidian.md",
+    "Garage/GTD avec Obsidian.md",
     "linkedin_logo.png",
     "github_logo.png"
   ]
