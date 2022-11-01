@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Bienvenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Bienvenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Bienvenue.md"
               }
             }
           }
@@ -146,7 +146,7 @@
     "garage/GTD.md",
     "garage/Zettelkasten avec Obsidian.md",
     "garage/GTD avec Obsidian.md",
-    "index.md",
+    "Bienvenue.md",
     "linkedin_logo.png",
     "github_logo.png"
   ]
