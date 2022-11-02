@@ -19,6 +19,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a8fc9b173815b532",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -139,14 +147,14 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
+    "Bienvenue.md",
+    "Bibliothèque/Getting Things Done.md",
     "Garage/Obsidian.md",
     "Garage/GTD avec Obsidian.md",
     "Salon/_maintenabilite.md",
-    "Bienvenue.md",
     "Bibliothèque/Pragmatic Programmer.md",
     "Garage/Sauvegardes de Obsidian.md",
     "Bibliothèque/Zettelkasten.md",
-    "Bibliothèque/Getting Things Done.md",
     "Garage/Zettelkasten avec Obsidian.md",
     "linkedin_logo.png"
   ]
