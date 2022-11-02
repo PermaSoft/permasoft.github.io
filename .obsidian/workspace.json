@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salon/_maintenabilite.md",
+                "file": "Bibliothèque/Getting Things Done.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salon/_maintenabilite.md",
+                "file": "Bibliothèque/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salon/_maintenabilite.md",
+                "file": "Bibliothèque/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salon/_maintenabilite.md"
+                "file": "Bibliothèque/Getting Things Done.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
+    "Garage/Obsidian.md",
+    "Garage/GTD avec Obsidian.md",
+    "Salon/_maintenabilite.md",
     "Bienvenue.md",
     "Bibliothèque/Pragmatic Programmer.md",
-    "Garage/Obsidian.md",
     "Garage/Sauvegardes de Obsidian.md",
-    "Garage/Zettelkasten.md",
-    "Garage/GTD.md",
+    "Bibliothèque/Zettelkasten.md",
+    "Bibliothèque/Getting Things Done.md",
     "Garage/Zettelkasten avec Obsidian.md",
-    "Garage/GTD avec Obsidian.md",
-    "linkedin_logo.png",
-    "github_logo.png"
+    "linkedin_logo.png"
   ]
 }
