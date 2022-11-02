@@ -13,7 +13,7 @@ Il y a plusieurs propriétés qui m'intéressent dans cette méthode:
 Le livre fondateur est "Getting Things Done: The Art of Stress-Free Productivity" de David Allen.
 J'ai partiellement lu la 2e édition en Français.
 
-| lisible ? | 5/5 |
+| | |
 | :-- | :-- |
 | lisible ? | 5/5 |
 | recommandé ? | totalement, livre fondateur et suffisant pour appliquer GTD |
