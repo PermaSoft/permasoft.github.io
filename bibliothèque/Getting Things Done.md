@@ -11,7 +11,11 @@ Il y a plusieurs propriétés qui m'intéressent dans cette méthode:
 * Tu as une vision d'ensemble de tes activités qui font sens et t'aident à prendre du recul sur des horizons de temps plus long donc d'identifier ton cap à moyen/long terme pour finalement accepter ou non cette toute dernière opportunité
 
 Le livre fondateur est "Getting Things Done: The Art of Stress-Free Productivity" de David Allen.
+J'ai partiellement lu la 2e édition en Français.
 
-Xtrem Reading 
+| lisible ? | 5/5 |
+| :-- | :-- |
+| lisible ? | 5/5 |
+| recommandé ? | totalement, livre fondateur et suffisant pour appliquer GTD |
 
 
