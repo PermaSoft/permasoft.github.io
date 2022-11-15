@@ -12,7 +12,7 @@ Il y a plusieurs propriétés qui m'intéressent dans cette méthode:
 
 Il y a trois thèmes abordés dans la méthode : La gestion des tâches dont tout le monde parle, la planification naturelle et les horizons dont on parle beaucoup moins.
 
-Le livre fondateur de David Allen est "Getting Things Done: The Art of Stress-Free Productivity". 
+Le livre fondateur GTD est "[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)" par David Allen. 
 Il est facile à lire et complet.
 Le [site officiel de la méthode GTP](https://gettingthingsdone.com/) propose un [guide rapide](https://store.gettingthingsdone.com/GTD-Methodology-Guides-p/40102.htm).
 Le guide est un bon rappel de tous les éléments qui compose la méthode, mais vous aurez besoin de plus pour y mettre du sens.
