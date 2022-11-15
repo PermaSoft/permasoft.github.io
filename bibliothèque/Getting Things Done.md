@@ -22,6 +22,9 @@ Pour le personnage, il remercie J-R, son coach spirituel...
 Il ne cite que ses initiales et pas son nom complet.
 Il y a plusieurs coach spirituels dont les initiales sont J.R..
 Je suis donc incapable de me faire une idée sur une possible dérive sectaire.
+Ca ressemble a une plaisanterie, mais:
+* D'une part, je n'ai pas de formation me permettant de juger de la qualité ou des compétences proposées par David Allen.
+* D'autre part, la miviludes a dé
 
 
 | | |
