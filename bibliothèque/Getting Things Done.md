@@ -17,7 +17,9 @@ Il est écris à l'américaine : très descriptif, donc facile à lire, long et 
 Le [site officiel de la méthode GTP](https://gettingthingsdone.com/) propose un [guide rapide](https://store.gettingthingsdone.com/GTD-Methodology-Guides-p/40102.htm).
 Le guide est un bon rappel de tous les éléments qui compose la méthode, mais vous aurez besoin de plus pour y mettre du sens.
 
-Certaines personnes n'aiment pas le personnage où la méthode
+Certaines personnes n'aiment pas le personnage où la méthode.
+Pour le personnage, il remercie J-R, son coach spirituel.
+Il y a plusieurs coach spirituels dont les inti
 
 | | |
 | :-- | :-- |
