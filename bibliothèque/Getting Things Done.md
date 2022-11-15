@@ -18,8 +18,11 @@ Le [site officiel de la méthode GTP](https://gettingthingsdone.com/) propose un
 Le guide est un bon rappel de tous les éléments qui compose la méthode, mais vous aurez besoin de plus pour y mettre du sens.
 
 Certaines personnes n'aiment pas le personnage où la méthode.
-Pour le personnage, il remercie J-R, son coach spirituel.
-Il y a plusieurs coach spirituels dont les inti
+Pour le personnage, il remercie J-R, son coach spirituel...
+Il ne cite que ses initiales et pas son nom complet.
+Il y a plusieurs coach spirituels dont les initiales sont J.R..
+Je suis donc incapable de me faire une idée sur une possible dérive sectaire.
+
 
 | | |
 | :-- | :-- |
