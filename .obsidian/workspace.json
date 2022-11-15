@@ -19,6 +19,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a7e978bbe3eaf6cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
