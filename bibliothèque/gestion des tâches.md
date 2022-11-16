@@ -6,5 +6,7 @@ La gestion des tâches est un process en 5 étapes :
 5. Agir enfin selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
 
 ![GTD tâches|50](workflow_map.pdf)
+Image de [gettingthingsdone.com](https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf)
+
 
 
