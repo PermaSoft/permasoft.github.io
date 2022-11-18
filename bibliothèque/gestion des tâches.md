@@ -8,14 +8,17 @@ Il s'agit ici de sortir la charge mentale de son cerveau en écrivant les future
 C'est cette certitude seule qui permet à l'idée de vraiment sortir du cerveau et pouvoir se reconcentrer sur le présent.
 Il faut aussi avoir un minimum d'endroit où on écrit ses activités futures en plus de vider régulièrement ces endroits.
 
-## 2. Clarifier les idées (le "What is it?")
+## 2. Clarifier les idées (le "What is it?" à la bordure du cercle, donc toutes les questions)
 
 Régulièrement, tous les jours ou toute les semaines, on dépile, on traite, on ventile ces endroits, ces listes.
-Ce que l'on a écrit était ce que l'on avait en tête à ce moment là et que l'on a sorti aussi vite que possible pour se remttre dans le travail qui était présent...
+Ce que l'on a écrit était ce que l'on avait en tête à ce moment là et que l'on a sorti aussi vite que possible pour se remettre dans le travail qui était présent à ce moment là.
+Donc la forme de ce qui est écrit ne ressemble à rien.
+La clarification consiste donc à donner du sens a cette note et a décider de ce que l'on va en faire.
 
+## 3. Organiser les idées en actions, tâches, notes (2e cercle d'icones - l'extérieur de "Projets" à gauche à "Someday/may be" à droite)
 
+Quand on sait ce que c'est
 
-2. Organiser les idées en actions, tâches, notes (de "Is it Actionable?" au 2e cercle d'icones - l'extérieur de "Projets" à gauche à "Someday/may be" à droite)
 3. Rafraichir les listes d'actions, de tâches, de notes pour retirer les obsolètes, les doublons et ranger le reste
 4. Agir enfin selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
 
