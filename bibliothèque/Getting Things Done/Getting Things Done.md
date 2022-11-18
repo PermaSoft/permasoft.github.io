@@ -26,4 +26,4 @@ Autre point, je n'ai pas toujours la main sur toutes mes tâches, notamment, qua
 Cette dernière a souvent sa propre liste d'activités à réaliser...
 Je parle de toi le backlog dans Jira !
 Dans ces cas là, la méthode fonctionne pour les autres aspects de ma vie.
-Vous pouvez
+Vous pouvez donc essayer cette méthode sur toutes les autres activités où vous décider de vos prochaines actions.
