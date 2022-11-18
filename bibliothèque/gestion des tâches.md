@@ -32,9 +32,17 @@ Dans le schéma, on nettoie les listes qui sont à l'extérieur du cercle.
 
 L'étape 1 rempli des listes d'entrées ("inbox" de messagerie, etc.), les 2 et 3 vident les listes d'entrées et rangent les choses à faire dans des listes prêtes à l'emploi, sauf que...
 
-Nos listes de tâches par projets et autres listes de courses ne sont pas au courant des surprises et zautres
-d'actions, de tâches, de notes pour retirer les obsolètes, les doublons et ranger le reste
-4. Agir enfin selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
+Nos listes de tâches par projets et autres listes de courses ne sont pas au courant des surprises et autres changement de plan.
+Il y a donc une revue régulière à faire pour maintenir ces listes à jour.
+En retirant les tâches qui sont réalisées, celles qui ont été annulées, etc.
+Pour la priorisation, j'hésite entre 
+
+## 5. Agir, enfin 
+
+Dans le schéma, ce n'est plus sur le schéma car il s'agit de réaliser les actions décrites dans vos listes.
+Ceux qui mettent des tâches pour mettre GTD en place, on vous voit ! ;-)
+
+selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
 
 
 
