@@ -35,14 +35,16 @@ L'étape 1 rempli des listes d'entrées ("inbox" de messagerie, etc.), les 2 et 
 Nos listes de tâches par projets et autres listes de courses ne sont pas au courant des surprises et autres changement de plan.
 Il y a donc une revue régulière à faire pour maintenir ces listes à jour.
 En retirant les tâches qui sont réalisées, celles qui ont été annulées, etc.
-Pour la priorisation, j'hésite entre 
+Pour la priorisation, j'hésite entre ici et plus tard au moment d'agir quand j'aurais le maximum d'informations disponible.
+Naïvement, en équipe, je ferais cette priorisation maintenant, en revue, alors qu'en solo, je la ferai au dernier moment possible, juste avant d'agir.
 
 ## 5. Agir, enfin 
 
 Dans le schéma, ce n'est plus sur le schéma car il s'agit de réaliser les actions décrites dans vos listes.
 Ceux qui mettent des tâches pour mettre GTD en place, on vous voit ! ;-)
 
-selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
-
+Vous avez des listes par projet et du temps dédié à vos projets dans votre calendrier.
+Vous avez des listes par contraintes/contextes (maison, travail, chez le client, etc.).
+A chaque moment, vous savez quelle énergie vous avez, quel temps disponible  et vous avez des listes de choses utiles à faire.
 
 
