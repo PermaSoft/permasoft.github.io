@@ -6,7 +6,7 @@ Image de [gettingthingsdone.com](https://gettingthingsdone.com/wp-content/upload
 
 Il s'agit ici de sortir la charge mentale de son cerveau en écrivant les futures tâches et activités rapidement (i.e.: sans mise en forme) dans un endroit où l'on est sûr que ce qui est écrit sera traité.
 C'est cette certitude seule qui permet à l'idée de vraiment sortir du cerveau et pouvoir se reconcentrer sur le présent.
-	
+
 ## 2. Clarifier les idées (le "What is it?")
 
 
