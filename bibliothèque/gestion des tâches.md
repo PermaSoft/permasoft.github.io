@@ -21,12 +21,19 @@ La clarification consiste donc à donner du sens a cette note et a décider de c
 
 ## 3. Organiser les idées en actions, tâches, notes 
 
-Dans le schéma, c'est le 2e cercle d'icones (l'extérieur du cercl de "Projets" à gauche à "Someday/may be" à droite)
+Dans le schéma, c'est le 2e cercle d'icones (l'extérieur du cercle) de "Projets" à gauche à "Someday/may be" à droite.
 
 Quand on sait ce que c'est et ce que l'on veut en faire, on peut alors le ranger là où il nous sera utile quand on passera à l'action.
 Donc dans l'agenda pour une action à faire à une certaine date, dans le fichier de préparation d'entretien avec votre chef, collaborateur ou client, etc.
 
-3. Rafraichir les listes d'actions, de tâches, de notes pour retirer les obsolètes, les doublons et ranger le reste
+## 4. Rafraichir les listes 
+
+Dans le schéma, on nettoie les listes qui sont à l'extérieur du cercle.
+
+L'étape 1 rempli des listes d'entrées ("inbox" de messagerie, etc.), les 2 et 3 vident les listes d'entrées et rangent les choses à faire dans des listes prêtes à l'emploi, sauf que...
+
+Nos listes de tâches par projets et autres listes de courses ne sont pas au courant des surprises et zautres
+d'actions, de tâches, de notes pour retirer les obsolètes, les doublons et ranger le reste
 4. Agir enfin selon votre temps disponible, votre énergie, votre contexte, vous prenez la tâche la plus pertinente disponible
 
 
