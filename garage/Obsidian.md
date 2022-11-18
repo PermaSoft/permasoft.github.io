@@ -12,7 +12,7 @@ Le deuxième contient le site que vous être en train lire.
 
 Mes notes contiennent [[Garage/GTD avec Obsidian|mon GTD]] et [[Garage/Zettelkasten avec Obsidian|mon Zettelkasten]].
 
-[[Bibliothèque/Getting Things Done|GTD - "Getting Things Done"]] est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
+[[Bibliothèque/Getting Things Done/Getting Things Done|GTD - "Getting Things Done"]] est une méthode pour avoir des listes de tâches utiles que l'on sort définitivement de notre tête pour pouvoir se concentrer sur le présent, sans plus de distraction.
 Ces listes sont ensuite travaillées par la méthode pour nous fournir une vision des activités à faire qui permet de se mettre tout de suite au travail sans tergiverser.
 
 [[Bibliothèque/Zettelkasten|Zettelkasten]] est une base de connaissance orienté notes et association entre ces notes.

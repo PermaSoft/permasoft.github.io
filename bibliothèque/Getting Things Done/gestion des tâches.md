@@ -49,4 +49,4 @@ A chaque moment, vous savez quelle énergie vous avez, quel temps disponible  et
 Prendre la plus pertinente devient une affaire de secondes.
 
 Si la procrastination est là, il y a peut-être des questions à se poser sur l'alignement entre votre liste de choses à faire et vos objectifs/engagements ? 
-Il sera alors temps de challenger vos [[horizons]].
+Il sera alors temps de challenger vos [[horizons d'attention]].
