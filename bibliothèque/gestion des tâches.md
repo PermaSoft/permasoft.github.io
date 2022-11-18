@@ -6,8 +6,13 @@ Image de [gettingthingsdone.com](https://gettingthingsdone.com/wp-content/upload
 
 Il s'agit ici de sortir la charge mentale de son cerveau en écrivant les futures tâches et activités rapidement (i.e.: sans mise en forme) dans un endroit où l'on est sûr que ce qui est écrit sera traité.
 C'est cette certitude seule qui permet à l'idée de vraiment sortir du cerveau et pouvoir se reconcentrer sur le présent.
+Il faut aussi avoir un minimum d'endroit où on écrit ses activités futures en plus de vider régulièrement ces endroits.
 
 ## 2. Clarifier les idées (le "What is it?")
+
+Régulièrement, tous les jours ou toute les semaines, on dépile, on traite, on ventile ces endroits, ces listes.
+Ce que l'on a écrit était ce que l'on avait en tête à ce moment là et que l'on a sorti aussi vite que possible pour se remttre dans le travail qui était présent...
+
 
 
 2. Organiser les idées en actions, tâches, notes (de "Is it Actionable?" au 2e cercle d'icones - l'extérieur de "Projets" à gauche à "Someday/may be" à droite)
