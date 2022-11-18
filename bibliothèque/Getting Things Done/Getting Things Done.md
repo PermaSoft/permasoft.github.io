@@ -15,13 +15,15 @@ Il y a trois types de gestions dans la méthode :
 
 1. La [[gestion des tâches]] au quotidien dont tout le monde parle,
 2. La [[planification naturelle]] des projets dont on parle peu et 
-3. Les [[horizons d'attention]] d'attention dont on parle beaucoup moins.
+3. Les [[horizons d'attention]] d'attention dont on parle encore moins.
 
 Le livre fondateur GTD est "[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)" par David Allen. 
 Il est écris à l'américaine : très descriptif, donc facile à lire, long et complet.
 Le [site officiel de la méthode GTD](https://gettingthingsdone.com/) propose un [guide rapide](https://store.gettingthingsdone.com/GTD-Methodology-Guides-p/40102.htm).
-Le guide est un bon rappel de tous les éléments qui compose la méthode, mais vous aurez besoin de plus pour y mettre du sens.
+Le guide est un bon rappel de tous les éléments qui compose la méthode, mais il se limite à décrire le quoi, pas le comment ni le pourquoi dont vous aurez besoin pour essayer cette méthode.
 
-Cela va plus loin que le nettoyage d'une TODO et si vous n'avez pas la main sur votre liste de tâches, vous aurez un beau trou dans la méthode.
-Je n'ai pas toujours la main sur mes tâches, notamment, quand je travaille dans une équipe opérationnelle.
+Autre point, je n'ai pas toujours la main sur toutes mes tâches, notamment, quand je travaille dans une équipe opérationnelle.
 Cette dernière a souvent sa propre liste d'activités à réaliser...
+Je parle de toi le backlog dans Jira !
+Dans ces cas là, la méthode fonctionne pour les autres aspects de ma vie.
+Vous pouvez
