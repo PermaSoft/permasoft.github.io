@@ -45,6 +45,8 @@ Ceux qui mettent des tâches pour mettre GTD en place, on vous voit ! ;-)
 
 Vous avez des listes par projet et du temps dédié à vos projets dans votre calendrier.
 Vous avez des listes par contraintes/contextes (maison, travail, chez le client, etc.).
-A chaque moment, vous savez quelle énergie vous avez, quel temps disponible  et vous avez des listes de choses utiles à faire.
+A chaque moment, vous savez quelle énergie vous avez, quel temps disponible  et vous avez des listes de choses utiles faisables et à faire.
+Prendre la plus pertinente devient une affaire de secondes.
 
-
+Si la procrastination est là, il y a peut-être des questions à se poser sur l'alignement entre votre liste de choses à faire et vos objectifs/engagements ? 
+Il sera alors temps de challenger vos [[horizons]].
