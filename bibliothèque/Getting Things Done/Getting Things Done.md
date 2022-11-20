@@ -14,8 +14,8 @@ Il y a plusieurs propriétés qui m'intéressent dans cette méthode:
 Il y a trois types de gestions dans la méthode : 
 
 1. La [[gestion des tâches]] au quotidien dont tout le monde parle,
-2. La [[planification naturelle]] des projets dont on parle peu et 
-3. Les [[horizons d'attention]] d'attention dont on parle encore moins.
+2. La [[planification naturelle]] des projets même petits qui cumulent plus de deux sessions de travail dont on parle peu et 
+3. Les [[horizons d'attention]] sur son alignement à long terme avec nos objectifs et nos valeurs dont on parle encore moins.
 
 Le livre fondateur GTD est "[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)" par David Allen. 
 Il est écris à l'américaine : très descriptif, donc facile à lire, long et complet.
