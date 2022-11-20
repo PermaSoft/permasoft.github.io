@@ -14,7 +14,13 @@ La réponse contient souvent un objectif et quelques principes qui cadrent les l
 
 Un fois que l'on sait ce que l'on veut, on se projette naturellement à la fin du projet pour anticiper la satisfaction de la réussite probablement pour se motiver.
 La question fréquente ici est : "à quoi ressemble ce projet une fois qu'il est réussi ou terminé ?"
-La réponse que l'on obtient
+La réponse que l'on obtient contient souvent une visualisation de l'objectif avec des critères clairs, motivants et atteignables.
+L'auteur parle de source de concentration et de clarification des objectifs.
+
+## 3. Le brainstorming
+
+Une fois que le pourquoi et le quoi sont clairs, le cerveau se demande comment faire pour terminer ce projet ?
+
 
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
