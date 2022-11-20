@@ -7,11 +7,13 @@ Quand on n'essaye pas de suivre une méthode de manager et que l'on s'y prend na
 ## 1. L'objet du projet, son but
 
 Tant que cette partie est floue, vous aurez des actions inutiles en tête.
-Nous répondons souvent à la question : "Pourquoi doit-je faire ce projet ?"
+Nous répondons souvent à la question : "Pourquoi doit-je faire ce projet ?", voire "Pour quoi doit-je faire ce projet ?".
+La réponse contient souvent un objectif et quelques principes qui cadrent le projet.
 
 ## 2. La vision
 
-
+Un fois que l'on sait ce que l'on veut, on se projette naturellement à la fin du projet pour anticiper la satisfaction de la réussite probablement pour se motiver.
+La question fréquente ici est : ""
 
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
