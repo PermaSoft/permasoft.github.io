@@ -24,8 +24,14 @@ Naturellement, j'aurais tendance à chercher un chemin du début à la fin et m�
 En équipe, il existe des ateliers d'intelligence collective qui entrent dans la catégorie du brainstorming où l'on sépare les deux phases que je viens de décrire : génération d'idées suivi de filtrage et structuration.
 David Allen propose de ne pas filtrer immédiatement, mais d'avoir, comme en équipe, une phase créative de génération d'idées puis dans une étape suivante, une structuration de ces idées.
 
-Le brainstorming
-Sur papier en mettant en veilleuse l'analyse et la structuration.jusqu'à 
- d'être conscient de ce ping-pong divergent et convergent où l'on trouve des idées, puis on les classes 
+Le brainstorming, ici, ne décrit que la phase divergente où l'on sort toutes nos idées sur papier et sans jugement jusqu'à l'épuisement de la source d'idées.
+La phase convergente de structuration des idées fait partie, chez moi, d'un atelier de brainstorming. 
+David Allen la présente dans une deuxième étape séparée.
+
+## 4. La structuration
+
+
+## 5. Actions suivantes
+
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
