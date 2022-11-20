@@ -20,6 +20,8 @@ L'auteur parle de source de concentration et de clarification des objectifs.
 ## 3. Le brainstorming
 
 Une fois que le pourquoi et le quoi sont clairs, le cerveau se demande comment faire pour terminer ce projet ?
-Naturellement, j'aurais tendance à chercher un chemin du début à la fin et même si mêm
+Naturellement, j'aurais tendance à chercher un chemin du début à la fin et même si mes idées ne suivent pas l'ordre chronologique, je les rationalise, je les filtre immédiatement.
+En équipe, il existe des ateliers d'intelligence collective qui entre dans la catégorie du brainstorming où l'on sépare les deux phases que je viens de décrire : génération d'idées, filtrage et structuration.
+
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
