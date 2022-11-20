@@ -21,9 +21,10 @@ L'auteur parle de source de concentration et de clarification des objectifs.
 
 Une fois que le pourquoi et le quoi sont clairs, le cerveau se demande comment faire pour terminer ce projet ?
 Naturellement, j'aurais tendance à chercher un chemin du début à la fin et même si mes idées ne suivent pas l'ordre chronologique, je les rationalise, je les filtre __immédiatement__.
-En équipe, il existe des ateliers d'intelligence collective qui entrent dans la catégorie du brainstorming où l'on sépare les deux phases que je viens de décrire : génération d'idées, filtrage et structuration.
-David Allen propose de ne pas filtrer immédiatement, mais d'avoir, comme en équipe, une phase créative de génération d'idées puis dans une étapes suivante, une structuration de ces idées.
+En équipe, il existe des ateliers d'intelligence collective qui entrent dans la catégorie du brainstorming où l'on sépare les deux phases que je viens de décrire : génération d'idées suivi de filtrage et structuration.
+David Allen propose de ne pas filtrer immédiatement, mais d'avoir, comme en équipe, une phase créative de génération d'idées puis dans une étape suivante, une structuration de ces idées.
 
+Le brainstorming
 Sur papier en mettant en veilleuse l'analyse et la structuration.jusqu'à 
  d'être conscient de ce ping-pong divergent et convergent où l'on trouve des idées, puis on les classes 
 
