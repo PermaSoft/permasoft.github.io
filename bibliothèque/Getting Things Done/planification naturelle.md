@@ -20,7 +20,6 @@ L'auteur parle de source de concentration et de clarification des objectifs.
 ## 3. Le brainstorming
 
 Une fois que le pourquoi et le quoi sont clairs, le cerveau se demande comment faire pour terminer ce projet ?
-
-
+Naturellement, j'aurais tendance à chercher un chemin du début à la fin et même si mêm
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
