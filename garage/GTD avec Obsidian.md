@@ -28,10 +28,19 @@ Si vous voulez une autre vision du même setup, voici la vidéo qui m'a fait exp
 
 Il y a beaucoup de plugins inclus qui n'ont pas d'impact sur ma façon de travailler.
 Ceci dis, j'ai trouvé deux plugins sur lesquels j'ai une opinion.
-La sauvegarde de workspace permet d'inclure votre configuration dans les éléments synchronisés.
-C'est très pratique au début, en phase de bidouille pour avoir les dernière trouvaille sur chaque ordinateur et sur le téléphone.
 
-avec le plugin de note quotidienne et la sauvegarde de workspace.
+**La sauvegarde de workspace** permet d'inclure votre configuration dans les éléments synchronisés.
+C'est très pratique au début, en phase de bidouille pour avoir les dernière trouvaille sur chaque ordinateur et sur le téléphone.
+Assez vite, on souhaite une configuration sur téléphone plus adapté à sa taille d'écran (sans rétro lien affichés ou autre).
+Il faudra désactiver cette sauvegarde des workspace sur chaque périphérique si on ne veut pas qu'ils se re-déploient à nouveau au fil des synchronisations.
+
+**La note quotidienne** et son template me permettent d'ouvrir obsidian sur un fichier contenant déjà une \#todo/DateDuJour qu'il ne me reste qu'à remplir.
+
+'''
+#todo/{{date:YYYY-MM-DD}}
+- [ ] 
+'''
+
 
 
 
