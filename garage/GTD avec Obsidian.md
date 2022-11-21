@@ -17,7 +17,8 @@ Obsidian est plein de plugin trop cools.
 Trop.
 Ces plugins se chargent souvent au démarrage et augmentent le délai entre le lancement de l'outil et le moment ou on écrit son idée.
 Après une cure d'amaigrissement, en plus des quelques plugins principaux, il me reste un seul plugin communautaire : "[checklist](https://obsidian.md/plugins?id=obsidian-checklist-plugin)"
-Ce plugin 
+Ce plugin propose un vue qui regroupe toutes les listes marquées d'un titre commençant par un tag \#todo.
+Ces tags peuvent grouper vos listes par projets (\#todo/projet1) ou par contexte (\#todo/maison), etc.
 
 Actually getting things done with Obsidian // Checklist plugin
 https://www.youtube.com/watch?v=ODhHTngIMJE
