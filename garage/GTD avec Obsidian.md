@@ -46,11 +46,12 @@ Une fois que chaque environnement à sa définition du workspace, ils peuvent av
 Le fichier de note quotidienne est toujours dans le même répertoire et se nomme toujours avec le même format.
 Il m'est très facile d'en faire une revue régulière de mes entrants pour les clarifier.
 Le coeur du template de note quotidienne contient cet extrait :
-'''
 
+```md
+# Daily inbox's todo for {{date:YYYY-MM-DD}}
 #todo/inbox
 - [ ] 
-'''
+```
 
 ## Contraintes méthodologiques
 
