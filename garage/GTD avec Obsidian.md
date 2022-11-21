@@ -25,6 +25,9 @@ Cette vue que j'utilise surtout sur ordinateur m'aide a faire une revue de mes p
 Voici la vidéo qui m'a fait expérimenter ce plugin :
 [Actually getting things done with Obsidian // Checklist plugin](https://www.youtube.com/watch?v=ODhHTngIMJE)
 
+GTD place les tâches dépendante du temps dans un calendrier.
+Obsidian propose des plugins 
+
 #### Plugins Internes (Principaux)
 
 Il y a beaucoup de plugins inclus qui n'ont pas d'impact sur ma façon de travailler.
@@ -62,5 +65,5 @@ Le dossier de tâches contient des notes quotidiennes que je n'ai pas encore fin
 Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré sur mes activités en cours que ce soit préparer une présentation ou un kata pour un client ou jouer avec les enfants.
 
 Enfin, le dossier projets contient une note par projets et un dossier d'archives.
-Les notes deviennent souvent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
+Les notes deviennent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
 
