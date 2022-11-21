@@ -70,4 +70,6 @@ Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré 
 Enfin, le dossier projets contient une note par projets et un dossier d'archives.
 Les notes sont souvent un début de "[[Bibliothèque/Getting Things Done/planification naturelle|planification naturelle]]".
 Les notes deviennent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
+Lors du passage en dossier, j'y place un premier fichier "Objectifs" qui contient le pourquoi et le quoi du projet.
+Le deuxième fichier porte le nom du dossier ou presque et contient le comment, le brainstorming, les listes de choses à faire, donc les listes de type \#todo/monProjet.
 
