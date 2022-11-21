@@ -27,5 +27,7 @@ Si vous voulez une autre vision du même setup, voici la vidéo qui m'a fait exp
 #### Plugins Internes
 
 Je vous laisse voir ce que vous souhaitez désactiver pour gagner des millisecondes.
+J'ai trouvé dans ces plugins l'occasion d'arriver plus à l'endroit où je souhaite écrire avec le plugin de note quotidienne.
+
 
 
