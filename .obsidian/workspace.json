@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garage/Obsidian.md",
+                "file": "Garage/GTD avec Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garage/Obsidian.md",
+                "file": "Garage/GTD avec Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garage/Obsidian.md",
+                "file": "Garage/GTD avec Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garage/Obsidian.md"
+                "file": "Garage/GTD avec Obsidian.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
+    "Garage/Obsidian.md",
     "Garage/GTD avec Obsidian.md",
     "Bibliothèque/Getting Things Done/planification naturelle.md",
     "Bibliothèque/Getting Things Done/Getting Things Done.md",
@@ -154,7 +155,6 @@
     "Bibliothèque/Getting Things Done/gestion des tâches.md",
     "Bibliothèque/horizons.md",
     "Bienvenue.md",
-    "Garage/Obsidian.md",
     "Salon/_maintenabilite.md",
     "Bibliothèque/Pragmatic Programmer.md"
   ]
