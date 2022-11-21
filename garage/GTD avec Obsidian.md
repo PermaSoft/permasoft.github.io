@@ -26,7 +26,8 @@ Voici la vidéo qui m'a fait expérimenter ce plugin :
 [Actually getting things done with Obsidian // Checklist plugin](https://www.youtube.com/watch?v=ODhHTngIMJE)
 
 GTD place les tâches dépendante du temps dans un calendrier.
-Obsidian propose des plugins 
+Obsidian propose des plugins qui affichent [votre calendrier externe dans Obsidian](https://obsidian.md/plugins?id=obsidian-full-calendar).
+Ceal permet de référencer vos évènements depuis vos notes, mais le calendrier externe reste en lecture seule
 
 #### Plugins Internes (Principaux)
 
