@@ -34,9 +34,14 @@ David Allen la présente dans une deuxième étape séparée, la structuration.
 
 Après un étape dédiée à la créativité et la production d'idées sur les choses à faire, penser ou organiser, viens enfin le temps de les nettoyer et les organiser.
 Il y a des idées que l'on rejette, celles qui en génèrent d'autres ou encore celles qui font partie du plan final.
+Lors de ce tri, nous allons ordonner par chronologie, grouper par proximité, trier par séquence et/ou priorité.
 
+Le résultat de cette étape est une liste d'activités à réaliser dont la forme dépend du projet, de sa taille et de votre culture.
+Cela va de la liste de courses au Gantt en passant par des story maps.
 
 ## 5. Actions suivantes
+
+Avec la structuration, nous savons **tout ce qu'il y a à faire**.
 
 
 https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
