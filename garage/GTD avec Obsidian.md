@@ -27,7 +27,9 @@ Voici la vidéo qui m'a fait expérimenter ce plugin :
 
 GTD place les tâches dépendante du temps dans un calendrier.
 Obsidian propose des plugins qui affichent [votre calendrier externe dans Obsidian](https://obsidian.md/plugins?id=obsidian-full-calendar).
-Ceal permet de référencer vos évènements depuis vos notes, mais le calendrier externe reste en lecture seule
+Cela permet de référencer vos évènements depuis vos notes, mais le calendrier externe reste en lecture seule.
+Vous pouvez avoir un calendrier local en écriture.
+Bref, je préfère mon calendrier en ligne qui fonctionne déjà sur l'ordinateur et le téléphone.
 
 #### Plugins Internes (Principaux)
 
@@ -66,5 +68,6 @@ Le dossier de tâches contient des notes quotidiennes que je n'ai pas encore fin
 Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré sur mes activités en cours que ce soit préparer une présentation ou un kata pour un client ou jouer avec les enfants.
 
 Enfin, le dossier projets contient une note par projets et un dossier d'archives.
+Les notes sont souvent un début de "[[Bibliothèque/Getting Things Done/planification naturelle|planification naturelle]]".
 Les notes deviennent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
 
