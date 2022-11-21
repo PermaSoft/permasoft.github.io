@@ -40,13 +40,15 @@ Ceci dis, j'ai trouvé deux plugins sur lesquels j'ai une opinion.
 C'est très pratique au début, en phase de bidouille pour avoir les dernière trouvaille sur chaque ordinateur et sur le téléphone.
 Assez vite, on souhaite une configuration sur téléphone plus adapté à sa taille d'écran (sans rétro lien affichés ou autre).
 Il faudra désactiver cette sauvegarde des workspace sur chaque périphérique si on ne veut pas qu'ils se re-déploient à nouveau au fil des synchronisations.
+Une fois que chaque environnement à sa définition du workspace, ils peuvent avoir des plugins différents comme [Google Lookup](https://obsidian.md/plugins?id=obsidian-google-lookup) qui peux importer des données de vos contacts ou évènements à la demande pour écrire un compte rendu de réunion ou de coup de téléphone.
 
 **La note quotidienne** et son template me permettent d'ouvrir obsidian sur un fichier contenant déjà une \#todo/DateDuJour qu'il ne me reste qu'à remplir.
 Le fichier de note quotidienne est toujours dans le même répertoire et se nomme toujours avec le même format.
 Il m'est très facile d'en faire une revue régulière de mes entrants pour les clarifier.
 Le coeur du template de note quotidienne contient cet extrait :
 '''
-#todo/{{date:YYYY-MM-DD}}
+
+#todo/inbox
 - [ ] 
 '''
 
