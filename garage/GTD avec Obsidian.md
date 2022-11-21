@@ -16,7 +16,7 @@ J'ai trouvé un outil qui maintient un dossier local synchronisé qui s'appelle 
 Obsidian est plein de plugin trop cools.
 Trop.
 Ces plugins se chargent souvent au démarrage et augmentent le délai entre le lancement de l'outil et le moment ou on écrit son idée.
-Après une cure d'amaigrissement, il me reste un seul plugin communautaire : "checklist"
+Après une cure d'amaigrissement, il me reste un seul plugin communautaire : "[checklist](https://obsidian.md/plugins?id=obsidian-checklist-plugin)"
 
 Actually getting things done with Obsidian // Checklist plugin
 https://www.youtube.com/watch?v=ODhHTngIMJE
