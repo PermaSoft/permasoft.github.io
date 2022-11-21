@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garage/GTD avec Obsidian.md",
+                "file": "Bibliothèque/Zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garage/GTD avec Obsidian.md",
+                "file": "Bibliothèque/Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garage/GTD avec Obsidian.md",
+                "file": "Bibliothèque/Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garage/GTD avec Obsidian.md"
+                "file": "Bibliothèque/Zettelkasten.md"
               }
             }
           }
@@ -144,7 +144,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "09dd8dd1536dac81",
+  "active": "e5d52112905547ac",
   "lastOpenFiles": [
     "Garage/Obsidian.md",
     "Garage/GTD avec Obsidian.md",

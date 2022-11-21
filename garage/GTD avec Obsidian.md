@@ -62,7 +62,7 @@ Permanentes contient des notes, des liens, des idées, des présentations, de la
 Ce dossier est assez informel.
 J'y stocke mes bribes d'informations en les nommant, puis je les regroupe par proximité dans des sous dossiers.
 Parfois, une information va d'une branche de sous dossier à une autre au grès de mes centres d'intérêts.
-Il va falloir que je me penche sur une gestion de connaissance du type [[Bibliothèque/Zettelkasten]] pour ranger tout ça.
+Il va falloir que je me penche sur une gestion de connaissance du type [[Bibliothèque/Zettelkasten|Zettelkasten]] pour ranger tout ça.
 
 Le dossier de tâches contient des notes quotidiennes que je n'ai pas encore fini de clarifier/consommer et leur template.
 Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré sur mes activités en cours que ce soit préparer une présentation ou un kata pour un client ou jouer avec les enfants.
