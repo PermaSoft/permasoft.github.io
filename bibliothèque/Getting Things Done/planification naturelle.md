@@ -28,10 +28,12 @@ David Allen propose de ne pas filtrer immédiatement, mais d'avoir, comme en éq
 
 Le brainstorming, ici, ne décrit que la phase divergente où l'on sort toutes nos idées sur papier et sans jugement jusqu'à l'épuisement de la source d'idées.
 La phase convergente de structuration des idées fait partie, chez moi, d'un atelier de brainstorming. 
-David Allen la présente dans une deuxième étape séparée.
+David Allen la présente dans une deuxième étape séparée, la structuration.
 
 ## 4. La structuration
 
+Après un étape dédiée à la créativité et la production d'idées sur les choses à faire, penser ou organiser, viens enfin le temps de les nettoyer et les organiser.
+Il y a des idées que l'on rejette, celles qui en génèrent d'autres ou encore celles qui font partie du plan final.
 
 
 ## 5. Actions suivantes
