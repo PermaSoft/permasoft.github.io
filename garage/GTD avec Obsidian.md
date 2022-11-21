@@ -24,10 +24,14 @@ Ces tags peuvent grouper vos listes par projets (\#todo/projet1) ou par contexte
 Si vous voulez une autre vision du même setup, voici la vidéo qui m'a fait expérimenter ce plugin :
 [Actually getting things done with Obsidian // Checklist plugin](https://www.youtube.com/watch?v=ODhHTngIMJE)
 
-#### Plugins Internes
+#### Plugins Internes (Principaux)
 
-Je vous laisse voir ce que vous souhaitez désactiver pour gagner des millisecondes.
-J'ai trouvé dans ces plugins l'occasion d'arriver plus à l'endroit où je souhaite écrire avec le plugin de note quotidienne et la sauvegarde de workspace.
+Il y a beaucoup de plugins inclus qui n'ont pas d'impact sur ma façon de travailler.
+Ceci dis, j'ai trouvé deux plugins sur lesquels j'ai une opinion.
+La sauvegarde de workspace permet d'inclure votre configuration dans les éléments synchronisés.
+C'est très pratique au début, en phase de bidouille pour avoir les dernière trouvaille sur chaque ordinateur et sur le téléphone.
+
+avec le plugin de note quotidienne et la sauvegarde de workspace.
 
 
 
