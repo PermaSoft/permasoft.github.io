@@ -38,14 +38,18 @@ Il faudra désactiver cette sauvegarde des workspace sur chaque périphérique s
 **La note quotidienne** et son template me permettent d'ouvrir obsidian sur un fichier contenant déjà une \#todo/DateDuJour qu'il ne me reste qu'à remplir.
 Le fichier de note quotidienne est toujours dans le même répertoire et se nomme toujours avec le même format.
 Il m'est très facile d'en faire une revue régulière de mes entrants pour les clarifier.
-
-
+Le coeur du template de note quotidienne contient cet extrait :
 '''
 #todo/{{date:YYYY-MM-DD}}
 - [ ] 
 '''
 
+## Contraintes méthodologiques
 
+La principale contrainte et bientôt la seule (j'espère) est d'essayer des façons de faire jusqu'à ce que ca marche.
+
+Aujourd'hui, fin 2022, 5 mois après mes première lectures sur le sujet, mon contenu dans Obsidian et répartit dans 3 dossiers : références, tâches et projets.
+Les références ont deux sous dossier
 
 
 
