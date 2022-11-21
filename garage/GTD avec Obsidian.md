@@ -49,10 +49,18 @@ Le coeur du template de note quotidienne contient cet extrait :
 La principale contrainte et bientôt la seule (j'espère) est d'essayer des façons de faire jusqu'à ce que ca marche.
 
 Aujourd'hui, fin 2022, 5 mois après mes premières lectures sur le sujet, mon contenu dans Obsidian et répartit dans 3 dossiers : références, tâches et projets.
+
 Les références ont deux sous-dossiers incubations et permanentes.
 Incubations contient des notes clarifiées, nommées mais non consommées, ni étudiées.
 Permanentes contient des notes, des liens, des idées, des présentations, de la connaissances que je connais, sur lesquelles j'ai une opinion.
 Ce dossier est assez informel.
 J'y stocke mes bribes d'informations en les nommant, puis je les regroupe par proximité dans des sous dossiers.
 Parfois, une information va d'une branche de sous dossier à une autre au grès de mes centres d'intérêts.
-Il va falloir que je me penche sur une gestion de connaissance du type [[Bibliothèque/Zettelkasten]]
+Il va falloir que je me penche sur une gestion de connaissance du type [[Bibliothèque/Zettelkasten]] pour ranger tout ça.
+
+Le dossier de tâches contient des notes quotidiennes que je n'ai pas encore fini de clarifier/consommer et leur template.
+Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré sur mes activités en cours que ce soit préparer une présentation ou un kata pour un client ou jouer avec les enfants.
+
+Enfin, le dossier projets contient une note par projets et un dossier d'archives.
+Les notes deviennent souvent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
+
