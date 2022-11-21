@@ -42,6 +42,8 @@ Cela va de la liste de courses au Gantt en passant par des story maps.
 ## 5. Actions suivantes
 
 Avec la structuration, nous savons **tout ce qu'il y a à faire**.
+Ici, nous allons donc nous attacher à rendre chaque activité (groupe de tâches) du projet actionnable.
+Quel est le prochain petit pas que l'on peut décrire avec un verbe et un complément ?
+A cette étape, il est possible que certains aspect du projet soient encore inconnus, flous, lointains.
+En conséquences, il est possible que certaines prochaines actions parlent d'aller chercher plus d'information ou encore de planifier telle partie plus en détails.
 
-
-https://gettingthingsdone.com/insights/launching-projects-with-the-natural-planning-model/
