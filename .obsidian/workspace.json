@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliothèque/Zettelkasten.md",
+                "file": "Bibliothèque/Getting Things Done/Getting Things Done.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliothèque/Zettelkasten.md",
+                "file": "Bibliothèque/Getting Things Done/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliothèque/Zettelkasten.md",
+                "file": "Bibliothèque/Getting Things Done/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibliothèque/Zettelkasten.md"
+                "file": "Bibliothèque/Getting Things Done/Getting Things Done.md"
               }
             }
           }
@@ -146,14 +146,14 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
+    "Bibliothèque/Getting Things Done/planification naturelle.md",
+    "Bibliothèque/Getting Things Done/Getting Things Done.md",
+    "Bibliothèque/Getting Things Done/gestion des tâches.md",
+    "Bibliothèque/Zettelkasten.md",
     "Garage/Obsidian.md",
     "Garage/Sauvegardes de Obsidian.md",
     "Garage/GTD avec Obsidian.md",
-    "Bibliothèque/Zettelkasten.md",
-    "Bibliothèque/Getting Things Done/planification naturelle.md",
-    "Bibliothèque/Getting Things Done/Getting Things Done.md",
     "Bibliothèque/Getting Things Done/horizons d'attention.md",
-    "Bibliothèque/Getting Things Done/gestion des tâches.md",
     "Bibliothèque/horizons.md",
     "Bienvenue.md"
   ]
