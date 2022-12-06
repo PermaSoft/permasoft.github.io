@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garage/Zettelkasten avec Obsidian.md",
+                "file": "Entrée/Nicolas Fédou.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garage/Zettelkasten avec Obsidian.md",
+                "file": "Entrée/Nicolas Fédou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garage/Zettelkasten avec Obsidian.md",
+                "file": "Entrée/Nicolas Fédou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garage/Zettelkasten avec Obsidian.md"
+                "file": "Entrée/Nicolas Fédou.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
     "Bienvenue.md",
+    "Garage/Zettelkasten avec Obsidian.md",
     "Village/Flowcon.md",
     "Village/Craft Conf.md",
     "Salon/permaculture.md",
@@ -154,7 +155,6 @@
     "Entrée/Nicolas Fédou.md",
     "Entrée/Offres de services.md",
     "Bibliothèque/Zettelkasten.md",
-    "Bibliothèque/Getting Things Done/horizons d'attention.md",
-    "Bibliothèque/Getting Things Done/gestion des tâches.md"
+    "Bibliothèque/Getting Things Done/horizons d'attention.md"
   ]
 }
