@@ -8,30 +8,31 @@ Le kata demande donc une boucle de 0 à 100, les démos se limitent souvent aux 
 Si on cherche des exemples, on trouve :
 ```mermaid
 mindmap
-  root((FizzBuzzer))
-	  Non multiple
-		  examples
-			  1 retourne "1"
-			  2 retourne "2"
-		  Propriétés
-			  générateur de nombres premiers compris entre 5 exclu et 100 inclu (7, 11) retourne le nombre en texte
-	  Fizz
-		  exemples
-			  3 retourne Fizz
-			  6 retourne Fizz
-		  propriétés
-			  générateur de nombres entre 1 et (100/3)=33, multiplié par 3 retourne Fizz
-	  Buzz
-		  exemples
-			  5 retourne Buzz
-			  10 retourne Buzz
-		  propriétés
-			  générateur de nombres entre 1 et (100/5)=20, multiplié par 5 retourne Buzz
-	  FizzBuzz
-		  exemples
-			  3*5=15 retourne FizzBuzz
-			  15*2=30 retourne FizzBuzz
-		  propriétés
-			  générateur de nombres entre 1 et (100/15)=20, multiplié par 5 retourne Buzz
-			  
+	root((FizzBuzzer))
+		Non multiple
+			exemples
+				1 retourne "1"
+				2 retourne "2"
+			Propriétés
+				générateur de nombres premiers compris entre 5 exclu et 100 inclu (7, 11) retourne le nombre en texte
+		Fizz
+			exemples
+				3 retourne Fizz
+				6 retourne Fizz
+			propriétés
+				générateur de nombres entre 1 et (100/3)=33, multiplié par 3 (et inférieur à 100) retourne Fizz
+		Buzz
+			exemples
+				5 retourne Buzz
+				10 retourne Buzz
+			propriétés
+				générateur de nombres entre 1 et (100/5)=20, multiplié par 5 (et inférieur à 100) retourne Buzz
+		FizzBuzz
+			exemples
+				3*5=15 retourne FizzBuzz
+				15*2=30 retourne FizzBuzz
+			propriétés
+				générateur de nombres entre 1 et (100/15)=6 ou 7, multiplié par 15 (et inférieur à 100) retourne Buzz
+
 ```
+
