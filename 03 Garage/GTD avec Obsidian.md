@@ -1,4 +1,4 @@
-En effet, j'utilise l'outil ou le logiciel [[Garage/Obsidian|Obsidian]] avec la méthode [[Bibliothèque/Getting Things Done/Getting Things Done|GTD]].
+En effet, j'utilise l'outil ou le logiciel [[03 Garage/Obsidian|Obsidian]] avec la méthode [[02 Bibliothèque/Getting Things Done/Getting Things Done|GTD]].
 
 ## Contraintes techniques
 
@@ -65,13 +65,13 @@ Permanentes contient des notes, des liens, des idées, des présentations, de la
 Ce dossier est assez informel.
 J'y stocke mes bribes d'informations en les nommant, puis je les regroupe par proximité dans des sous dossiers.
 Parfois, une information va d'une branche de sous dossier à une autre au grès de mes centres d'intérêts.
-Il va falloir que je me penche sur une gestion de connaissance du type [[Bibliothèque/Zettelkasten|Zettelkasten]] pour ranger tout ça.
+Il va falloir que je me penche sur une gestion de connaissance du type [[02 Bibliothèque/Zettelkasten|Zettelkasten]] pour ranger tout ça.
 
 Le dossier de tâches contient des notes quotidiennes que je n'ai pas encore fini de clarifier/consommer et leur template.
 Ce dossier contient donc tout ce que je sors de ma tête pour rester concentré sur mes activités en cours que ce soit préparer une présentation ou un kata pour un client ou jouer avec les enfants.
 
 Enfin, le dossier projets contient une note par projets et un dossier d'archives.
-Les notes sont souvent un début de "[[Bibliothèque/Getting Things Done/planification naturelle|planification naturelle]]".
+Les notes sont souvent un début de "[[02 Bibliothèque/Getting Things Done/planification naturelle|planification naturelle]]".
 Les notes deviennent souvent un dossier car il contiennent tous les documents utiles au projet : devis, livrables, compte rendu de réunions, temps passé, etc.
 Lors du passage en dossier, j'y place un premier fichier "Objectifs" qui contient le pourquoi et le quoi du projet.
 Le deuxième fichier porte le nom du dossier ou presque et contient le comment, le brainstorming, les listes de choses à faire, donc les listes de type \#todo/monProjet.

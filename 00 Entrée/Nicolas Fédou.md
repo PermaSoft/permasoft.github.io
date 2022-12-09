@@ -18,7 +18,7 @@ J'interviens souvent avec un rôle de développeur mentor, co-Tech Lead ou encor
 Je réalise donc des audits ou des accompagnements pour remettre l'IT sur de bons rails.
 Certains clients me délèguent la réalisation d'une capacité fonctionnelle ou technique que le quotidien ne leur permet pas.
 Vous savez cet outil annexe qui vous aiderai beaucoup, mais qui ne pars pas en production et sera toujours moins prioritaire, moins urgente que la fonctionnalité métier suivante.
-Vous pouvez consulter le détail de [mes offres sur la page dédiée](Entrée/Offres%20de%20services.md).
+Vous pouvez consulter le détail de [mes offres sur la page dédiée](00%20Entrée/Offres%20de%20services.md).
 
 En espérant pouvoir collaborer avec vous,
 Nicolas Fédou.
