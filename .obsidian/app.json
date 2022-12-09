@@ -8,5 +8,6 @@
   "attachmentFolderPath": "./",
   "promptDelete": false,
   "livePreview": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true
 }
