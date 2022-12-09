@@ -29,12 +29,18 @@ Pour que cette fonction puisse faire le travail, elle a besoin d'informations : 
 
 Vous aurez souvent une idée claire de la fonction a appeler et de ses besoins d'initialisation, donc vous écrirez souvent les tests dans l'ordre où on les lis.
 
+Coté code de production, l'implémentation doit être la plus simple possible, donc bête et naïve.
+Donc on retourne "1" et pas un nombre converti en 
+
 Après avoir testé le cas nominal le plus simple et implémenté cette "balle traçante", il reste a construire les autres aspect de la fonctionnalité autour.
 En kata, on se limite aux cas attendus et explicites.
 En projet, j'ai tendance a continuer avec la validation des arguments, le code défensif, tout ce qui me permet d'échouer rapidement.
 C'est pas le plus fun, par contre, le reste de l'algorithme ne raisonnera que sur des données valides et ça réduit agréablement la charge cognitive.
 Ce code défensif ce fait souvent à l'entrée des APIs et pas dans les règles de gestion de la couche métier.
 On pourrait écrire un test qui envoie un nombre négatif ou au-dessus de 100.
+
+Passons à un 2e tests, on vérifie 2 ou on test un premier fizz ?
+La réponse va dépendre de votre niveau de confiance dans les tests existant pour documenter votre fonctionnalité et dans le code de prod pour être conforme au besoin.
 
 Si on cherche des exemples, on trouve :
 ```mermaid
