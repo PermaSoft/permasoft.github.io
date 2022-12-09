@@ -36,10 +36,10 @@ Coté code de production, l'implémentation doit être la plus simple possible, 
 Donc on retourne "1" et pas un nombre converti en texte.
 Cela donne un test passant et un code de production le plus simple possible, donc le plus facile à maintenir.
 
-C'est bien en phase de refactor que l'on être de bonne foi pour transformer la réponse directe et naïve en une réponse qui fonctionnera pour toutes les entrées valides possibles.
+C'est bien en phase de refactor que l'on va être de bonne foi pour transformer la réponse directe et naïve en une réponse qui fonctionnera pour toutes les entrées valides possibles.
 Il peut être utile de faire un second cas de test sur le même aspect d'une fonctionnalité pour "trianguler" une solution.
-On se retrouve alors avec une duplication explicite au lieu d'être imaginaire : si cas 1, alors traite un retour x sinon si cas 2, alors traite un retour qui ressemble à x.
-Cette duplication délibérée aide a factoriser ce qui est vraiment commun.
+On se retrouve alors avec une duplication explicite au lieu d'être imaginaire : si cas 1, alors on traite un retour x sinon si cas 2, alors on traite un retour qui ressemble à x.
+Cette duplication délibérée aide a factoriser ce qui est vraiment commun sans l'imaginer.
 
 Après avoir testé le cas nominal le plus simple et implémenté cette "balle traçante", il reste a construire les autres aspect de la fonctionnalité autour.
 En kata, on se limite aux cas attendus et explicites.
