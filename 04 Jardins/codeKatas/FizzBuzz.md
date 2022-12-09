@@ -8,7 +8,8 @@ Le kata demande donc une boucle de 0 à 100, les démos se limitent souvent aux 
 Si on cherche des exemples, on trouve :
 ```mermaid
 mindmap
-	root((FizzBuzzer))
+
+	root(FizzBuzzer)
 		Non multiple
 			exemples
 				1 retourne "1"
