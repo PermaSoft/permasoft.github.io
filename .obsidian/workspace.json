@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "04 Jardins/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "04 Jardins/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "04 Jardins/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md"
+                "file": "04 Jardins/index.md"
               }
             }
           }
@@ -146,15 +146,15 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
-    "00 Entrée/Pour des logiciels qui évoluent en harmonie avec votre business.md",
+    "02 Bibliothèque/Zettelkasten.md",
+    "02 Bibliothèque/Getting Things Done/workflow_map.pdf",
+    "02 Bibliothèque/TDD.md",
+    "02 Bibliothèque/Pragmatic Programmer.md",
+    "02 Bibliothèque/index.md",
     "Bienvenue.md",
+    "00 Entrée/Pour des logiciels qui évoluent en harmonie avec votre business.md",
     "00 Entrée/Offres de services.md",
     "00 Entrée/Nicolas Fédou.md",
-    "03 Garage/Zettelkasten avec Obsidian.md",
-    "05 Village/Flowcon.md",
-    "05 Village/Craft Conf.md",
-    "01 Salon/permaculture.md",
-    "01 Salon/obesiciel.md",
-    "02 Bibliothèque/Zettelkasten.md"
+    "03 Garage/Zettelkasten avec Obsidian.md"
   ]
 }
