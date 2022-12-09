@@ -24,13 +24,13 @@ J'ai le sentiment que la seule manière de décrire notre métier est de parler 
 Il n'y a pas de raccourcis. 
 Nous devons comprendre le problème à résoudre de nos utilisateurs souvent humains pour exprimer une solution souvent numérique.
 Une solution numérique est un comportement que devra avoir la machine.
-L'expression de cette solution (NDLR: du code) doit être formel pour que la machine puisse l'appliquer et exhaustive pour que la machine ne plante pas sur un cas inconnu.
+L'expression de cette solution (NDLR: du code) doit être formelle pour que la machine puisse l'appliquer et exhaustive pour que la machine ne plante pas sur un cas inconnu.
 Et pour les développeurs (souvent artisans), cette expression doit aussi être compréhensible par le futur développeur qui maintiendra cette solution.
 
 Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 
 1. De manière formelle et exhaustive pour qu'elle réalise les tâches dont nous avons besoin. (Kiss - Keep It Simple & Small, Yagni, 3 Rules of simple design)
-2. De manière imagée pour que le développeur qui maintient le code comprenne l'intention du développeur d'origine. (Clean Code, Domain Driven Design)
+2. De manière verbalisée avec un langage métier pour que le développeur qui maintient le code comprenne l'intention du développeur d'origine. (Clean Code, Domain Driven Design)
 3. De manière structurée donc bien rangée pour que les développeurs suivants puissent retrouver les détails à maintenir dans une motte de fonctionnalités utiles. (Software Architecture, Hexagonal Architecture, ...)
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
