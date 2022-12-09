@@ -11,10 +11,27 @@ mindmap
   root((FizzBuzzer))
 	  Non multiple
 		  examples
-			  1
-			  2
+			  1 retourne "1"
+			  2 retourne "2"
 		  Propriétés
-			  générateur de nombres premiers compris entre 5 exclu et 100 inclu (7, 11)
-			  
+			  générateur de nombres premiers compris entre 5 exclu et 100 inclu (7, 11) retourne le nombre en texte
+	  Fizz
+		  exemples
+			  3 retourne Fizz
+			  6 retourne Fizz
+		  propriétés
+			  générateur de nombres entre 1 et (100/3)=33, multiplié par 3 retourne Fizz
+	  Buzz
+		  exemples
+			  5 retourne Buzz
+			  10 retourne Buzz
+		  propriétés
+			  générateur de nombres entre 1 et (100/5)=20, multiplié par 5 retourne Buzz
+	  FizzBuzz
+		  exemples
+			  3*5=15 retourne FizzBuzz
+			  15*2=30 retourne FizzBuzz
+		  propriétés
+			  générateur de nombres entre 1 et (100/15)=20, multiplié par 5 retourne Buzz
 			  
 ```
