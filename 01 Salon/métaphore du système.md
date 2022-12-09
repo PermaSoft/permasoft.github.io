@@ -25,7 +25,9 @@ Soit vos nouveaux besoins ignorent le passé et demande l'ajout de fonctionnalit
 Vous imaginez un acteur humain qui ne fait qu'ajouter des étapes a ses process sans jamais adapter ou remplacer des étapes existantes ?
 Pourtant, c'est ce que l'on fait à chaque fois que l'on exprime une demande d'évolution en ignorant les fonctionnalités existantes.
 
-Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
+Les développeurs ont des techniques de modélisation techniques depuis longtemps.
+Les techniques de modélisation métiers sont plus récente et se trouvent derrière les termes "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
+Les équipes produits ne pourront pas définir de produits fins ou complexes ET maintenables sans ses outils ou de meilleurs (à inventer).
 Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
 Et comme on dis : Tous les modèles sont faux mais certains sont utiles !
 Mais ça, c'est une autre histoire !
