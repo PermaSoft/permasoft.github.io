@@ -6,5 +6,6 @@
     "align",
     "publish"
   ],
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "baseFontSize": 13
 }

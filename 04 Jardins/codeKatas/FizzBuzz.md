@@ -61,7 +61,7 @@ stateDiagram-v2
     Exemple --> 1
     Exemple --> 2
 	Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5 --> 7
-	   Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5 --> 11
+	Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5 --> 11
     FizzBuzzer --> Fizz
     Fizz --> 3
     Fizz --> 6
@@ -72,8 +72,33 @@ stateDiagram-v2
     Buzz --> aléatoire#nbsp;*#nbsp;5#nbsp;<#nbsp;100
     FizzBuzzer --> FizzBuzz
     FizzBuzz --> 3#nbsp;*#nbsp;5#nbsp;=#nbsp;15
-    FizzBuzz --> 30
-    FizzBuzz --> aléatoire#nbsp;*#nbsp;15#nbsp;<#nbsp;100
+    FizzBuzz --> 2#nbsp;*#nbsp;15#nbsp;=#nbsp;30
+    FizzBuzz --> aléatoire#nbsp;*#nbsp;15#nbsp;<#nbsp;100    
 ```
 
+bof
+
+```mermaid
+stateDiagram-v2
+    FizzBuzzer --> Nombre
+    Nombre --> Exemple
+    Nombre --> Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5
+    Exemple --> 1
+    Exemple --> 2
+	Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5 --> 7
+	Générateur#nbsp;de#nbsp;nombres#nbsp;premiers#nbsp;>#nbsp;5 --> 11
+    FizzBuzzer --> Fizz
+    Fizz --> 3
+    Fizz --> 6
+    Fizz --> aléatoire#nbsp;*#nbsp;3#nbsp;<#nbsp;100"
+    FizzBuzzer --> Buzz
+    Buzz --> 5
+    Buzz --> 10
+    Buzz --> aléatoire#nbsp;*#nbsp;5#nbsp;<#nbsp;100
+    FizzBuzzer --> FizzBuzz
+    FizzBuzz --> 3#nbsp;*#nbsp;5#nbsp;=#nbsp;15
+    FizzBuzz --> 2#nbsp;*#nbsp;15#nbsp;=#nbsp;30
+    FizzBuzz --> aléatoire#nbsp;*#nbsp;15#nbsp;<#nbsp;100    
+
+```
 
