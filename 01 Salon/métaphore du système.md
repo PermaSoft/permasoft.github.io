@@ -16,9 +16,9 @@ Dans cette chaîne, on trouve donc des fiches de postes qui rassemblent plusieur
 Quand l'activité change, les employés sont formés aux nouveautés, les applications sont mises à jours.
 
 Les applications implémentent une métaphore des process que les humains feraient.
-Je suis convaincu que les collègues de ses applications et leurs managers sont capables d'exprimer une simplification 
-
-et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
+Je suis convaincu que les collègues de ses applications et leurs managers sont capables d'exprimer les process que l'application doit réaliser.
+Cette expression est une modélisation du métier de l'application, que l'on nomme aussi une modélisation du domaine.
+Autant passer d'un modèle papier à une expression formelle et exhaustive est une compétence d'ingénieur, autant la modélisation métier devrait toujours se faire depuis le modèle déjà en place dans l'application.
 
 Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
 Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
