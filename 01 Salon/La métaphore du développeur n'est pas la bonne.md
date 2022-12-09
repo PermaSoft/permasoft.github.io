@@ -35,5 +35,5 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
 Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, [*UNE métaphore*](https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation)(https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation) du produit/du système réel.
-Cette [[métaphore du système]] est presque universelle dans les applications de gestion d'entreprise. 
+Cette [[01 Salon/Métaphore du système]] est presque universelle dans les applications de gestion d'entreprise. 
 
