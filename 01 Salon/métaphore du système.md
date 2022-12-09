@@ -28,6 +28,5 @@ Pourtant, c'est ce que l'on fait à chaque fois que l'on exprime une demande d'�
 Les développeurs ont des techniques de modélisation techniques depuis longtemps.
 Les techniques de modélisation métiers sont plus récente et se trouvent derrière les termes "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
 Les équipes produits ne pourront pas définir de produits fins ou complexes ET maintenables sans ses outils ou de meilleurs (à inventer).
-Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
-Et comme on dis : Tous les modèles sont faux mais certains sont utiles !
-Mais ça, c'est une autre histoire !
+
+Pour ce qui est de la prise en compte de l'existant, je crains que la seule option viable est de demander aux ingénieurs de modéliser l'existant pour que les métiers puissent modéliser leurs évolutions à partir de cet existant.
