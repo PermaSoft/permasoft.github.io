@@ -22,7 +22,12 @@ Etant donné un état initial
 Quand j'appelle mon système
 Alors je vérifie l'état final
 ```
+Cette démarche d'écriture de test à l'envers aide à lutter contre la feuille blanche. 
+Pour commencer à coder, le strict minimum a savoir est la cible à atteindre donc l'état final, on remonte ensuite le fil.
+Pour obtenir cet état, il faut appeler une fonction.
+Pour que cette fonction puisse faire le travail, elle a besoin d'informations : une demande et parfois une configuration/initialisation.
 
+Vous aurez souvent une idée claire de la fonction a appeller 
 
 Si on cherche des exemples, on trouve :
 ```mermaid
