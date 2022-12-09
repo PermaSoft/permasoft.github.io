@@ -7,6 +7,30 @@ Le kata demande donc une boucle de 0 à 100, les démos se limitent souvent aux 
 
 Si on cherche des exemples, on trouve :
 ```mermaid
+stateDiagram-v2
+    FizzBuzzer --> Nombre
+    Nombre --> Exemple
+    Nombre --> Générateur#nbsp;de#nbsp;nombres#nbsp;premiers
+    Exemple --> 1
+    Exemple --> 2
+    Primes --> 7
+    Primes --> 11
+    FizzBuzzer --> Fizz
+    FizzBuzzer --> Buzz
+    FizzBuzzer --> FizzBuzz
+    Fizz --> 3
+    Fizz --> 6
+    Fizz --> random#nbsp;*#nbsp;3#nbsp;<#nbsp;100"
+    Buzz --> 5
+    Buzz --> 10
+    Buzz --> random#nbsp;*#nbsp;5#nbsp;<#nbsp;100
+    FizzBuzz --> 3#nbsp;*#nbsp;5#nbsp;=#nbsp;15
+    FizzBuzz --> 30
+    FizzBuzz --> random#nbsp;*#nbsp;5#nbsp;<#nbsp;100
+```
+
+
+```mermaid
 mindmap
 
 	root(FizzBuzzer)
