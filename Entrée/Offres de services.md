@@ -8,9 +8,9 @@ Lorsque j'ai un peu de disponibilité, je peux prendre une heure au déjeuner ou
 * Rencontres en déjeuner ou en réunion, en présentiel ou en visio
 * Les BBLs sont des [Brown Bag Lunchs](https://www.brownbaglunch.fr/baggers.html), une forme d'avant-vente technique autour d'un déjeuner ou d'une heure ouvrée.
 
-## 1. Audit de Code
+## 1. Conseils (dont Audit de Code, DDD Stratégique, etc.)
 * Interviews sur votre contexte et ce qui vous pose problème, les symptômes
-* Souvent étude du métier, de l'espace du problème à résoudre
+* Souvent une étude du métier, de l'espace du problème à résoudre
 * Interview des acteurs ayant étudié le problème
 * Interview des acteurs ayant construit la solution
 * Etude de la solution

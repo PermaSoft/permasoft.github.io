@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrée/Offres de services.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrée/Offres de services.md",
+                "file": "Bienvenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrée/Offres de services.md",
+                "file": "Bienvenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrée/Offres de services.md"
+                "file": "Bienvenue.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "active": "e5d52112905547ac",
   "lastOpenFiles": [
+    "Entrée/Offres de services.md",
     "Entrée/Nicolas Fédou.md",
     "Bienvenue.md",
     "Garage/Zettelkasten avec Obsidian.md",
@@ -153,7 +154,6 @@
     "Village/Craft Conf.md",
     "Salon/permaculture.md",
     "Salon/obesiciel.md",
-    "Entrée/Offres de services.md",
     "Bibliothèque/Zettelkasten.md",
     "Bibliothèque/Getting Things Done/horizons d'attention.md"
   ]
