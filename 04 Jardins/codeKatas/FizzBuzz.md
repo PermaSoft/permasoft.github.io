@@ -50,7 +50,7 @@ On pourrait écrire un test qui envoie un nombre négatif ou au-dessus de 100.
 
 Passons à un 2e tests, on vérifie 2 ou on test un premier fizz ?
 La réponse va dépendre de votre niveau de confiance dans les tests existant pour documenter votre fonctionnalité et dans le code de prod pour être conforme au besoin.
-Pour se donner confiance, on peut multiplier les exemples, mais d'un point de vue documentation, les tests sont des doublons. Une autre façon de faire est d'utiliser un générateur de données d'antrées et de vérifier que le résultat reste constant
+Pour se donner confiance, on peut multiplier les exemples, mais d'un point de vue documentation, les tests sont des doublons. Une autre façon de faire est d'utiliser un générateur de données d'entrées et de vérifier que le résultat reste constant. On peut ainsi vérifier des propriétés des règles de gestion, des invariants : tous les négatifs génèrent une erreur, tous les nombres premiers (indivisibles) au-dessus de 5 retournent leur nombre en texte, tous les nombres multipliés par 3 retournent un texte qui contient fizz (donc soit fizz seul, soit fizzbuz pour les multiples de 15).
 
 Si on cherche des exemples, on trouve :
 ```mermaid
