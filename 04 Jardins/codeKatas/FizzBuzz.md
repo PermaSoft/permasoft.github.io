@@ -18,15 +18,15 @@ stateDiagram-v2
     FizzBuzzer --> Fizz
     Fizz --> 3
     Fizz --> 6
-    Fizz --> random#nbsp;*#nbsp;3#nbsp;<#nbsp;100"
+    Fizz --> aléatoire#nbsp;*#nbsp;3#nbsp;<#nbsp;100"
     FizzBuzzer --> Buzz
     Buzz --> 5
     Buzz --> 10
-    Buzz --> random#nbsp;*#nbsp;5#nbsp;<#nbsp;100
+    Buzz --> aléatoire#nbsp;*#nbsp;5#nbsp;<#nbsp;100
     FizzBuzzer --> FizzBuzz
     FizzBuzz --> 3#nbsp;*#nbsp;5#nbsp;=#nbsp;15
     FizzBuzz --> 30
-    FizzBuzz --> random#nbsp;*#nbsp;15#nbsp;<#nbsp;100
+    FizzBuzz --> aléatoire#nbsp;*#nbsp;15#nbsp;<#nbsp;100
 ```
 
 
