@@ -27,7 +27,9 @@ Pour commencer à coder, le strict minimum a savoir est la cible à atteindre do
 Pour obtenir cet état, il faut appeler une fonction.
 Pour que cette fonction puisse faire le travail, elle a besoin d'informations : une demande et parfois une configuration/initialisation.
 
-Vous aurez souvent une idée claire de la fonction a appeller 
+Vous aurez souvent une idée claire de la fonction a appeler et de ses besoins d'initialisation, donc vous écrirez souvent les tests dans l'ordre où on les lis.
+
+Après avoir testé le cas nominal le plus simple et implémenté
 
 Si on cherche des exemples, on trouve :
 ```mermaid
