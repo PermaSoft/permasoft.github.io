@@ -2,15 +2,11 @@
 title: Contact
 layout: default
 
-eleventyNavigation:
-  parent: Home
-  key: Contact
-  order: 1
 ---
 
 Bonjour,
 
-Je suis Nicolas Fédou, développeur back Java et coach technique.
+Je suis Nicolas Fédou, conseiller en développement de logiciels, coach technique, coding architect, développeur back Java, >>insert buzz word title here<<.
 J'aime l'informatique depuis que je compose des commandes avec Linux. Assembler des commandes, des objets, des composants, des pipelines, c'est comme jouer aux Légo pour moi.
 Depuis mes premières missions, j'ai toujours cherché à améliorer les conditions de travail de l'équipe par des petits scripts, puis de la CI/CD et depuis quelques années avec de la montée en compétence sur les bonnes pratiques de développement agile, [le craftsmanship/artisanat logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr).
 
