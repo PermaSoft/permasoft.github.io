@@ -21,7 +21,11 @@ Je me présente plus en détail dans l'entrée, mais rapidement, je suis [Nicola
 <span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
 Ce site est conçu pour être familier et humain malgré des sujets très numériques.
-Ainsi, a coté de l'entrée, vous trouverez un salon où discuter de mes opinions, au fond vous trouverez une bibliothèque avec des petites fiches de lectures sur des livres essentiels, sur le coté vous pourrez bric
+Ainsi, a coté de l'entrée, vous trouverez un salon où discuter de mes opinions que d'autres appellent un blog.
+Au fond vous trouverez une bibliothèque avec des petites fiches de lectures sur des livres essentiels comme un catalogue.
+Sur le coté vous pourrez bricoler avec moi et quelques outils dans le garage
+Dehors, je fais grandir mes compétences dans le jardin.
+Enfin, je croise des proches et des voisins sur des grand places
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
