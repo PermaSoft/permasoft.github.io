@@ -4,9 +4,12 @@ Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la s
 Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'explorer les solutions possibles.
 Cette pratique a été mise de coté car [[01 Salon/La métaphore du développeur n'est pas la bonne|les métaphores ont des limites de validité/pertinence]] et sont finalement peu alignées avec la solution à mettre en œuvre.
 
-Le besoin de décrire le fonctionnel reste, au moins dans les applications de gestion d'entreprise.
-Je ne connais pas les applications embarquées et leur horlogerie (serveur de temps sporadiques ?).
-Je ne connais les jeux vidéos et leur moteurs physiques au design objet avancé, ni comment on fait du TDD sur leur fonctionnalité la plus critique : le GamePlay ?
+Le besoin de décrire le fonctionnel reste, au moins dans les applications de gestion d'entreprise qu'on appelle souvent des applications "métier".
+Les jeux vidéo, les systèmes embarqué et IA sont dans des schéma, à priori, différents que je ne connais pas.
+Les applications métiers ont en commun de remplacer un ensemble d'activités logiques que des humains faisaient.
+Victimes de leurs succès, ces applications en font de plus en plus.
+
+Par défaut, une application métier 
 
 
 et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
