@@ -12,7 +12,11 @@ Ces application peuvent être vues comme des acteurs artificiels qui sont promu 
 
 Chaque entreprise reçoit des demandes ou de la matière première et fourni un service ou un produit grâce a ses employés, ses machines et ses logiciels.
 Ainsi, la chaîne de valeur qui va transformer la demande en service est composée d'acteurs naturels, d'outils et d'acteurs artificiels.
-Dans cette chaîne, on trouve donc 
+Dans cette chaîne, on trouve donc des fiches de postes qui rassemblent plusieurs activités distinctes et qui sont exécutées par des applications...
+Quand l'activité change, les employés sont formés aux nouveautés, les applications sont mises à jours.
+
+Les applications implémentent une métaphore des process que les humains feraient.
+Je suis convaincu que les collègues de ses applications et leurs managers sont capables d'exprimer une simplification 
 
 et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
 
