@@ -35,7 +35,9 @@ Il est temps de créer la fonction pour que le code compile et de l'implémenter
 Coté code de production, l'implémentation doit être la plus simple possible, donc bête et naïve.
 Donc on retourne "1" et pas un nombre converti en texte.
 Cela donne un test passant et un code de production le plus simple possible, donc le plus facile à maintenir.
-Après la
+
+C'est bien en phase de refactor que l'on être de bonne foi pour transformer la réponse directe et naïve en une réponse qui fonctionnera pour toutes les entrées valides possibles.
+
 
 Après avoir testé le cas nominal le plus simple et implémenté cette "balle traçante", il reste a construire les autres aspect de la fonctionnalité autour.
 En kata, on se limite aux cas attendus et explicites.
