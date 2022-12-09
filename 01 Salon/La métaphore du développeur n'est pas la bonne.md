@@ -11,12 +11,12 @@ eleventyNavigation:
 ---
 
 Les métaphores de notre métier avec les bâtisseurs, les chirurgiens, les artisans ou les jardiniers ont des limites de validité que seul les développeurs peuvent identifier.
-Chaque métaphore que l'on utilise sers d'image pour passer un message. Une fois le message transmis, le message et la métaphore restent en tête de l'auditoire.
-J'ai trop régulièrement discuté avec des personnes intelligentes qui continuaient la métaphore au-delà du message d'origine.
+Chaque métaphore que l'on utilise sers d'image pour passer un message. Une fois le message transmis, le message et la métaphore restent dans la tête de l'auditoire.
+J'ai trop régulièrement discuté avec des personnes intelligentes qui continuaient la métaphore au-delà du message d'origine, au delà de sa validité.
 Quand la métaphore n'est plus valide, les raisonnement deviennent surprenant, dont les suivants que je viens d'inventer :
 - Les bâtisseurs font des logiciels qu'on ne peut pas refactorer.
 - Les chirurgiens suivent un protocole strict établi et reconnu quand ils réparent leur code.
-- Les artisans sont très fiers de leur brioche parfaite et "inimitable".
+- Les artisans sont très fiers de leur brioche parfaite et "inimitable" (donc pas maintenable par un autre).
 - Les jardiniers entretiennent des IAs qui se développent avec de l'eau, du soleil et de l'autonomie
 Les personnes intelligentes dont je parle sont des collègues ou des clients ayant d'autres métiers que le développement et on fait des erreurs de raisonnement avec nos métaphores, bien plus petites, légères et/ou fines que les précédentes, mais tout de même, ils s'étaient fait de mauvaises idées avec nos belles métaphores.
 
