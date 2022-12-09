@@ -35,16 +35,5 @@ Ainsi, décrire le comportement d'une machine réponds plusieurs critères :
 4. De manière justifiée pour que le développeur suivant puisse être sûr que la nouvelle fonctionnalité est soit un ajout, soit une modification d'un comportement existant et ainsi retirer en confiance le code devenu obsolète pour ne plus le maintenir. (Clean Tests, Behaviour Driven Development)
 
 Finalement, les développeurs codent une comparaison implicite entre une activité métier et un comportement de machine, autrement dit, [*UNE métaphore*](https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation)(https://fr.wikipedia.org/wiki/M%C3%A9taphore#Aide_%C3%A0_la_conceptualisation) du produit/du système réel.
+Cette [[métaphore du système]] est presque universelle dans les applications de gestion d'entreprise. 
 
-## La bonne métaphore est une métaphore du système
-
-La méthodologie XP de Kent Beck défini cette mécanique de métaphore comme le décrit [Will Wake sur son site xp123](https://xp123.com/articles/the-system-metaphor/). 
-Les anciennes métaphores connues sont le bureau, les fenêtres de Windows, la souris, etc...
-Les métaphores étaient une façon d'imaginer la solution a mettre en place, une façon d'explorer les solutions possibles.
-Cette pratique a été mise de coté car les métaphores ont des limites de validité/pertinence et sont finalement peu alignées avec la solution à mettre en œuvre.
-Le besoin reste et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
-
-Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
-Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
-Et comme on dis : Tous les modèles sont faux mais certains sont utiles !
-Mais ça, c'est une autre histoire !
