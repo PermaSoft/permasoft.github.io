@@ -29,8 +29,13 @@ Pour que cette fonction puisse faire le travail, elle a besoin d'informations : 
 
 Vous aurez souvent une idée claire de la fonction a appeler et de ses besoins d'initialisation, donc vous écrirez souvent les tests dans l'ordre où on les lis.
 
+Nous venons de finir de mettre au point un test non passant.
+Il est temps de créer la fonction pour que le code compile et de l'implémenter pour que le test soit passant.
+
 Coté code de production, l'implémentation doit être la plus simple possible, donc bête et naïve.
-Donc on retourne "1" et pas un nombre converti en 
+Donc on retourne "1" et pas un nombre converti en texte.
+Cela donne un test passant et un code de production le plus simple possible, donc le plus facile à maintenir.
+Après la
 
 Après avoir testé le cas nominal le plus simple et implémenté cette "balle traçante", il reste a construire les autres aspect de la fonctionnalité autour.
 En kata, on se limite aux cas attendus et explicites.
