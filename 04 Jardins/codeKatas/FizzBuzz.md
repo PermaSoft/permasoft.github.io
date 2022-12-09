@@ -7,5 +7,14 @@ Le kata demande donc une boucle de 0 à 100, les démos se limitent souvent aux 
 
 Si on cherche des exemples, on trouve :
 ```mermaid
-
+mindmap
+  root((FizzBuzzer))
+	  Non multiple
+		  examples
+			  1
+			  2
+		  Propriétés
+			  générateur de nombres premiers compris entre 5 exclu et 100 inclu (7, 11)
+			  
+			  
 ```
