@@ -16,8 +16,13 @@ Sauf qu'il y a encore plus simple, avec *moins de règles de gestions impliquée
 Comme pour réduire le coût des expérimentations, on se focus sur le résultat à atteindre et on "Commence par finir".
 On commence par décrire notre objectif, le résultat que l'on attends sous forme d'assertion.
 Ensuite, on appelle la fonction qui prends souvent des arguments et qui finalement a besoin d'initialisation.
-Nos tests sont des expérimentations (vouées à fonctionner) et pour en réduire le coût, on se focus sur l'objectif.
-On utilise le même raisonnement de "Commencer par finir" que l'on trouve dans la mise au point de process en Kanban ou dans la réduction de coût d'une expérimentation
+Les tests ont souvent un structure de machine à état (Given, When, Then).
+```
+Etant donné un état initial
+Quand j'appelle mon système
+Alors je vérifie l'état final
+```
+
 
 Si on cherche des exemples, on trouve :
 ```mermaid
