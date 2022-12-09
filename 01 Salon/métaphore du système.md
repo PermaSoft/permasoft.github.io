@@ -20,6 +20,10 @@ Je suis convaincu que les collègues de ses applications et leurs managers sont 
 Cette expression est une modélisation du métier de l'application, que l'on nomme aussi une modélisation du domaine.
 Autant passer d'un modèle papier à une expression formelle et exhaustive est une compétence d'ingénieur, autant la modélisation métier devrait toujours se faire depuis le modèle déjà en place dans l'application.
 
+Toutes les applications complexes qui fonctionnent sont des applications simples qui se sont enrichies dans le temps. 
+Soit vos nouveaux besoins ignorent le passé et demande l'ajout de fonctionnalité que l'on entasse pour obtenir un logiciel qui grossit comme le code du travail français pour devenir un obsésiciel inmaintenable, soit les nouveaux besoins prennent en compte et font évoluer les fonctionnalités existantes et le logiciel grandit.
+
+
 Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
 Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
 Et comme on dis : Tous les modèles sont faux mais certains sont utiles !
