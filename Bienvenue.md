@@ -15,12 +15,13 @@ key4:
 Bienvenue sur le site de Permasoft.
 
 Ce site est une vitrine de mes activités et ma vision de mon métier de conseiller et développeur de logiciel.
-Je suis [Nicolas Fédou](Entrée/Nicolas%20Fédou.md) et je propose des prestations de [développeur, coach technique, conseiller en IT](Entrée/Offres%20de%20services.md) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
+Autrement dis, bienvenue chez moi :-)
+Je me présente plus en détail dans l'entrée, mais rapidement, je suis [Nicolas Fédou](Entrée/Nicolas%20Fédou.md) et je propose des prestations de [développeur, coach technique, conseiller en IT](Entrée/Offres%20de%20services.md) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
 
 <span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
 Ce site est conçu pour être familier et humain malgré des sujets très numériques.
-
+Ainsi, a coté de l'entrée, vous trouverez un salon où discuter de mes opinions, au fond vous trouverez une bibliothèque avec des petites fiches de lectures sur des livres essentiels, sur le coté vous pourrez bric
 
 ## Pour des logiciels qui évoluent en harmonie avec votre business.
 
