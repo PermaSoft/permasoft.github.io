@@ -21,8 +21,9 @@ Cette expression est une modélisation du métier de l'application, que l'on nom
 Autant passer d'un modèle papier à une expression formelle et exhaustive est une compétence d'ingénieur, autant la modélisation métier devrait toujours se faire depuis le modèle déjà en place dans l'application.
 
 Toutes les applications complexes qui fonctionnent sont des applications simples qui se sont enrichies dans le temps. 
-Soit vos nouveaux besoins ignorent le passé et demande l'ajout de fonctionnalité que l'on entasse pour obtenir un logiciel qui grossit comme le code du travail français pour devenir un obsésiciel inmaintenable, soit les nouveaux besoins prennent en compte et font évoluer les fonctionnalités existantes et le logiciel grandit.
-
+Soit vos nouveaux besoins ignorent le passé et demande l'ajout de fonctionnalité que l'on entasse pour obtenir un logiciel qui grossit pour devenir un [[01 Salon/obesiciel|obésisiciel]] inmaintenable, soit les nouveaux besoins prennent en compte et font évoluer les fonctionnalités existantes et le logiciel grandit.
+Vous imaginez un acteur humain qui ne fait qu'ajouter des étapes a ses process sans jamais adapter ou remplacer des étapes existantes ?
+Pourtant, c'est ce que l'on fait à chaque fois que l'on exprime une demande d'évolution en ignorant les fonctionnalités existantes.
 
 Ce terme de modélisation du domaine viens du "[Domain Driven Design](https://github.com/ddd-crew/welcome-to-ddd)" et de ses pratiques de "[knowledge crunching](https://github.com/ddd-crew/welcome-to-ddd)". 
 Elles ont toutes pour objectifs de construire un modèle partagé entre toutes les personnes concernées du problème à résoudre et/ou de la solution a réaliser 
