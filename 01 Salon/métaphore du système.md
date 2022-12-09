@@ -6,11 +6,13 @@ Cette pratique a été mise de coté car [[01 Salon/La métaphore du développeu
 
 Le besoin de décrire le fonctionnel reste, au moins dans les applications de gestion d'entreprise qu'on appelle souvent des applications "métier".
 Les jeux vidéo, les systèmes embarqué et IA sont dans des schéma, à priori, différents que je ne connais pas.
-Les applications métiers ont en commun de remplacer un ensemble d'activités logiques que des humains faisaient.
+Les applications métiers ont en commun de remplacer un ensemble d'activités logiques que des acteurs naturels, des humains faisaient.
 Victimes de leurs succès, ces applications en font de plus en plus.
+Ces application peuvent être vues comme des acteurs artificiels qui sont promu avec plus de responsabilités et plus d'activités.
 
-Par défaut, une application métier 
-
+Chaque entreprise reçoit des demandes ou de la matière première et fourni un service ou un produit grâce a ses employés, ses machines et ses logiciels.
+Ainsi, la chaîne de valeur qui va transformer la demande en service est composée d'acteurs naturels, d'outils et d'acteurs artificiels.
+Dans cette chaîne, on trouve donc 
 
 et quelques années plus tard, la solution moderne semble être une métaphore naïve où on implémente une simplification d'une activité réelle (qu'un humain réaliserait) et que l'on nomme "modélisation du domaine".
 
