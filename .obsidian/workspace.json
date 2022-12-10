@@ -29,6 +29,19 @@
             }
           },
           {
+            "id": "0ccb1e0688ccfa36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Entrée/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a7e978bbe3eaf6cb",
             "type": "leaf",
             "state": {
@@ -37,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "00 Entrée/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "00 Entrée/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md"
+                "file": "00 Entrée/index.md"
               }
             }
           }
@@ -153,8 +166,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b39b5bce8898d339",
+  "active": "0ccb1e0688ccfa36",
   "lastOpenFiles": [
+    "Bienvenue.md",
     "01 Salon/Métaphore du système.md",
     "01 Salon/obesiciel.md",
     "01 Salon/La métaphore du développeur n'est pas la bonne.md",
@@ -163,7 +177,6 @@
     "01 Salon/_productivite.md",
     "01 Salon/_maintenabilite.md",
     "04 Jardins/codeKatas/FizzBuzz.md",
-    "04 Jardins/index.md",
-    "02 Bibliothèque/Software Craft.md"
+    "04 Jardins/index.md"
   ]
 }
