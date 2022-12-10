@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Salon/Métaphore du système.md",
+                "file": "Bienvenue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Salon/Métaphore du système.md",
+                "file": "Bienvenue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Salon/Métaphore du système.md",
+                "file": "Bienvenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Salon/Métaphore du système.md"
+                "file": "Bienvenue.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "b39b5bce8898d339",
   "lastOpenFiles": [
-    "01 Salon/obesiciel.md",
     "01 Salon/Métaphore du système.md",
+    "01 Salon/obesiciel.md",
     "01 Salon/La métaphore du développeur n'est pas la bonne.md",
     "01 Salon/index.md",
     "01 Salon/a_propos.md",
