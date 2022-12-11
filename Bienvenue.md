@@ -22,8 +22,8 @@ Je suis [Nicolas Fédou](00%20Entrée/Nicolas%20Fédou.md) et je propose des pre
 <span class="right-align">[![[linkedin_logo.png|24]]](https://www.linkedin.com/in/nicolas-fedou/) [![[twitter_logo.png|24]]](https://twitter.com/CoulasFedou) [![[github_logo.png|24]]](https://github.com/coulas) [![[github_logo.png|24]]](https://github.com/PermaSoft)</span>
 
 Ce site est conçu pour être familier et humain malgré des sujets très numériques.<br/>
-Ainsi, je me présente plus en détail dans l'[[00 Entrée/|entrée]].<br/>
-A coté de l'entrée, vous trouverez un salon où discuter mes opinions.<br/>
+Ainsi, je me présente plus en détail dans l'entrée.<br/>
+Après l'entrée, vous trouverez un salon où discuter mes opinions.<br/>
 Au fond vous trouverez une bibliothèque avec des petites fiches de lectures sur des livres essentiels.<br/>
 Sur le coté vous pourrez bricoler avec moi et quelques outils dans le garage.<br/>
 Dehors, je fais grandir mes compétences dans le jardin.<br/>
