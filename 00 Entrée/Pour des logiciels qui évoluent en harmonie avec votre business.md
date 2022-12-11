@@ -2,11 +2,11 @@
 Pendant que votre business pivote, s'adapte et grandit, les logiciels à succès ont tendances à grossir.
 Les nouvelles fonctionnalités s'intègrent dans une base de code existante qui décrit une version passée et obsolète de votre business. 
 Il faut une bonne maîtrise du développement logiciel pour éviter que la version suivante de votre logiciel n'ai pas marques de votre business passé, d'obsolescence fonctionnelle.
-Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à devenir un [[01 Salon/obesiciel]]. 
+Les marques qui ne sont pas retirées, adaptées devront être maintenue, ajoutant une complexité inutile à votre logiciel jusqu'à devenir un [[01 Salon/Obesiciel|obésiciel]]. 
 
 De même, le code qui supporte vos fonctionnalités est construit avec des outils qui évoluent fonctionnellement ou en corrigeant leurs failles et impliquent une obsolescence technique qui mérite aussi de l'attention.
 
-Cette intention de rendre le code maintenable à long terme et adapté à votre business du jour tout au long de la vie de votre entreprise m'a rendu curieux des pratiques et de la vision qu'apporte [la PermaCulture](01%20Salon/permaculture.md). Finalement, cela aura inspiré PermaSoft, le nom de mon EURL.
+Cette intention de rendre le code maintenable à long terme et adapté à votre business du jour tout au long de la vie de votre entreprise m'a rendu curieux des pratiques et de la vision qu'apporte [[01 Salon/PermaCulture|la PermaCulture]]. Finalement, cela aura inspiré PermaSoft, le nom de mon EURL.
 
 ## Par des interventions pragmatiques
 
