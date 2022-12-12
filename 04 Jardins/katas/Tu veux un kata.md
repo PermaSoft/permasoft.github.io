@@ -16,9 +16,11 @@ Alors, passons à la suite !
 # Comment choisir un exercice ?
 
 Il existe plusieurs familles de kata.
-# Clas
+
+# Classique ou Custom ?
+
 La première catégorie est "fait maison" ou classique ?
-Les "fait maison" sont des extraits de codes de prod qui sont anonymisés et simplifiés pour ne garder que la complexité que l'on souhaite travailler.
+Les "[[faire mon propre kata|fait maison]]" sont des extraits de codes de prod qui sont anonymisés et simplifiés pour ne garder que la complexité que l'on souhaite travailler.
 C'est ce que fait Emilie Bâche régulièrement.
 Ces katas deviennent parfois de grands classiques comme le "[[Gilded Rose]]".
 
