@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/koans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/koans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/koans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md"
+                "file": "04 Jardins/katas/koans.md"
               }
             }
           }
@@ -189,6 +189,7 @@
   },
   "active": "e1b6973f893ed47d",
   "lastOpenFiles": [
+    "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/FizzBuzz.md",
     "02 Bibliothèque/TDD.md",
     "Bienvenue.md",
@@ -197,7 +198,6 @@
     "02 Bibliothèque/effective_java_3.md",
     "01 Salon/PermaCulture.md",
     "01 Salon/Obesiciel.md",
-    "00 Entrée/Pour des logiciels qui évoluent en harmonie avec votre business.md",
-    "02 Bibliothèque/Software Craft.md"
+    "00 Entrée/Pour des logiciels qui évoluent en harmonie avec votre business.md"
   ]
 }
