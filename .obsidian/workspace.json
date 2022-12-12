@@ -42,7 +42,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Jardins/codeKatas/FizzBuzz.md",
+                "file": "04 Jardins/katas/FizzBuzz.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1b6973f893ed47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Jardins/katas/Tu veux un kata.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -58,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/codeKatas/FizzBuzz.md",
+                "file": "04 Jardins/katas/Tu veux un kata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/codeKatas/FizzBuzz.md",
+                "file": "04 Jardins/katas/Tu veux un kata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/codeKatas/FizzBuzz.md"
+                "file": "04 Jardins/katas/Tu veux un kata.md"
               }
             }
           }
@@ -174,8 +187,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0d32353bf9fa6792",
+  "active": "e1b6973f893ed47d",
   "lastOpenFiles": [
+    "04 Jardins/katas/FizzBuzz.md",
     "02 Bibliothèque/TDD.md",
     "Bienvenue.md",
     "00 Entrée/Nicolas Fédou.md",
@@ -184,7 +198,6 @@
     "01 Salon/PermaCulture.md",
     "01 Salon/Obesiciel.md",
     "00 Entrée/Pour des logiciels qui évoluent en harmonie avec votre business.md",
-    "02 Bibliothèque/Software Craft.md",
-    "02 Bibliothèque/index.md"
+    "02 Bibliothèque/Software Craft.md"
   ]
 }
