@@ -12,10 +12,9 @@ key4:
 - six
 ---
 
-Bienvenue sur le site de Permasoft.
+Bienvenue sur le site de PermaSoft.
 
-Ce site est une vitrine de mes activités et ma vision de mon métier de conseiller et développeur de logiciel.
-Autrement dis, bienvenue chez moi :-)
+Ce site est une vitrine de mes activités et de mon métier de conseiller et développeur de logiciel.
 
 Je suis [Nicolas Fédou](00%20Entrée/Nicolas%20Fédou.md) et je propose des prestations de [développeur, coach technique, conseiller en IT](00%20Entrée/Offres%20de%20services.md) spécialisé dans [l'artisanat du développement de logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) et la maintenabilité de vos logiciels.
 
