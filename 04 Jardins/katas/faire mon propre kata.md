@@ -11,10 +11,13 @@ Code-le, implémente le minimum de contexte pour que des relecteurs constatent l
 Ensuite remonte le temps.<br/>
 Qu'est-ce qui aurait bien pu te pousser à écrire ce code ?
 C'est une réponse à quel problème ?
-Il va falloir de l'inspiration pour passer d'un design pattern au langage générique à un cas concret au langage métier.
+Il va falloir de l'inspiration et *plusieurs essais* pour passer d'un design pattern au langage générique à un cas concret au langage métier.
 De chaîne de responsabilité à filtres de requêtes HTTP programmables et composables.
-De décorateurs à lecture structuré et désencodante et déchiffrante de f
+D'Abstract Factory à thème graphique.
+De Feature Envy Vs Modèle métier à moteur de remise de prix en procédural Vs Object ...
 
+Vos premières idées risquent d'être résolu sans avoir besoin de votre solution.
+Il vous faudra probablement plusieurs essais pour passer d'une solution à un problème qui amène naturellement vers votre solution, surtout si elle n'est
 ## Création de Kata brun
 Simplification de code de prod.
 
