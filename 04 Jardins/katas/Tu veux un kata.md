@@ -13,5 +13,11 @@ Si tu veux t'entrainer sur de l'architecture générale, il faut que tu regarde 
 Si tu est encore là, c'est que tu veux t'entrainer sur une méthode, une façon de faire : TDD, design objet, pattern, TCR, Pair ou mob programming, refacto, etc...
 Alors, passons à la suite !
 
-# comment choisir une exercice ?
+# comment choisir un exercice ?
+
+Il existe plusieurs familles de kata.
+La première catégorie est "fait maison" ou classique ?
+Les "fait maison" sont des extraits de codes de prod qui sont anonymisés et simplifiés pour ne garder que la complexité que l'on souhaite travailler.
+C'est ce que fait Emily Bache régulièrement.
+Ces katas deviennent parfois de grands classiques comme le "[[Gilded Rose]]".
 
