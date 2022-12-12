@@ -11,3 +11,10 @@ Arnauld Loyer
 Yan Danot
 Thomas Clavier
 Julien Topçu
+Antoine Alberti
+Kevin Hantzen
+Arnaud Thieffaine
+Fabien Hiegel
+Dorra
+Matthieu Pauly
+Edouard Gomez Vaez ?
