@@ -22,6 +22,7 @@ Ceci dis, avoir plus solutions valides et différentes permet de pouvoir les com
 
 ## Création de Kata brun
 
-La deuixème famille de raisons, celles inspirées de problèmes de votre projet pro
-Simplification de code de prod.
+La deuxième famille de raisons est celle inspirée de problèmes d'un projet réel (professionnel ou personnel).
+Dans ce contexte, la base du travail sera de retirer tout ce qui n'est pas lié au problème, puis de le simplifier au maximum sans simplifier le problème à résoudre !
+Une dernière étape est d'annonimiser le code en changeant les espace de nommage/package/dossier, mais aussi les noms de type.
 
