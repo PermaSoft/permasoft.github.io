@@ -20,6 +20,8 @@ Vos premières idées risquent d'être résolu sans avoir besoin de votre soluti
 Il vous faudra probablement plusieurs essais pour passer d'une solution à un problème qui amène vers votre solution.
 Ceci dis, avoir plus solutions valides et différentes permet de pouvoir les comparer et ce n'est pas si mal.
 
+Le kata rental movie ressemble à ce genre de kata.
+
 ## Création de Kata brun
 
 La deuxième famille de raisons est celle inspirée de problèmes d'un projet réel (professionnel ou personnel).
