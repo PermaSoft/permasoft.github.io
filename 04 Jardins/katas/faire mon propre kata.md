@@ -28,4 +28,6 @@ La deuxième famille de raisons est celle inspirée de problèmes d'un projet r�
 Dans ce contexte, la base du travail sera de retirer tout ce qui n'est pas lié au problème, puis de le simplifier au maximum sans simplifier le problème à résoudre !
 Une dernière étape est d'annonimiser le code en changeant les espace de nommage/package/dossier, mais aussi les noms de type.
 
-Le kata Gilded Rose ressemble à ce genre de katas.
+Le [kata Gilded Rose](https://codingdojo.org/kata/gilded-rose/) ressemble à ce genre de katas.
+Le Gilded Rose propose de travailler une foret de ifs.
+Le modèle de données est simplifier à deux champs 
