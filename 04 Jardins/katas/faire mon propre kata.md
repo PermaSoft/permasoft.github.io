@@ -20,7 +20,7 @@ Vos premières idées risquent d'être résolu sans avoir besoin de votre soluti
 Il vous faudra probablement plusieurs essais pour passer d'une solution à un problème qui amène vers votre solution.
 Ceci dis, avoir plus solutions valides et différentes permet de pouvoir les comparer et ce n'est pas si mal.
 
-Le kata rental movie ressemble à ce genre de kata.
+Le [kata rental movie](https://codingdojo.org/kata/movie-rental/) ressemble à ce genre de kata.
 
 ## Création de Kata brun
 
@@ -28,3 +28,4 @@ La deuxième famille de raisons est celle inspirée de problèmes d'un projet r�
 Dans ce contexte, la base du travail sera de retirer tout ce qui n'est pas lié au problème, puis de le simplifier au maximum sans simplifier le problème à résoudre !
 Une dernière étape est d'annonimiser le code en changeant les espace de nommage/package/dossier, mais aussi les noms de type.
 
+Le kata Gilded Rose ressemble à ce genre de katas.
