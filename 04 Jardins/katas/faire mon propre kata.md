@@ -17,8 +17,11 @@ D'Abstract Factory à thème graphique.
 De Feature Envy Vs Modèle métier à moteur de remise de prix en procédural Vs Object ...
 
 Vos premières idées risquent d'être résolu sans avoir besoin de votre solution.
-Il vous faudra probablement plusieurs essais pour passer d'une solution à un problème qui amène naturellement vers votre solution, surtout si elle n'est pas la plus évidente.
+Il vous faudra probablement plusieurs essais pour passer d'une solution à un problème qui amène vers votre solution.
+Ceci dis, avoir plus solutions valides et différentes permet de pouvoir les comparer et ce n'est pas si mal.
 
 ## Création de Kata brun
+
+La deuixème famille de raisons, celles inspirées de problèmes de votre projet pro
 Simplification de code de prod.
 
