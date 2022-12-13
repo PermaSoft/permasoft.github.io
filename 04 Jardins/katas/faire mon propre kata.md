@@ -3,6 +3,7 @@
 Il y a plein de bonnes raison, notamment deux :
 	- Il y a une problématique que je veux travailler avec mon équipe ou faire travailler par des pairs en meetup/atelier/conférence
 	- Nous avons un problème dans notre base de code, mais on arrive pas à s'en sortir
+	- (Bonus) Je n'en ai pas trouvé qui représente le problème que je veux adresser !
 
 ## Création de Kata blanc
 La première famille de raisons consistent à créer un Kata depuis une feuille blanche.

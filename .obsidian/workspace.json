@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/faire mon propre kata.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/faire mon propre kata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md",
+                "file": "04 Jardins/katas/faire mon propre kata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/katas/Tu veux un kata.md"
+                "file": "04 Jardins/katas/faire mon propre kata.md"
               }
             }
           }
@@ -189,9 +189,9 @@
   },
   "active": "e1b6973f893ed47d",
   "lastOpenFiles": [
+    "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/FizzBuzz.md",
     "04 Jardins/katas/faire mon propre kata.md",
-    "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/catolgues de KatasLogs.md",
     "04 Jardins/katas/koans.md",
     "02 Bibliothèque/TDD.md",
