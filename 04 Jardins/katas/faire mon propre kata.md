@@ -26,6 +26,7 @@ Le [kata rental movie](https://codingdojo.org/kata/movie-rental/) ressemble à c
 ## Création de Kata brun
 
 La deuxième famille de raisons est celle inspirée de problèmes d'un projet réel (professionnel ou personnel).
+Ce sont souvent des problèmes de refactoring, de survie dans un monde de code complexe, imbriqué.
 Dans ce contexte, la base du travail sera de retirer tout ce qui n'est pas lié au problème, puis de le simplifier au maximum sans simplifier le problème à résoudre !
 Une dernière étape est d'annonimiser le code en changeant les espace de nommage/package/dossier, mais aussi les noms de type.
 
