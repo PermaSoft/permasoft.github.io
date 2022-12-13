@@ -30,4 +30,7 @@ Une dernière étape est d'annonimiser le code en changeant les espace de nommag
 
 Le [kata Gilded Rose](https://codingdojo.org/kata/gilded-rose/) ressemble à ce genre de katas.
 Le Gilded Rose propose de travailler une foret de ifs.
-Le modèle de données est simplifier à deux champs 
+Le modèle de données est simplifier à trois champs.
+Ils servent en lecture dans les if et en lecture écriture pour modifier deux champs.
+Cela a aussi beaucoup simplifié les blocs de code dans les ifs et dans les elses.
+
