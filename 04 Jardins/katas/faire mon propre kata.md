@@ -40,6 +40,8 @@ Cela a aussi beaucoup simplifié les blocs de code dans les ifs et dans les else
 
 Il n'y a pas de recette ici.
 Chaque architecture répond à des challenges différents.
-Pour que l'on puisse montrer une architecture en un temps raisonnable, il faut un minimum de code...
-Ainsi, le code minimal qui montre une architecture ne contiendra probablement pas la matière pour montrer d'autres type d'architectures 
+On devrait pouvoir trouver une base de code minimale à implémenter sous plusieurs formes.
+Un peux comme les 50 nuances de FizzBuzz d'Yvan Phelizot.
+
+Il doit être possible de faire un exemple avec deux commandes, une entrée, une sortie avec 
 La bidouille facile est de prendre deux sujets de kata compatibles et d'y rajouter des entrées/sorties.
