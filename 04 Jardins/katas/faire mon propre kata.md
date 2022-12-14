@@ -36,3 +36,7 @@ Le modèle de données est simplifier à trois champs.
 Ils servent en lecture dans les if et en lecture écriture pour modifier deux champs.
 Cela a aussi beaucoup simplifié les blocs de code dans les ifs et dans les elses.
 
+## Le kata d'architecture
+
+La bidouille facile est de prendre deux sujets de kata compatibles et d'y rajouter des entrées/sorties.
+
