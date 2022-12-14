@@ -38,5 +38,8 @@ Cela a aussi beaucoup simplifié les blocs de code dans les ifs et dans les else
 
 ## Le kata d'architecture
 
+Il n'y a pas de recette ici.
+Chaque architecture répond à des challenges différents.
+Pour que l'on puisse montrer une architecture en un temps raisonnable, il faut un minimum de code...
+Ainsi, le code minimal qui montre une architecture ne contiendra probablement pas la matière pour montrer d'autres type d'architectures 
 La bidouille facile est de prendre deux sujets de kata compatibles et d'y rajouter des entrées/sorties.
-
