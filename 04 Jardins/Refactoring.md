@@ -66,7 +66,18 @@ Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks e
 2. De l'obsolescence, autrement dit, de la fin de support mais aussi de la fin de vie d'une technologie (Soap, Server Side Rendering, ...)
 3. De nouvelles fonctionnalités qui permettent de nouvelles capacités.
 
+
 ## Financement
+
+Nous ne sommes plus sur une méthode de production de code comme pour les refactoring au fil de l'eau ou le TDD.
+Lorsqu'un évènement extérieur implique une demande de changement, c'est un grain de sable.
+Comme pour les [[stratégies de tests]], on est dans la gestion de risque.
+Pour rappel, le coût d'un risque est l'association du coût total d'un incident et la probabilité qu'il survienne.
+Le coût d'un incident implique tellement de choses :
+- sa détection
+- le ratio d'utilisateurs/client gênés ou bloqués et leur cap
+Le coût de ne pas le faire finance l'investissement pour le faire.
+
 
 ## Capture de l'existant
 
