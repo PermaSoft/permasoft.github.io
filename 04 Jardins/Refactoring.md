@@ -75,7 +75,13 @@ Comme pour les [[stratégies de tests]], on est dans la gestion de risque.
 Pour rappel, le coût d'un risque est l'association du coût total d'un incident et la probabilité qu'il survienne.
 Le coût d'un incident implique tellement de choses :
 - sa détection
-- le ratio d'utilisateurs/client gênés ou bloqués et leur cap
+- le ratio d'utilisateurs/client gênés ou bloqués et leur capacité d'allez voir un concurrent
+- le temps des opérationnels pour reproduire, analyser, corriger, vérifier, relivrer, parfois en astreinte... (je le vends bien, non ?)
+- si ca ne suffit pas, rajoutez le coût du retard de ce que l'on aurais fait sans l'incident
+- si ca ne suffit pas, rajoutez le coût de la confiance perdue, ou la réputation, ...
+
+Bref, ce type de refactoring consiste à s'adapter à un nouveau contexte métier ou technique, à enlever un frein.
+Je connais trois financements : faire gagner de l'argent, en faire économiser et sécuriser l'argent acquis ou l'accès à un marché (tou)
 Le coût de ne pas le faire finance l'investissement pour le faire.
 
 
