@@ -16,6 +16,10 @@ Il y a un tronc commun dans tous ces refactorings:
 
 # Les refactoring du quotidien
 
+Lorsque l'on ajoute une nouvelle user story ou fonctionnalité dans un code existant, le code va s'enrichir et une partie de l'existant va changer.
+Ca commence par passer d'une constante à une variable, puis d'une valeur à une liste, etc...
+Après ce début de tran
+
 Ce sont les techniques les plus documentées :
 	- Le [Refactoring de Martin Fowler](https://refactoring.com/catalog/) qui va droit au but
 	- Le [refactoring Guru](https://refactoring.guru/refactoring/techniques) qui présente aussi des [codes smells](https://refactoring.guru/refactoring/smells) qui déclenchent une refactoring qui visera peut-être un [design pattern](https://refactoring.guru/design-patterns/catalog)
