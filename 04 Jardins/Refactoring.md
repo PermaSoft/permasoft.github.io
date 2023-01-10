@@ -59,10 +59,11 @@ Il suffit alors de les relancer.
 ## Détection
 
 Il y a plusieurs bonnes raisons de se faire un refactoring un peu large.
-D'abord, il y a des problèmes de sécurités que l'on découvre en regardant le [top 10 de l'Owasp](https://owasp.org/Top10/), ensuite avec les rapport de tests d'intrusion ou d'audit.
-Ensuite, viennent les sujets de mises à jour de frameworks et de librairies à cause /
-1. Encore, de la sécurité car vous vous êtes abonnés aux [publications des CVE](https://www.cve.org/ResourcesSupport/Resources#CVEListDataFeeds) (/!\ ce que je n'ai jamais fait)
-2. De l'obsolescence, autrement dit, de la fin de support mais 
+D'abord, il y a des problèmes de sécurités que l'on découvre en regardant le [top 10 de l'Owasp](https://owasp.org/Top10/), ensuite avec les rapports de tests d'intrusion ou d'audit.
+Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks et de librairies à cause :
+1. Encore, de la sécurité car vous vous êtes abonnés aux [publications des CVE](https://www.cve.org/ResourcesSupport/Resources#CVEListDataFeeds) (/!\ ce que je n'ai jamais fait, j'étais abonné aux sorties des dépendances que j'utilise, donc à leur patchs de séc)
+2. De l'obsolescence, autrement dit, de la fin de support mais aussi de la fin de vie d'une technologie (Soap, Server Side Rendering, ...)
+3. De nouvelles fonctionnalités qui permettent de nouvelles capacités.
 
 
 ## Capture de l'existant
