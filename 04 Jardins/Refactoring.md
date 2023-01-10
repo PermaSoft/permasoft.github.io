@@ -58,6 +58,9 @@ Il suffit alors de les relancer.
 
 ## Détection
 
+Il y a plusieurs bonnes raisons de se faire un refactoring un peu large.
+D'abord, il y a des problèmes de sécurités que l'on découvre en regardant le [top 10 de l'Owasp](https://owasp.org/Top10/), ensuite avec les rapport de tests d'intrusion ou d'audit.  Ensuite, viennent les sujet
+
 ## Capture de l'existant
 
 ## Refactoring
