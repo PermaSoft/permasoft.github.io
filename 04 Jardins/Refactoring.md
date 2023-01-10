@@ -86,7 +86,8 @@ Bref, ce type de refactoring consiste souvent à s'adapter à un nouveau context
 C'est souvent le coût de ne pas le faire qui finance/justifie/dimensionne l'investissement pour le faire.
 
 A noter : Il y aura toujours des librairies qui vieillissent, du temps qui avance et de nouveaux refactorings pour être à jour.
-Il serait sage de la part des opérationnels de trouver des solutions qui permettent de pauser cette
+Il serait sage de la part des opérationnels de trouver des solutions qui permettent de pauser cette course le temps d'engranger de la trésorerie, quitte à passer de PHP 7 au 10 dans 3 ans sans migrer par les versions intermédiaires.
+Si vous n'avez pas de problème de recrutement du niveau de compétences minimal sur votre stack actuelle et que la nouvelle stack n'apporte pas de fonctionnalités essentielles, les mises à jour se réfléchissent.
 
 ## Capture de l'existant
 
