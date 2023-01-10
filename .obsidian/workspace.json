@@ -63,16 +63,6 @@
             }
           },
           {
-            "id": "e207aaca2732ef01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
             "id": "a7e978bbe3eaf6cb",
             "type": "leaf",
             "state": {
@@ -81,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +200,7 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "e207aaca2732ef01",
+  "active": "e1b6973f893ed47d",
   "lastOpenFiles": [
     "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/FizzBuzz.md",
