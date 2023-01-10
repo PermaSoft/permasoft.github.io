@@ -25,7 +25,9 @@ Quel contrôleur ? Il existe une fonction métier connexe ou je dois en créer u
 
 ## Financement
 
-Avoir des tests qui prouvent l'existence et le bon fonctionnement de vos règles métier et la bonne intégration avec votre site web et votre 
+Avoir des tests qui prouvent l'existence et le bon fonctionnement de vos règles métier et la bonne intégration avec votre site web et votre persistence, fait parti du travail de développement.
+Le refactoring du code existant aussi même si parfois ce n'est pas anodin.
+Ces deux activités doivent donc être incluses dans votre chiffrage/estimation/engagement !
 
 ## Capture de l'existant
 
@@ -53,6 +55,17 @@ Encore une fois, je vous souhaite d'avoir des tests automatisés qui prouvent le
 Il suffit alors de les relancer.
 
 # Les chantiers de refactoring
+
+## Détection
+
+## Capture de l'existant
+
+## Refactoring
+
+## Validation
+
+
+# Les refontes
 
 ## Détection
 
