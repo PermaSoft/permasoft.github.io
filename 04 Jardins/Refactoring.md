@@ -73,19 +73,20 @@ Nous ne sommes plus sur une méthode de production de code comme pour les refact
 Lorsqu'un évènement extérieur implique une demande de changement, c'est un grain de sable.
 Comme pour les [[stratégies de tests]], on est dans la gestion de risque.
 Pour rappel, le coût d'un risque est l'association du coût total d'un incident et la probabilité qu'il survienne.
-Le coût d'un incident implique tellement de choses :
+*Le coût d'un incident* implique tellement de choses :
 - sa détection
 - le ratio d'utilisateurs/client gênés ou bloqués et leur capacité d'allez voir un concurrent
 - le temps des opérationnels pour reproduire, analyser, corriger, vérifier, relivrer, parfois en astreinte... (je le vends bien, non ?)
 - si ca ne suffit pas, rajoutez le coût du retard de ce que l'on aurais fait sans l'incident
 - si ca ne suffit pas, rajoutez le coût de la confiance perdue, ou la réputation, ...
 
-
-Il y aura d'autres refactorings à faire, bien sûr, mais ils sont utiles et luttent tous contre un enlisement de notre productivité.
-
+*La probabilité d'un incident* n'est pas qu'un nombre entre 0 et 1, mais aussi une fréquence et un ratio d'utilisateurs (mais je l'ai déjà compté dans le coût de l'incident).
 
 Bref, ce type de refactoring consiste souvent à s'adapter à un nouveau contexte métier ou technique, à enlever un frein.
-Le coût de ne pas le faire finance l'investissement pour le faire.
+C'est souvent le coût de ne pas le faire qui finance/justifie/dimensionne l'investissement pour le faire.
+
+A noter : Il y aura toujours des librairies qui vieillissent, du temps qui avance et de nouveaux refactorings pour être à jour.
+Il serait sage de la part des opérationnels de trouver des solutions qui permettent de pauser cette
 
 ## Capture de l'existant
 
