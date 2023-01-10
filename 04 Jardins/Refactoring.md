@@ -60,7 +60,10 @@ Il suffit alors de les relancer.
 
 Il y a plusieurs bonnes raisons de se faire un refactoring un peu large.
 D'abord, il y a des problèmes de sécurités que l'on découvre en regardant le [top 10 de l'Owasp](https://owasp.org/Top10/), ensuite avec les rapport de tests d'intrusion ou d'audit.
-Ensuite, viennent les sujets de mises à jour de frameworks et de librairies à cause, encore, de la sécurité car vous vous êtes abonnés aux [publications des CVE](https://www.cve.org/ResourcesSupport/Resources#CVEListDataFeeds) (/!\ ce que je n'ai jamais fait)
+Ensuite, viennent les sujets de mises à jour de frameworks et de librairies à cause /
+1. Encore, de la sécurité car vous vous êtes abonnés aux [publications des CVE](https://www.cve.org/ResourcesSupport/Resources#CVEListDataFeeds) (/!\ ce que je n'ai jamais fait)
+2. De l'obsolescence, autrement dit, de la fin de support mais 
+
 
 ## Capture de l'existant
 
