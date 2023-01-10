@@ -10,25 +10,31 @@ Il existe plusieurs hauteurs pour un refactoring :
 
 Il y a un tronc commun dans tous ces refactorings:
 1. on détecte un problème : code smell, code fragile (générateur de bugs à chaque évolution), baisse de productivité sur certaines zones, fin de support sur la stack
-2. on capture le fonctionnement actuel : tests unitaires, tests d'intégrations par assertions ou par approbations, double run
-3. On se décide sur une conception cible à atteindre, et on "refactore"
-4. On vérifie que l'on a rien cassé
+2. On le finance...
+3. on capture le fonctionnement actuel : tests unitaires, tests d'intégrations par assertions ou par approbations, double run
+4. On se décide sur une conception cible à atteindre, et on "refactore"
+5. On vérifie que l'on a rien cassé
 
 # Les refactoring du quotidien
 
-## détection
+## Détection
 
 Lorsque l'on ajoute une nouvelle user story ou fonctionnalité dans un code existant, le code va s'enrichir et une partie de l'existant va changer.
 La détection ici consiste à trouver le bon endroit où écrire cette nouvelle fonctionnalité.
 Quel contrôleur ? Il existe une fonction métier connexe ou je dois en créer une ?
 
-## capture de l'existant
+## Financement
+
+Avoir des tests qui prouvent l'existence et le bon fonctionnement de vos règles métier et la bonne intégration avec votre site web et votre 
+
+## Capture de l'existant
 
 Evidement, vous avez intérêt à avoir des tests unitaires automatisés pour pouvoir prendre votre code existant pour de la pate à modeler.
 Si votre seule preuve de bon fonctionnement est le code de production en production, il est impossible de le changer sereinement.
 Si vous avez confiance dans une suite de test pour prouver l'existence de tout le fonctionnel attendu, même le code existant devient modifiable !
 
-## refactoring
+## Refactoring
+
 Ca commence par passer d'une constante à une variable, puis d'une valeur à une liste, etc...
 Et ca ressemble aux [priorités des prémisses transformation](https://en.wikipedia.org/wiki/Transformation_Priority_Premise#The_Transformations[3]) mais ensuite, ça dépasse la seule fonction/méthode/procédure.
 On utilise alors des techniques de déplacement de bouts d'algorithmes et de données.
@@ -41,8 +47,20 @@ Ce sont les techniques les plus documentées :
 
 A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésitez pas a chercher des tutoriels vidéo (ou non) de votre IDE qui exécute ce mouvement de refactoring comme [Intellij](https://www.jetbrains.com/help/idea/replace-conditional-logic-with-strategy-pattern.html)
 
-## validation
+## Validation
 
+Encore une fois, je vous souhaite d'avoir des tests automatisés qui prouvent le bon fonctionnement de l'ancien fonctionnel, mais aussi du nouveau !
+Il suffit alors de les relancer.
+
+# Les chantiers de refactoring
+
+## Détection
+
+## Capture de l'existant
+
+## Refactoring
+
+## Validation
 
 
 	- https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas#refactoring
