@@ -5,5 +5,10 @@ Les temps changent, les demandes clients et les librairies sur lesquelles ont s'
 
 Il existe plusieurs hauteurs pour un refactoring :
 - le fil de l'eau où l'on adapte notre algorithme à la nouvelle fonctionnalité en cours de développement : la 3e étape en TDD, la moitié de votre dev sans test first.
-- 
-- 
+- le chantier où l'on s'adapte à un nouveau contexte sans remettre l'existant en cause (mise à jour de librairies et frameworks, virage dans la roadmap, nouveaux typez de demandes clients)
+- la refonte où l'on change de stack ou d'architecture logicielle
+
+# les refactoring du quotidien
+
+Ces les techniques les plus documentées :
+	-
