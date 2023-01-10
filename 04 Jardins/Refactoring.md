@@ -10,13 +10,16 @@ Il existe plusieurs hauteurs pour un refactoring :
 
 Il y a un tronc commun dans tous ces refactorings:
 - on détecte un problème : code smell, code fragile (générateur de bugs à chaque évolution), baisse de productivité sur certaines zones, fin de support sur la stack
-- on capture le fonctionnement actuel : tests unitaires automatisé, 
+- on capture le fonctionnement actuel : tests unitaires, tests d'intégrations par assertions ou par approbations, double run
+- On se décide sur une conception cible à atteindre, et on "refactore"
+- 
 
 # les refactoring du quotidien
 
 Ce sont les techniques les plus documentées :
 	- Le [Refactoring de Martin Fowler](https://refactoring.com/catalog/) qui va droit au but
 	- Le [refactoring Guru](https://refactoring.guru/refactoring/techniques) qui présente aussi des [codes smells](https://refactoring.guru/refactoring/smells) qui déclenchent une refactoring qui visera peut-être un [design pattern](https://refactoring.guru/design-patterns/catalog)
+	- L
 
 A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésitez pas a chercher des tutoriels vidéo (ou non) de votre IDE qui exécute ce mouvement de refactoring comme [Intellij](https://www.jetbrains.com/help/idea/replace-conditional-logic-with-strategy-pattern.html)
 
