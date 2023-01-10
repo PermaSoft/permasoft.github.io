@@ -28,6 +28,7 @@ Quel contrôleur ? Il existe une fonction métier connexe ou je dois en créer u
 Avoir des tests qui prouvent l'existence et le bon fonctionnement de vos règles métier et la bonne intégration avec votre site web et votre persistence, fait parti du travail de développement.
 Le refactoring du code existant aussi même si parfois ce n'est pas anodin.
 Ces deux activités doivent donc être incluses dans votre chiffrage/estimation/engagement !
+C'est votre responsabilité, votre façon de travailler, ce n'est pas négociable, quelque soit votre façon de travailler :-)
 
 ## Capture de l'existant
 
@@ -65,6 +66,7 @@ Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks e
 2. De l'obsolescence, autrement dit, de la fin de support mais aussi de la fin de vie d'une technologie (Soap, Server Side Rendering, ...)
 3. De nouvelles fonctionnalités qui permettent de nouvelles capacités.
 
+## Financement
 
 ## Capture de l'existant
 
@@ -76,6 +78,8 @@ Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks e
 # Les refontes
 
 ## Détection
+
+## Financement
 
 ## Capture de l'existant
 
