@@ -19,11 +19,16 @@ Il y a un tronc commun dans tous ces refactorings:
 ## détection
 
 Lorsque l'on ajoute une nouvelle user story ou fonctionnalité dans un code existant, le code va s'enrichir et une partie de l'existant va changer.
-Il n'y a pas de détection ici, la modification de code existant est 
+La détection ici consiste à trouver le bon endroit où écrire cette nouvelle fonctionnalité.
+Quel contrôleur ? Il existe une fonction métier connexe ou je dois en créer une ?
+
+## capture de l'existant
+
 Evidement, vous avez intérêt à avoir des tests unitaires automatisés pour pouvoir prendre votre code existant pour de la pate à modeler.
 Si votre seule preuve de bon fonctionnement est le code de production en production, il est impossible de le changer sereinement.
 Si vous avez confiance dans une suite de test pour prouver l'existence de tout le fonctionnel attendu, même le code existant devient modifiable !
 
+## refactoring
 Ca commence par passer d'une constante à une variable, puis d'une valeur à une liste, etc...
 Et ca ressemble aux [priorités des prémisses transformation](https://en.wikipedia.org/wiki/Transformation_Priority_Premise#The_Transformations[3]) mais ensuite, ça dépasse la seule fonction/méthode/procédure.
 On utilise alors des techniques de déplacement de bouts d'algorithmes et de données.
@@ -36,5 +41,8 @@ Ce sont les techniques les plus documentées :
 
 A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésitez pas a chercher des tutoriels vidéo (ou non) de votre IDE qui exécute ce mouvement de refactoring comme [Intellij](https://www.jetbrains.com/help/idea/replace-conditional-logic-with-strategy-pattern.html)
 
- 
+## validation
+
+
+
 	- https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas#refactoring
