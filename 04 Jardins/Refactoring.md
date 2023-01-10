@@ -14,7 +14,7 @@ Ce sont les techniques les plus documentées :
 	- Le [Refactoring de MArtin Fowler](https://refactoring.com/catalog/) qui va droit au but
 	- Le [refactoring Guru](https://refactoring.guru/refactoring/techniques) qui présente aussi des [codes smells](https://refactoring.guru/refactoring/smells) qui déclenchent une refactoring qui visera peut-être un [design pattern](https://refactoring.guru/design-patterns/catalog)
 
-A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésit
+A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésitez pas a chercher des tutoriels vidéo (ou non) de votre IDE qui exécute ce mouvement de refactoring comme [Intellij](https://www.jetbrains.com/help/idea/replace-conditional-logic-with-strategy-pattern.html)
 
  
 	- https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas#refactoring
