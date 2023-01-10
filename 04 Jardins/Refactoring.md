@@ -8,6 +8,8 @@ Il existe plusieurs hauteurs pour un refactoring :
 - le chantier où l'on s'adapte à un nouveau contexte sans remettre l'existant en cause (mise à jour de librairies et frameworks, virage dans la roadmap, nouveaux typez de demandes clients)
 - la refonte où l'on change de stack ou d'architecture logicielle
 
+
+
 # les refactoring du quotidien
 
 Ce sont les techniques les plus documentées :
