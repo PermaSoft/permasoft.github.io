@@ -80,10 +80,12 @@ Le coût d'un incident implique tellement de choses :
 - si ca ne suffit pas, rajoutez le coût du retard de ce que l'on aurais fait sans l'incident
 - si ca ne suffit pas, rajoutez le coût de la confiance perdue, ou la réputation, ...
 
-Bref, ce type de refactoring consiste à s'adapter à un nouveau contexte métier ou technique, à enlever un frein.
-Je connais trois financements : faire gagner de l'argent, en faire économiser et sécuriser l'argent acquis ou l'accès à un marché (tou)
-Le coût de ne pas le faire finance l'investissement pour le faire.
 
+Il y aura d'autres refactorings à faire, bien sûr, mais ils sont utiles et luttent tous contre un enlisement de notre productivité.
+
+
+Bref, ce type de refactoring consiste souvent à s'adapter à un nouveau contexte métier ou technique, à enlever un frein.
+Le coût de ne pas le faire finance l'investissement pour le faire.
 
 ## Capture de l'existant
 
