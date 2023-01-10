@@ -10,8 +10,11 @@ Il existe plusieurs hauteurs pour un refactoring :
 
 # les refactoring du quotidien
 
-Ces les techniques les plus documentées :
+Ce sont les techniques les plus documentées :
 	- Le [Refactoring de MArtin Fowler](https://refactoring.com/catalog/) qui va droit au but
 	- Le [refactoring Guru](https://refactoring.guru/refactoring/techniques) qui présente aussi des [codes smells](https://refactoring.guru/refactoring/smells) qui déclenchent une refactoring qui visera peut-être un [design pattern](https://refactoring.guru/design-patterns/catalog)
-	- 
+
+A noter que certains mouvements de refactoring sont automatisés par les IDE, n'hésit
+
+ 
 	- https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas#refactoring
