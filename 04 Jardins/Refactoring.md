@@ -17,8 +17,10 @@ Il y a un tronc commun dans tous ces refactorings:
 # Les refactoring du quotidien
 
 Lorsque l'on ajoute une nouvelle user story ou fonctionnalité dans un code existant, le code va s'enrichir et une partie de l'existant va changer.
+Evidement, vous avez intérêt à avoir des tests unitaires automatisés pour pouvoir prendre votre code existant pour de la pate à modeler.
 Ca commence par passer d'une constante à une variable, puis d'une valeur à une liste, etc...
-Après ce début de tran
+Et ca ressemble aux [priorités des prémisses transformation](https://en.wikipedia.org/wiki/Transformation_Priority_Premise#The_Transformations[3]) mais ensuite, ça dépasse la seule fonction/méthode/procédure.
+On utilise alors des techniques de déplacement de bouts d'algorithmes et de données.
 
 Ce sont les techniques les plus documentées :
 	- Le [Refactoring de Martin Fowler](https://refactoring.com/catalog/) qui va droit au but
