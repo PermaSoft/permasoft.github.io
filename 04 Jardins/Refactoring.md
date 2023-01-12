@@ -69,6 +69,7 @@ Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks e
 
 ## Financement
 
+### Gestion de risques et d'opportunités
 Nous ne sommes plus sur une méthode de production de code comme pour les refactoring au fil de l'eau ou le TDD.
 Lorsqu'un évènement extérieur implique une demande de changement, c'est un grain de sable.
 Comme pour les [[stratégies de tests]], on est dans la gestion de risque.
