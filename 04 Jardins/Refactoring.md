@@ -91,7 +91,14 @@ C'est souvent le coût de ne pas le faire qui finance/justifie/dimensionne l'inv
 Il y aura toujours des librairies qui vieillissent, du temps qui avance et de nouveaux refactorings à faire pour être à jour.
 Le rôle du logiciel est de fournir un service à des utilisateurs, pas d'occuper les devs et les ops.
 Il serait sage de la part des opérationnels (dev, ops, etc.) de trouver des solutions qui permettent de pauser cette course à la mise à jour le temps d'engranger de la trésorerie, quitte à passer de PHP 7 au 10 dans 3 ans sans migrer par les versions intermédiaires.
-Si vous n'avez pas de problème de recrutement du niveau de compétences minimal sur votre stack actuelle et que la nouvelle stack n'apporte pas de fonctionnalités essentielles, les mises à jour se réfléchissent.
+Ne pas être à jour ne signifie pas être en retard.
+Ceci dis, les nouvelles fonctionnalités peuvent apporter un gain de productivité où de nouvelles capacités/opportunités.
+
+Un autre aspect est la rétention des développeurs dans un marché tendu.
+Avoir la stack la plus hype ne vas pas forcément attirer les développeurs les plus pragmatiques.
+Par contre, avoir une stack moderne vous évitera de repousser de bons profils en recrutement.
+
+Il faut évidement une stack contemporaine pour ne pas repousser
 
 ## Capture de l'existant
 
