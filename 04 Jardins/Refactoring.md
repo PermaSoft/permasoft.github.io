@@ -103,7 +103,8 @@ Les salariés ne restent plus dans une seule entreprise, par contre, quand ils p
 
 ## Capture de l'existant
 
-Comme pour le travail quotidien, un test automatiser montrant le fonctionnel à conserver et de nouveaux test montrant la cible a atteindre sont
+Comme pour le travail quotidien, un test automatiser montrant le fonctionnel à conserver et de nouveaux test montrant la cible a atteindre sont idéaux.
+
 
 ## Refactoring
 
