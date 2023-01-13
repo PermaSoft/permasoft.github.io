@@ -97,10 +97,13 @@ Ceci dis, les nouvelles fonctionnalités peuvent apporter un gain de productivit
 Un autre aspect est la rétention des développeurs dans un marché tendu.
 Avoir la stack la plus hype ne vas pas forcément attirer les développeurs les plus pragmatiques.
 Par contre, avoir une stack moderne vous évitera de repousser de bons profils en recrutement.
-
-Il faut évidement une stack contemporaine pour ne pas repousser
+Pour conserver vos collaborateur, c'est ce même critère d'employabilité qu'il faut défendre.
+Si ils pensent qu'en continuant à travailler chez vous, ils pourront trouver un bon poste ailleurs, vous pourrez les garder plus longtemps.
+Les salariés ne restent plus dans une seule entreprise, par contre, quand ils partent avec une bonne image, ils vous recommandent ...
 
 ## Capture de l'existant
+
+Comme pour le travail quotidien, un test automatiser montrant le fonctionnel à conserver et de nouveaux test montrant la cible a atteindre sont
 
 ## Refactoring
 
