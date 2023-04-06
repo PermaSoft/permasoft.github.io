@@ -16,6 +16,11 @@ La stratégie d'entreprise implique une stratégie produit qui à son tour impli
 Une "stratégie" d'entreprise est un choix délibéré de faire quelque chose en renonçant au reste.
 Cela consiste généralement à trouver une direction qui nous différentie des concurrents et, dans l'idéal, qui sera difficile à copier.
 La stratégie produit est bien plus large qu'un besoin de tests.
-Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en terme de conformité à la loi (RGPD), de performances (rank index décent vis à vis de la concurrence), de scalaibilité
+Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en terme de conformité à la loi (RGPD), de performances (vis à vis de la concurrence), de scalabilité, de disponibilité, ...
+
+Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
+Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
+Les fasts food ne vérifie pas ou peu les commandes qu'ils fournissent en salle. 
+Quand le client constate 
 
 # La stratégie de tests fonctionnels
