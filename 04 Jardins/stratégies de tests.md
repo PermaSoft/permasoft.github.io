@@ -42,4 +42,5 @@ Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en
 Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
 
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
-Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDpour  contribuent à certains critères de qualité logicielle si ils respectent 
+Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
+Le test après avoir écris le code fournit une preuve technique qu'un des 
