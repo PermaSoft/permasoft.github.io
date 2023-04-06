@@ -39,4 +39,7 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 # La stratégie de tests fonctionnels
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
+Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
 
+Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
+Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDpour  contribuent à certains critères de qualité logicielle si ils respectent 
