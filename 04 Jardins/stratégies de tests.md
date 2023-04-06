@@ -12,6 +12,10 @@ Dans ces équipes, la stratégie de tests peut avoir un ou deux objets différen
 
 # La stratégie de tests qualité
 
-La stratégie d'entrprise qui implique une stratégie produit qui à son tour 
+La stratégie d'entreprise implique une stratégie produit qui à son tour implique une stratégie de tests.
+Une "stratégie" d'entreprise est un choix délibéré de faire quelque chose en renonçant au reste.
+Cela consiste généralement à trouver une direction qui nous différentie des concurrents et, dans l'idéal, qui sera difficile à copier.
+La stratégie produit est bien plus large qu'un besoin de tests.
+Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en terme de conformité à la loi (RGPD), de performances (rank index décent vis à vis de la concurrence), de scalaibilité
 
 # La stratégie de tests fonctionnels
