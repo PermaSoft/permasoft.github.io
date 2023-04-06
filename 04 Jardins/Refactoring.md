@@ -72,7 +72,7 @@ Moins critique, mais plus fréquent, les sujets de mises à jour de frameworks e
 ### Gestion de risques et d'opportunités
 Nous ne sommes plus sur une méthode de production de code comme pour les refactoring au fil de l'eau ou le TDD.
 Lorsqu'un évènement extérieur implique une demande de changement, c'est un grain de sable.
-Comme pour les [[stratégies de tests]], on est dans la gestion de risque.
+Comme pour les [[04 Jardins/Stratégies de tests]], on est dans la gestion de risque.
 Pour rappel, le coût d'un risque est l'association du coût total d'un incident et la probabilité qu'il survienne.
 *Le coût d'un incident* implique tellement de choses :
 - sa détection

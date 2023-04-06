@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Jardins/Refactoring.md",
+                "file": "04 Jardins/Stratégies de tests.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/Refactoring.md",
+                "file": "04 Jardins/Stratégies de tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/Refactoring.md",
+                "file": "04 Jardins/Stratégies de tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/Refactoring.md"
+                "file": "04 Jardins/Stratégies de tests.md"
               }
             }
           }
@@ -215,8 +215,8 @@
   },
   "active": "81bb900a9845b2cc",
   "lastOpenFiles": [
-    "04 Jardins/stratégies de tests.md",
     "04 Jardins/Refactoring.md",
+    "04 Jardins/Stratégies de tests.md",
     "04 Jardins/katas/faire mon propre kata.md",
     "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/FizzBuzz.md",
