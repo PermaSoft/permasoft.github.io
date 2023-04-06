@@ -20,11 +20,12 @@ Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en te
 
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
 Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
-Les fasts food ne vérifie pas ou peu les commandes qu'ils fournissent en salle. 
-Quand le client constate un problème, les équipes fournissent le produit manquant avec des excuses et un grand sourire : corriger en prod à posteriori leur coûte moins d'effort que de vérifier correctement chaque commande.
 Dans l'aviation, on plie des ailes jusqu'à leur rupture, on envoie des poulets congelés dans des réacteurs tout neuf pour ne jamais avoir un accident d'avion.
-Les coûts de tests dans l'aviation sont faramineux pour réduire le taux d'échec à zéro.
-
+Les coûts de tests dans l'aviation sont faramineux pour réduire le taux d'échec à zéro avant le décollage.
+A l'opposé, les fasts foods ne vérifient pas ou peu les commandes qu'ils fournissent en salle. 
+Quand le client constate un problème, les équipes fournissent le produit manquant avec des excuses et un grand sourire : corriger en prod à posteriori leur coûte moins d'effort que de vérifier correctement chaque commande.
+Le coût du risque se calcule avec une estimation du coût de l'incident lorsqu'il se produit multiplié par la probabilité que se critère se produise.
+Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la dés
 
 
 # La stratégie de tests fonctionnels
