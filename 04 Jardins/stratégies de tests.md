@@ -42,6 +42,9 @@ Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en
 Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
 Comme le disait Djikstra, les tests prouve la présence d'un bug, pas son absence.
 Les tests doivent donc prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
+Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bout.
+Ce sont des cas d'usages sur des test qui commencent du point d'entrée (REST) ou du service métier qui implémente ce d'usage et qui terminent soit à la persistance de tests (souvent en mémoire) soit au mocks de votre couche d'accès aux données.
+
 
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
@@ -49,4 +52,5 @@ Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) po
 	- C'est un plus pour la fiabilité car on capture et valide le comportement du code de production.
 - Le test écris avant le code de production fournit un preuve qu'une fonctionnalité existe.
 	- C'est un plus pour la fiabilité et la maintenabilité car on conçoit le test à partir d'un objectif, une spécification, un exemple, un critère d'acceptance.
+- Le test nommé sous forme de fonctionnalité ou de détail fonctionnel valide quelque soit les "bonnes" valeurs utilisées dans le test
 
