@@ -46,6 +46,8 @@ Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bo
 Ce sont des cas d'usages sur des test qui commencent du point d'entrée (REST) ou du service métier qui implémente ce d'usage et qui terminent soit à la persistance de tests (souvent en mémoire) soit au mocks de votre couche d'accès aux données.
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
+Pyiramide de tests de Mike Cohn
+
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
