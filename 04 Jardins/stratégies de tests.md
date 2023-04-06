@@ -25,7 +25,10 @@ Les coûts de tests dans l'aviation sont faramineux pour réduire le taux d'éch
 A l'opposé, les fasts foods ne vérifient pas ou peu les commandes qu'ils fournissent en salle. 
 Quand le client constate un problème, les équipes fournissent le produit manquant avec des excuses et un grand sourire : corriger en prod à posteriori leur coûte moins d'effort que de vérifier correctement chaque commande.
 Le coût du risque se calcule avec une estimation du coût de l'incident lorsqu'il se produit multiplié par la probabilité que se critère se produise.
-Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la dés
+Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, les pénalités contractuelles, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la désorganisation et le retard pris par les opérationnels à cause de cet incident.
+
+Chaque équipe doit donc voir quelle sont les critères de qualité logicielle (ou de qualité de l'infrastructure) demandés par la stratégie produit et les engagements contractuels.
+A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'othographes)
 
 
 # La stratégie de tests fonctionnels
