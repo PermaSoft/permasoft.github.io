@@ -6,3 +6,4 @@ Hors, les systèmes ayant du succès, il y a trop de tests manuels pour tous les
 La stratégie de tests inclus alors le choix de rejouer des chemins critiques, les nouveaux tests sur les évolutions et les test de fonctionnalités connexes qui ont un risque de régression.
 
 Dans les équipes projets (tous les acteurs d'un projet dans une salle), fonctionnelles (feature teams), stream aligned (flow), value stream (unfix), bref multi-disciplinaires, la stratégie de test ne se limite plus aux tests manuels de non régression.
+Dans ces équipes, la stratégie de tests peut avoir deux objets différents : la politique des campagne de tests pour chaque
