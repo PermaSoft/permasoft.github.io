@@ -40,11 +40,13 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
 Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
+Comme le disait Djikstra, les tests prouve la présence d'un bug, pas son absence.
+Les tests doivent donc prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
 
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
-	- C'est un plus pour la fiabilité.
+	- C'est un plus pour la fiabilité car on capture et valide le comportement du code de production.
 - Le test écris avant le code de production fournit un preuve qu'une fonctionnalité existe.
-	- C'st un plus pour la fiabilité et la maintenabilité
+	- C'est un plus pour la fiabilité et la maintenabilité car on conçoit le test à partir d'un objectif, une spécification, un exemple, un critère d'acceptance.
 
