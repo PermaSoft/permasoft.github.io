@@ -18,7 +18,8 @@ Cela consiste généralement à trouver une direction qui nous différentie des 
 La stratégie produit est bien plus large qu'un besoin de tests.
 Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en terme de conformité à la loi (RGPD), de performances (vis à vis de la concurrence), de scalabilité, de disponibilité, ...
 Elle  se concentre souvent sur les propriétés émergeantes que le logiciel montre au fur et à mesure qu'on le construit.
-Ses propriétes étant souvant
+Ses propriétes étant souvant l'expérience utilisateur, la performance, la sécurité, etc.
+
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
 Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
 Dans l'aviation, on plie des ailes jusqu'à leur rupture, on envoie des poulets congelés dans des réacteurs tout neuf pour ne jamais avoir un accident d'avion.
@@ -37,4 +38,5 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 
 # La stratégie de tests fonctionnels
 
+Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
 
