@@ -43,4 +43,8 @@ Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des 
 
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
-Le test après avoir écris le code fournit une preuve technique qu'un des 
+- Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
+	- C'est un plus pour la fiabilité.
+- Le test écris avant le code de production fournit un preuve qu'une fonctionnalité existe.
+	- C'st un plus pour la fiabilité et la maintenabilité
+
