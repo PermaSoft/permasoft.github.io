@@ -25,7 +25,7 @@ Les tests de développeurs peuvent appeler le code de production depuis l'extér
 Ces tests sont adaptés à une vérification chirurgicale des comportements attendus du logiciel, ses cas d'usage et ses règles de gestion.
 Il sont réalisé sans le workflow qui précède la règle de gestion à vérifier.
 Le test a donc moins de contexte à préparer, et il n'y a souvent pas de persistance à nettoyer.
-En conclusion, les tests de développeurs sont adaptés "à la vérification programmée de cas d
+En conclusion, les tests de développeurs sont adaptés "à la vérification programmée de cas d'usage, de règles de gestions internes à un système vu comme comme une boite blanche".
 
 
 # La stratégie de tests qualité
@@ -57,9 +57,7 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 # La stratégie de tests fonctionnels
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
-Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
-
-
+Et pourtant, ces activités font partie de la Définition of Done (DoD) et doivent faire partie des estimations pour réaliser une tâche.
 
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
