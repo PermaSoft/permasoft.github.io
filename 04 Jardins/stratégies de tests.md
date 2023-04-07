@@ -44,20 +44,22 @@ Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en te
 Elle  se concentre souvent sur les propriétés émergeantes que le logiciel montre au fur et à mesure qu'on le construit.
 Ses propriétés étant souvent l'expérience utilisateur, la performance, la sécurité, etc.
 
+## Le retour sur investissement dans les tests
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
-Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
+Le risque qu'un critère soit absent va dimensionner les efforts de tests que vous pouvez faire pour vous en protéger.
+Le ratio entre le coût du risque et le coût de son test est le facteur de retour de retour sur investissement.
+
+### Le coût du risque
 Le coût du risque se calcule avec une estimation du coût de l'incident lorsqu'il se produit multiplié par la probabilité que se critère se produise.
 Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, les pénalités contractuelles, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la désorganisation et le retard pris par les opérationnels à cause de cet incident.
+
+### Le coût du test
 En face, le coût du test doit être minimal comme en observant la production au lieu de faire des tirs de tests hors productions.
 Une définition du test est le fait d'exercer une pression sur un système et de vérifier la conformité du résultat.
 Hors, la production exerce une pression plutôt réelle sur le système et le résultat de l'observabilité peut être de lancer des alertes quand le résultat n'est pas conforme.
 Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de faire des tests avant la mise en production.
 
-Chaque équipe doit donc voir quels sont les critères de qualité logicielle (ou de qualité de l'infrastructure) demandés par la stratégie produit et les engagements contractuels.
-
-A partir de ces critères de qualité, vous pouvez évaluer le coût du risque ou la gène que poserait leur absence.
-C'est ce coût du risque qui financera les effort de tests comme des plans de reprise après incident, des tirs de performance, le monitoring, de tenue de charge, de résillience, etc.
-
+## La variété de tests de critères qualité
 
 
 A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
