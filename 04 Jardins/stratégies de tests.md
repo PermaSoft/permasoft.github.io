@@ -40,10 +40,15 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
 Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
+Nous allons séparer les tests de testeurs qui sont des tests manuels ou des tests manuels automatisés et les tests de développeurs qui sont nativement automatiques.
+Les tests de testeurs testent le système de l'extérieur et le système y est une boite noire.
+Les tests de développeurs peuvent appeler le code de production depuis l'extérieur en réalisant une requête HTTP, directement sur la fonction qui implémente la règle de gestion ou encore n'importe où entre les deux.
+
+
 
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
-Ces tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles. Les testeurs QA perlent de tests fonctionnels pour décrire des étapes de conversation entre uti 
+Ces tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 
 
 Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bout.
