@@ -19,11 +19,13 @@ Ces tests sont optimisés pour valider un maximum de criètres fonctionnels ou n
 Cela les rends très fragiles lorsque le fonctionnel change en début de workflow, il n'est pas rare de voir de scenarios en échec.
 En restant manuels, le testeur peux mettre le scénario à jour en même temps qu'il le joue.
 Ces tests passent massivement en échec lorsqu'ils sont automatisé, les toutes les fins de workflow doivent être corrigées.
-En conclusion, les Tests QA sont adaptés a la vérification de critères de qualité exterieurs aux systèmes et stables.
+En conclusion, les tests QA sont adaptés "à la vérification manuelle ou automatisée de critères de qualité extérieurs aux systèmes et stables sur des systèmes vus comme des boites noires".
 
-Les tests de développeurs peuvent appeler le code de production depuis l'extérieur en réalisant une requête HTTP, directement sur la fonction qui implémente la règle de gestion ou encore n'importe où entre les deux.
-Ces tests sont adapté à une vérification chirurgicales des comportement attendus du logiciel, ses cas d'usage et ses règles de gestions.
-
+Les tests de développeurs peuvent appeler le code de production depuis l'extérieur en réalisant une requête HTTP ou directement sur la fonction qui implémente la règle de gestion ou encore n'importe où entre les deux.
+Ces tests sont adaptés à une vérification chirurgicale des comportements attendus du logiciel, ses cas d'usage et ses règles de gestion.
+Il sont réalisé sans le workflow qui précède la règle de gestion à vérifier.
+Le test a donc moins de contexte à préparer, et il n'y a souvent pas de persistance à nettoyer.
+En conclusion, les tests de développeurs sont adaptés "à la vérification programmée de cas d
 
 
 # La stratégie de tests qualité
