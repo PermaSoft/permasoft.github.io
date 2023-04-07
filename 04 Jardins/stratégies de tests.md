@@ -43,7 +43,7 @@ Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des 
 
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
-Ce tests automatisés de développeurs doivent être des tests de donctionnalités
+Ces tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles. Les testeurs QA perlent de tests fonctionnels pour décrire des étapes de conversation entre uti 
 
 
 Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bout.
