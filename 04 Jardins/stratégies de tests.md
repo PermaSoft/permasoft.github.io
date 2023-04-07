@@ -66,8 +66,10 @@ Ils doivent décrire et documenter une transformation de données, un transforma
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
-ONn peut démarrer le test par un appl http, ou app
+On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
+On faire ce tests jusque dans une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique ou utiliser une base de données en mémoire ou encore couper l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
 
+[...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
 
