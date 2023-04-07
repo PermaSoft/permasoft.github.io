@@ -60,6 +60,9 @@ Hors, la production exerce une pression plutôt réelle sur le système et le r�
 Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de faire des tests avant la mise en production.
 
 ## La variété de tests de critères qualité
+Les testeurs certifé ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
+Pour notre culture, j'utilise les critère de qualité produit de la norme ISO25010 pour faire ma liste de course en terme de critères de qualité externes.
+Le critère de maintenabilité étant un problème de développeurs, je l'adresse dans la partie sur la la stratégie de tests fonctionnels.
 
 
 A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
