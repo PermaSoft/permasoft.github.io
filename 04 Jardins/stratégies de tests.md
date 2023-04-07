@@ -61,14 +61,15 @@ Et pourtant, ces activités font partie de la Définition of Done (DoD) et doive
 
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
-Ces tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
+Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
+Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
+Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
+Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
+ONn peut démarrer le test par un appl http, ou app
 
-Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bout.
-Ce sont des cas d'usages sur des test qui commencent du point d'entrée (REST) ou du service métier qui implémente ce d'usage et qui terminent soit à la persistance de tests (souvent en mémoire) soit au mocks de votre couche d'accès aux données.
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
-Pyiramide de tests de Mike Cohn
 
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
