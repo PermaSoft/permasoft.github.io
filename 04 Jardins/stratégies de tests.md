@@ -43,10 +43,11 @@ Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez
 Le coût du risque se calcule avec une estimation du coût de l'incident lorsqu'il se produit multiplié par la probabilité que se critère se produise.
 Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, les pénalités contractuelles, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la désorganisation et le retard pris par les opérationnels à cause de cet incident.
 En face, le coût du test doit être minimal comme en observant la production au lieu de faire des tirs de tests hors productions.
-Une définition du test est le fait d'exercer une pression sur un système et de vérifier la conformité résultat.
-Hors, la production exerce une pression plutôt réelle sur le système.
+Une définition du test est le fait d'exercer une pression sur un système et de vérifier la conformité du résultat.
+Hors, la production exerce une pression plutôt réelle sur le système et le résultat de l'observabilité peut être de lancer des alertes quand le résultat n'est pas conforme.
+Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de faire des tests avant la mise en production.
 
-Chaque équipe doit donc voir quelle sont les critères de qualité logicielle (ou de qualité de l'infrastructure) demandés par la stratégie produit et les engagements contractuels.
+Chaque équipe doit donc voir quels sont les critères de qualité logicielle (ou de qualité de l'infrastructure) demandés par la stratégie produit et les engagements contractuels.
 
 A partir de ces critères de qualité, vous pouvez évaluer le coût du risque ou la gène que poserait leur absence.
 C'est ce coût du risque qui financera les effort de tests comme des plans de reprise après incident, des tirs de performance, le monitoring, de tenue de charge, de résillience, etc.
