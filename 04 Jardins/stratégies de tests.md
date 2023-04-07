@@ -65,6 +65,8 @@ Toujours de mon point de vue, les tests automatisés de développeurs doivent ê
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
+Les tests de workflow sont lent, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolutions à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
+
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
 On faire ce tests jusque dans une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique ou utiliser une base de données en mémoire ou encore couper l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
