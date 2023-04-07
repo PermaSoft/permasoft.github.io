@@ -40,19 +40,20 @@ Ses propriétes étant souvant l'expérience utilisateur, la performance, la sé
 
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
 Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
-Dans l'aviation, on plie des ailes jusqu'à leur rupture, on envoie des poulets congelés dans des réacteurs tout neuf pour ne jamais avoir un accident d'avion.
-Les coûts de tests dans l'aviation sont faramineux pour réduire le taux d'échec à zéro avant le décollage.
-A l'opposé, les fasts foods ne vérifient pas ou peu les commandes qu'ils fournissent en salle. 
-Quand le client constate un problème, les équipes fournissent le produit manquant avec des excuses et un grand sourire : corriger en prod à posteriori leur coûte moins d'effort que de vérifier correctement chaque commande.
 Le coût du risque se calcule avec une estimation du coût de l'incident lorsqu'il se produit multiplié par la probabilité que se critère se produise.
 Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, les pénalités contractuelles, la perte de confiance,  l'analyse par le support et autres équipes, la réalisation d'un correctif, son déploiement en production et finalement la désorganisation et le retard pris par les opérationnels à cause de cet incident.
+En face, le coût du test doit être minimal comme en observant la production au lieu de faire des tirs de tests hors productions.
+Une définition du test est le fait d'exercer une pression sur un système et de vérifier la conformité résultat.
+Hors, la production exerce une pression plutôt réelle sur le système.
 
 Chaque équipe doit donc voir quelle sont les critères de qualité logicielle (ou de qualité de l'infrastructure) demandés par la stratégie produit et les engagements contractuels.
-A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
 
 A partir de ces critères de qualité, vous pouvez évaluer le coût du risque ou la gène que poserait leur absence.
-C'est ce coût du risque qui financera les effort de tests comme des plans de reprise après incident, des tirs de performance, de tenue de charge, de résillience, etc.
+C'est ce coût du risque qui financera les effort de tests comme des plans de reprise après incident, des tirs de performance, le monitoring, de tenue de charge, de résillience, etc.
 
+
+
+A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
 
 # La stratégie de tests fonctionnels
 
