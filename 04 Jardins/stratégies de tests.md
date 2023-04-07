@@ -1,10 +1,13 @@
 
-Une stratégie de tests est une expression de testeurs, du métier des QA (Quality Assurance).
+# Une légende
+
+Une stratégie de tests est une expression de testeurs, du métier des QA (Quality Assurance). 
 Dans leur métier, cela décrit les moyens de choisir les tests du cahier de tests que l'on va exécuter lors des campagnes de tests. 
 Le cahier de tests contient tous les tests existants pour un système en cumulant ceux de toutes les anciennes versions (les tests de non régressions) et ceux de la nouvelle version du systèmes.
 Hors, les systèmes ayant du succès, il y a trop de tests manuels pour tous les repasser à chaque livraison de version. 
 La stratégie de tests inclus alors le choix de rejouer des chemins critiques, les nouveaux tests sur les évolutions et les test de fonctionnalités connexes qui ont un risque de régression.
 
+# Une actualité
 Dans les équipes projets (tous les acteurs d'un projet dans une salle), fonctionnelles (feature teams), stream aligned (flow), value stream (unfix), bref multi-disciplinaires, la stratégie de test ne se limite plus aux tests manuels de non régression.
 Dans ces équipes, la stratégie de tests peut avoir un ou deux objets différents parmis : 
 1. la politique des campagne de tests pour valider des critères de qualités contractuels (perf, sécu, A11y, ...)
@@ -12,6 +15,7 @@ Dans ces équipes, la stratégie de tests peut avoir un ou deux objets différen
 
 Nous allons séparer les tests de testeurs qui sont des tests manuels ou des tests manuels automatisés et les tests de développeurs qui sont nativement automatiques.
 
+## Les tests de testeurs
 Les tests de testeurs testent le système de l'extérieur et le système y est une boite noire.
 Ces tests sont adaptés a la validation de critères de qualité externe comme la performance, la tolérance aux pannes, ...
 Ils ont un problème de persistance de données qui implique un nettoyage entre chaque scénario.
@@ -21,6 +25,7 @@ En restant manuels, le testeur peux mettre le scénario à jour en même temps q
 Ces tests passent massivement en échec lorsqu'ils sont automatisé, les toutes les fins de workflow doivent être corrigées.
 En conclusion, les tests QA sont adaptés "à la vérification manuelle ou automatisée de critères de qualité extérieurs aux systèmes et stables sur des systèmes vus comme des boites noires".
 
+## Les tests de développeurs
 Les tests de développeurs peuvent appeler le code de production depuis l'extérieur en réalisant une requête HTTP ou directement sur la fonction qui implémente la règle de gestion ou encore n'importe où entre les deux.
 Ces tests sont adaptés à une vérification chirurgicale des comportements attendus du logiciel, ses cas d'usage et ses règles de gestion.
 Il sont réalisé sans le workflow qui précède la règle de gestion à vérifier.
@@ -30,13 +35,14 @@ En conclusion, les tests de développeurs sont adaptés "à la vérification pro
 
 # La stratégie de tests qualité
 
+## La stratégie, c'est de la politique
 La stratégie d'entreprise implique une stratégie produit qui à son tour implique une stratégie de tests.
 Une "stratégie" d'entreprise est un choix délibéré de faire quelque chose en renonçant au reste.
 Cela consiste généralement à trouver une direction qui nous différentie des concurrents et, dans l'idéal, qui sera difficile à copier.
 La stratégie produit est bien plus large qu'un besoin de tests.
 Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en terme de conformité à la loi (RGPD), de performances (vis à vis de la concurrence), de scalabilité, de disponibilité, ...
 Elle  se concentre souvent sur les propriétés émergeantes que le logiciel montre au fur et à mesure qu'on le construit.
-Ses propriétes étant souvant l'expérience utilisateur, la performance, la sécurité, etc.
+Ses propriétés étant souvent l'expérience utilisateur, la performance, la sécurité, etc.
 
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
 Le risque qu'un critère soit absent va dimensionner les efforts que vous pouvez faire pour vous en protéger.
