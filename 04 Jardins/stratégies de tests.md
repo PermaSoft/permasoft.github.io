@@ -14,6 +14,12 @@ Nous allons séparer les tests de testeurs qui sont des tests manuels ou des tes
 
 Les tests de testeurs testent le système de l'extérieur et le système y est une boite noire.
 Ces tests sont adaptés a la validation de critères de qualité externe comme la performance, la tolérance aux pannes, ...
+Ils ont un problème de persistance de données qui implique un nettoyage entre chaque scénario.
+Ces tests sont optimisés pour valider un maximum de criètres fonctionnels ou non en un minimum de scenarios.
+Cela les rends très fragiles lorsque le fonctionnel change en début de workflow, il n'est pas rare de voir de scenarios en échec.
+En restant manuels, le testeur peux mettre le scénario à jour en même temps qu'il le joue.
+Ces tests passent massivement en échec lorsqu'ils sont automatisé, les toutes les fins de workflow doivent être corrigées.
+En conclusion, les Tests QA sont adaptés a la vérification de critères de qualité exterieurs aux systèmes et stables.
 
 Les tests de développeurs peuvent appeler le code de production depuis l'extérieur en réalisant une requête HTTP, directement sur la fonction qui implémente la règle de gestion ou encore n'importe où entre les deux.
 Ces tests sont adapté à une vérification chirurgicales des comportement attendus du logiciel, ses cas d'usage et ses règles de gestions.
