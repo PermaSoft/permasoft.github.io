@@ -40,8 +40,12 @@ C'est ce coût du risque qui financera les effort de tests comme des plans de re
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
 Et pourtant, c'est activité font partie de la Définition of Done (Dod) et des estimations pour réaliser une tâche.
-Comme le disait Djikstra, les tests prouve la présence d'un bug, pas son absence.
-Les tests doivent donc prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
+
+Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
+De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
+Ce tests automatisés de développeurs doivent être des tests de donctionnalités
+
+
 Ces fonctionnalités sont des workflows utilisateurs sur des tests de bout en bout.
 Ce sont des cas d'usages sur des test qui commencent du point d'entrée (REST) ou du service métier qui implémente ce d'usage et qui terminent soit à la persistance de tests (souvent en mémoire) soit au mocks de votre couche d'accès aux données.
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
