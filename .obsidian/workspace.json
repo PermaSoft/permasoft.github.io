@@ -74,14 +74,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a7e978bbe3eaf6cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
@@ -215,8 +207,8 @@
   },
   "active": "81bb900a9845b2cc",
   "lastOpenFiles": [
-    "04 Jardins/Refactoring.md",
     "04 Jardins/Stratégies de tests.md",
+    "04 Jardins/Refactoring.md",
     "04 Jardins/katas/faire mon propre kata.md",
     "04 Jardins/katas/Tu veux un kata.md",
     "04 Jardins/katas/FizzBuzz.md",

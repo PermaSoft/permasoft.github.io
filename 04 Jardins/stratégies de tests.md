@@ -70,15 +70,16 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 # La stratégie de tests fonctionnels
 
 Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
-Et pourtant, ces activités font partie de la Définition of Done (DoD) et doivent faire partie des estimations pour réaliser une tâche.
+Et pourtant, ces activités font partie de la "Definition of Done (DoD)"" et doivent faire partie des estimations pour réaliser une tâche.
 
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
+# Tests unitaires, d'intégrations ET fonctionnels 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
-Les tests de workflow sont lent, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolutions à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
+Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolutions à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
 
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
@@ -87,7 +88,7 @@ On faire ce tests jusque dans une base de données de tests avec les problèmes 
 [...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
-
+# Tests après, avant, moteurs
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
