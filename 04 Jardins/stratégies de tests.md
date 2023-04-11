@@ -88,19 +88,19 @@ Mike Cohn
 
 ```mermaid
 sequenceDiagram
-	Actor Broad Integration Test
-	Actor In memory Integration Test
-	Box LightGrey Group Incoming IO
-		participant Rest Service
-		participant API Implementation
-	end
-	Box LightBlue Group Business Application
+	actor Broad Integration Test;
+	actor In memory Integration Test;
+	box LightGrey Group Incoming IO;
+		participant Rest Service;
+		participant API Implementation;
+	end;
+	box LightBlue Group Business Application
 		participant Provided Business API
 		participant Application Implementation
 		participant Required Business API
 		participant model as Functional or Object Business Rules
 	end
-	Box LightGrey Group Outgoing IO
+	box LightGrey Group Outgoing IO
 		participant Persistance
 		actor Real or In Memory Database
 	end
