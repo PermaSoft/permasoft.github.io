@@ -88,36 +88,22 @@ Mike Cohn
 
 ```mermaid
 sequenceDiagram
-	box Purple Alice & John
-		participant A
-		participant J
-	end
-	box Another Group participant B participant C end
-	A->>J: Hello John, how are you?
-	J->>A: Great!
-	A->>B: Hello Bob, how is Charly ?
-	B->>C: Hello Charly, how are you?
-```
-
-
-```mermaid
-sequenceDiagram
 	actor Broad Integration Test;
 	actor In memory Integration Test;
-	box LightGrey Group Incoming IO;
-		participant Rest Service;
-		participant API Implementation;
-	end;
-	box LightBlue Group Business Application
+%%	box LightGrey Group Incoming IO;
+	participant Rest Service;
+	participant API Implementation;
+%%	end;
+%%	box LightBlue Group Business Application
 		participant Provided Business API
 		participant Application Implementation
 		participant Required Business API
 		participant model as Functional or Object Business Rules
-	end
-	box LightGrey Group Outgoing IO
+%%	end
+%%	box LightGrey Group Outgoing IO
 		participant Persistance
 		actor Real or In Memory Database
-	end
+%%	end
 	Broad Integration Test->>+Rest Service: External API Call
 	In memory Integration Test->>+API Implementation: Internal API Call
 	Rest Service->>+API Implementation: is implemented by
@@ -129,7 +115,7 @@ sequenceDiagram
 	Persistance->>+Real or In Memory Database: Read Query
 	Real or In Memory Database->>-Persistance: 
 	Persistance->>-Required Business API: 
-	Required Business API->>-Application Implementation:
+	Required Business API->>-Application Implementation: 
 	Application Implementation->>+model: Tell don't Ask Call
 	model->>-Application Implementation: Command result
 	Application Implementation->>+Required Business API: Publish Command's Result
