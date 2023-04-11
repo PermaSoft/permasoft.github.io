@@ -61,9 +61,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7f8f25e1737ae1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Jardins/Architecture Modulaire d'application web de gestion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "12a6a46a59070356",
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
+                "file": "04 Jardins/Architecture Modulaire d'application web de gestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
+                "file": "04 Jardins/Architecture Modulaire d'application web de gestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md"
+                "file": "04 Jardins/Architecture Modulaire d'application web de gestion.md"
               }
             }
           }
@@ -212,10 +225,11 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "7f3841d887ed98b7",
+  "active": "7f8f25e1737ae1a4",
   "lastOpenFiles": [
-    "04 Jardins/Stratégies de tests 2.md",
     "04 Jardins/Stratégies de tests.md",
+    "04 Jardins/Architecture Modulaire d'application web de gestion.md",
+    "04 Jardins/Stratégies de tests 2.md",
     "04 Jardins/katas/faire mon propre kata.md",
     "04 Jardins/d2utmpZPf0U9",
     "04 Jardins/d2utmpFAIqm0",
