@@ -116,9 +116,9 @@ sequenceDiagram
 	API Implementation->>-In memory Integration Test: 
 	
 ```
-v```mermaid
+```mermaid
 sequenceDiagram
-    Box LightGrey Group Outgoing IO;
+	Box LightGrey Group Outgoing IO;
     participant Persistance;
     actor Real or In Memory Database;
     end;

@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1120032ef0a19f3c",
@@ -226,8 +225,9 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "81bb900a9845b2cc",
+  "active": "267ea05465f6d52a",
   "lastOpenFiles": [
+    "04 Jardins/d2utmpFAIqm0",
     "04 Jardins/Stratégies de tests.md",
     "04 Jardins/Refactoring.md",
     "04 Jardins/katas/faire mon propre kata.md",
