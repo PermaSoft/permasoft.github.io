@@ -90,7 +90,7 @@ Mike Cohn
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
 Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolution à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
 [CF choose the right abstractions for your tests]
-
+### niveaux de dé
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
 Le test exécute du code métier de son point d'appel jusqu'à un retour.
@@ -102,7 +102,7 @@ Ce retour aussi peut se faire à plusieurs endroits :
 [...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
-## Tests après, avant, moteurs
+## Tests après, tests avant, tests moteurs (mais pas pilotes!)
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
