@@ -97,9 +97,7 @@ sequenceDiagram
 	participant Required Business API
 	participant model as Functional or Object Business Rules
 	participant Persistance
-	actor Real or In Memory Database
-
-    Persistance->>+Real or In Memory Database: Read Query
+	actor Real or In Memory Database   Persistance->>+Real or In Memory Database: Read Query
     Real or In Memory Database->>-Persistance
     Persistance->>-Required Business API: 
     Required Business API->>-Application Implementation: 
