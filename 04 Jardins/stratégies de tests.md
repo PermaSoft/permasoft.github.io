@@ -44,7 +44,7 @@ Mais en ce qui nous concerne, cette stratégie peut impliquer une garantie en te
 Elle  se concentre souvent sur les propriétés émergeantes que le logiciel montre au fur et à mesure qu'on le construit.
 Ses propriétés étant souvent l'expérience utilisateur, la performance, la sécurité, etc.
 
-## Le retour sur investissement dans les tests
+## Le retour sur investissement dans les tests qualités
 Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
 Le risque qu'un critère soit absent va dimensionner les efforts de tests que vous pouvez faire pour vous en protéger.
 Le ratio entre le coût du risque et le coût de son test est le facteur de retour de retour sur investissement.
@@ -90,7 +90,8 @@ Mike Cohn
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
 Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolution à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
 [CF choose the right abstractions for your tests]
-### niveaux de dé
+
+### niveaux de détails adaptés au niveau d'abstraction
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
 Le test exécute du code métier de son point d'appel jusqu'à un retour.
@@ -113,4 +114,15 @@ Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) po
 	- Ce ajoute à la maintenabilité, et la productivité à long terme grâce à sa valeur documentaire et son couplage au code (tant que ca compile et que ca passe au vert, cette spécification exécutable par l'exemple est à jour).
 - Le test écris en suivant la discipline TDD fourni une exhaustivité des tests sur le fonctionnel existant(y compris quand on supprime des tests lors d'étapes intermédiaires).
 	- 
+## Le retour sur investissement dans les tests qualités
+~~Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
+Le risque qu'un critère soit absent va dimensionner les efforts de tests que vous pouvez faire pour vous en protéger.
+Le ratio entre le coût du risque et le coût de son test est le facteur de retour de retour sur investissement.~~
+
+## Pendant de temps là du coté du front
+Le front est un code vitrine, sa demie vie est bien plus courte qu'un back.
+De nos jours, les front sont plus évolués, long termes et complexe qu'un simple affichage de données.
+Le front contient de la logique, des algorithmes.
+
+Il est facile d'isoler des comportmeents coté front, pour les rendre tes
 
