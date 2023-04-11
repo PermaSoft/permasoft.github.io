@@ -57,7 +57,10 @@ Le coût de l'incident inclut la perte de fonctionnalité pour l'utilisateur, le
 En face, le coût du test doit être minimal comme en observant la production au lieu de faire des tirs de tests hors productions.
 Une définition du test est le fait d'exercer une pression sur un système et de vérifier la conformité du résultat.
 Hors, la production exerce une pression plutôt réelle sur le système et le résultat de l'observabilité peut être de lancer des alertes quand le résultat n'est pas conforme.
-Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de faire des tests avant la mise en production.
+Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de fabriquer des tests avant cette mise en production.
+Quitte a construire et maintenir des tests, vous pouvez essayer de faire en sorte que cet effort apporte plusieurs gains :
+- Concevoir un test, c'est l'occasion de mettre l'équipe en accord sur l'objectif à atteindre (cf BDD)
+- Maintenir un cahier de test, c'est l'ocasion 
 
 ## La variété de tests de critères qualité
 Les testeurs certifé ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
