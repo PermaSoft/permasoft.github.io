@@ -88,6 +88,20 @@ Mike Cohn
 
 ```mermaid
 sequenceDiagram
+	box Purple Alice & John
+		participant A
+		participant J
+	end
+	box Another Group participant B participant C end
+	A->>J: Hello John, how are you?
+	J->>A: Great!
+	A->>B: Hello Bob, how is Charly ?
+	B->>C: Hello Charly, how are you?
+```
+
+
+```mermaid
+sequenceDiagram
 	actor Broad Integration Test;
 	actor In memory Integration Test;
 	box LightGrey Group Incoming IO;
