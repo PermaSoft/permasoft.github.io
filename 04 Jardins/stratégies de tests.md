@@ -82,8 +82,9 @@ De mon point de vue, les tests doivent prouver l'existence de fonctionnalités a
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
-# Tests unitaires, d'intégrations ET fonctionnels 
-## niveaux d'abstractions dans le tests
+## Tests unitaires, d'intégrations ET fonctionnels 
+
+### niveaux d'abstractions dans le tests
 Mike Cohn
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
@@ -101,7 +102,7 @@ Ce retour aussi peut se faire à plusieurs endroits :
 [...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
 
-# Tests après, avant, moteurs
+## Tests après, avant, moteurs
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
