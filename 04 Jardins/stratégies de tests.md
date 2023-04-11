@@ -90,7 +90,9 @@ Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valide
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
 Le test exécute du code métier de son point d'appel jusqu'à un retour.
 Ce retour aussi peut se faire à plusieurs endroits :
- e dans une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique ou utiliser une base de données en mémoire ou encore couper l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
+- Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
+- Depuis une base de données en mémoire 
+- Depuis l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
 
 [...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
