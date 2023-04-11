@@ -60,7 +60,8 @@ Hors, la production exerce une pression plutôt réelle sur le système et le r�
 Il faut vraiment avoir besoin du résultat du test avant la mise en production pour avoir besoin de fabriquer des tests avant cette mise en production.
 Quitte a construire et maintenir des tests, vous pouvez essayer de faire en sorte que cet effort apporte plusieurs gains :
 - Concevoir un test, c'est l'occasion de mettre l'équipe en accord sur l'objectif à atteindre (cf BDD)
-- Maintenir un cahier de test, c'est l'ocasion 
+- Maintenir un cahier de test, c'est l'occasion d'avoir une documentation naturellement mise à jour des cas d'usages essentiels (critiques pour le fonctionnel, sensibles pour la sécurité ou les performance)
+- Des jeux de données pour des tests rejouables peut faciliter la création de démos ou permettre aux internes (PO, BA, Testeurs, Dev, Sec, Ops, ...) de vérifier des hypothèses à moindre coût.
 
 ## La variété de tests de critères qualité
 Les testeurs certifé ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
