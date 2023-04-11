@@ -123,6 +123,8 @@ Le ratio entre le coût du risque et le coût de son test est le facteur de reto
 Le front est un code vitrine, sa demie vie est bien plus courte qu'un back.
 De nos jours, les front sont plus évolués, long termes et complexe qu'un simple affichage de données.
 Le front contient de la logique, des algorithmes.
+Ces bouts de code peuvent avoir besoin des retours sur investissements apportés par les tests fonctionnels décris pour le back pour une durée longue mais plus courte que le back. 
+La longévité de certains front est, dans mes sentiments, suffisante pour que les tests documentant et protégeant des algorithmes soient rentables.
+Vous pouvez être certain que sans tests documentant, vous essaieraient de comprendre ces algorithmes front en vous disant, que ce sont des choix "historiques" en ayant oublié les motivations d'origine.
 
-Il est facile d'isoler des comportmeents coté front, pour les rendre tes
 
