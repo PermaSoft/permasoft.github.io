@@ -97,25 +97,26 @@ sequenceDiagram
 	participant Required Business API
 	participant model as Functional or Object Business Rules
 	participant Persistance
-	actor Real or In Memory Database   Persistance->>+Real or In Memory Database: Read Query
-    Real or In Memory Database->>-Persistance
-    Persistance->>-Required Business API: 
-    Required Business API->>-Application Implementation: 
-    Application Implementation->>+model: Tell don't Ask Call
-    model->>-Application Implementation: Command result
-    Application Implementation->>+Required Business API: Publish Command's Result
-    Required Business API->>+Persistance: is implemented by
-    Persistance->>+Real or In Memory Database: Write Query
-    Real or In Memory Database->>-Persistance:
-    Persistance->>-Required Business API:
-    Required Business API->>-Application Implementation:
-    Application Implementation->>-Provided Business API:
-    Provided Business API->>-API Implementation:
-    API Implementation->>-Rest Service:
-    API Implementation->>-In memory Integration Test: 
-
+	actor Real or In Memory Database
+	Persistance->>+Real or In Memory Database: Read Query
+	Real or In Memory Database->>-Persistance: 
+	Persistance->>-Required Business API: 
+	Required Business API->>-Application Implementation: 
+	Application Implementation->>+model: Tell don't Ask Call
+	model->>-Application Implementation: Command result
+	Application Implementation->>+Required Business API: Publish Command's Result
+	Required Business API->>+Persistance: is implemented by
+	Persistance->>+Real or In Memory Database: Write Query
+	Real or In Memory Database->>-Persistance: 
+	Persistance->>-Required Business API: 
+	Required Business API->>-Application Implementation: 
+	Application Implementation->>-Provided Business API: 
+	Provided Business API->>-API Implementation: 
+	API Implementation->>-Rest Service: 
+	API Implementation->>-In memory Integration Test: 
+	
 ```
-```mermaid
+v```mermaid
 sequenceDiagram
     Box LightGrey Group Outgoing IO;
     participant Persistance;
