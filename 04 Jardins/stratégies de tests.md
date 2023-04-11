@@ -63,8 +63,9 @@ Quitte a construire et maintenir des tests, vous pouvez essayer de faire en sort
 - Maintenir un cahier de test, c'est l'occasion d'avoir une documentation naturellement mise à jour des cas d'usages essentiels (critiques pour le fonctionnel, sensibles pour la sécurité ou les performance)
 - Des jeux de données pour des tests rejouables peut faciliter la création de démos ou permettre aux internes (PO, BA, Testeurs, Dev, Sec, Ops, ...) de vérifier des hypothèses à moindre coût.
 
+
 ## La variété de tests de critères qualité
-Les testeurs certifé ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
+Les testeurs certifiés ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
 Pour notre culture, j'utilise les critère de qualité produit de la norme ISO25010 pour faire ma liste de course en terme de critères de qualité externes.
 Le critère de maintenabilité étant un problème de développeurs, je l'adresse dans la partie sur la la stratégie de tests fonctionnels.
 
@@ -83,11 +84,13 @@ Ils doivent décrire et documenter une transformation de données, un transforma
 
 # Tests unitaires, d'intégrations ET fonctionnels 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
-Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolutions à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
+Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolution à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
 
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
-On faire ce tests jusque dans une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique ou utiliser une base de données en mémoire ou encore couper l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
+Le test exécute du code métier de son point d'appel jusqu'à un retour.
+Ce retour aussi peut se faire à plusieurs endroits :
+ e dans une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique ou utiliser une base de données en mémoire ou encore couper l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
 
 [...]
 Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
