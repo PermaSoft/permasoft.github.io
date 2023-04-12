@@ -118,6 +118,7 @@ On vérifie le résultat de chaque étape.
 Les tests fonctionnels de développeurs ne testent qu'une seule étape.
 Ils n'appellent que cette étape dans le code de production et ne préparent des données de test que pour cette étape.
 Un fichier de tests sur une étape va donc regrouper tous les cas de tests pour cette étape, cette fonctionnalité.
+Les tests de développeurs qui appellent des services REST, ou des cas d'usages métier ou encore des règles de gestions ET qui no
 
 ### niveaux d'abstractions dans le tests
 Mike Cohn
