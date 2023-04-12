@@ -128,7 +128,7 @@ Les tests de développeurs peuvent appeler le code de production depuis plusieur
 - Depuis les service métier qui implémentent une unité de cas d'usage
 - Depuis le modèle métier (fonctionnel ou objet) implémente une unité de règle de gestion
 
-Ces hauteurs ont été décrites par Mike Cohn dans une pyramide dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
+Ces hauteurs ont été décrites par [Mike Cohn dans une pyramide]() dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
 Son étage supérieur correspond aux tests de workflows et autres tests de testeurs, les deux autres étages sont des tests de développeurs.
 On se sert souvent de la forme en pyramide pour expliquer les différences entres niveau de tests :
 - Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs
@@ -138,8 +138,7 @@ On se sert souvent de la forme en pyramide pour expliquer les différences entre
 - Les TUs sont moins sensibles aux évolutions de fonctionnalités connexes car ces autres fonctions ne sont pas exécutées par les TUs.
 - Les TUs peuvent tester les cas aux bornes de chaque fonctionnalité sans devenir fragile, ce n'est pas le cas des tests de workflow
 - - les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
-- 
-Mike Cohn
+
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
 Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolution à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
