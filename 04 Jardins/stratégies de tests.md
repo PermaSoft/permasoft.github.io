@@ -74,7 +74,7 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 
 # La stratégie de tests fonctionnels
 
-Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
+Comme le [https://en.wikiquote.org/wiki/Edsger_W._Dijkstra](disait Djikstra), les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
