@@ -155,9 +155,10 @@ Si on fait des tests en dessous des méthodes métiers, on peut figer des détai
 Plus on teste de haut, plus on coupe tard, plus on fige le cas d'usage loin des détails d'implémentations et plus on se permet de pouvoir remettre en cause les algorithmes et plus on a de surface refactorable. 
 Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc. Bref, la même liste que [[Stratégies de tests#^982865|celle des TUs dans la pyramide de tests]]
 
-### Choisir le niveau d'abstraction de son test
-En conclusion de cette partie les tests fonctionnels automatisé par les développeurs, nous voyons qu'il y a quelques choix à faire sur le point d'entrée du test dans le code de production et sur son point de sortie.
-
+### Le bon test fonctionnel
+En conclusion de cette partie les tests fonctionnels automatisés par les développeurs, nous voyons qu'il y a quelques choix à faire sur le point d'entrée du test dans le code de production et sur son point de sortie.
+Les tests ont pour rôle premier de documenter le métier (workflow, cas d'usages et règles de gestion) avec des exemples concrets.
+L'implémentation du est un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes de l'implémentation 
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
