@@ -151,7 +151,9 @@ Nous venons de voir que l'on peut choisir la hauteur où nos tests appellent le 
 Nous pouvons de la même façon choisir où on s'arrête, en général.
 Le contre exemple est sur le test d'une règle métier dans un modèle métier (fonctionnel ou objet) qui ne fait pas d'IO, ses méthodes métier retournent un nouvel état, sans effets de bord, sans dépendance à couper.
 Pour les autres tests de cas d'usages ou au-dessus, il y a un enchainement de dépendance qui peut aller jusqu'à un système externe soit déploé, soit mis en mémoire (H2Db, Fongo, etc.).
-Si on fait des tests en-dessous d
+Si on fait des tests en dessous des méthodes métiers, on peut figer des détails d'implémentation et empêcher de futurs refactorings.
+Plus on teste de haut, plus on coupe tard, plus on fige le cas d'usage loin des détails d'implémentations et plus on se permet de pouvoir remettre en cause les algorithmes et plus on a de surface refactorable. 
+Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc.
 
 Ce retour aussi peut se faire à plusieurs endroits :
 - Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
