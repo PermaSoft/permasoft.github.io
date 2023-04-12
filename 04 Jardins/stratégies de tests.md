@@ -85,7 +85,7 @@ Un test met en lumière un comportement attendu.
 Il prouve l'existence d'une fonctionnalité (ou d'un détail d'une fonctionnalité).
 En conclusion, il documente des spécifications par des exemples concrets.
 Lorsque les interfaces décrivent ce que fait une fonctionnalité (le quoi : transformer une entrée en sortie), les implémentations décrivent l'algorithme (le comment).
-Les tests
+Les tests qui appellent ce code vont alors documenter comment on se sert de cette fonctionnalité et le nom du test peut alors définir l'objectif à atteindre (le pourquoi).
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aident fortement la maintenance.
 
 
