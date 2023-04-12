@@ -153,15 +153,11 @@ Le contre exemple est sur le test d'une règle métier dans un modèle métier (
 Pour les autres tests de cas d'usages ou au-dessus, il y a un enchainement de dépendance qui peut aller jusqu'à un système externe soit déploé, soit mis en mémoire (H2Db, Fongo, etc.).
 Si on fait des tests en dessous des méthodes métiers, on peut figer des détails d'implémentation et empêcher de futurs refactorings.
 Plus on teste de haut, plus on coupe tard, plus on fige le cas d'usage loin des détails d'implémentations et plus on se permet de pouvoir remettre en cause les algorithmes et plus on a de surface refactorable. 
-Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc. Bref, la même liste que celle des TUs dans la pyramide de tests[[Stratégies de tests#^982865]]
+Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc. Bref, la même liste que [[Stratégies de tests#^982865|celle des TUs dans la pyramide de tests]]
 
-Ce retour aussi peut se faire à plusieurs endroits :
-- Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
-- Depuis une base de données en mémoire 
-- Depuis l'appel à la couche d'accès aux données à la sortie du code métier (l'adaptateur d'une architecture hexagonale).
+### Choisir le niveau d'abstraction de son test
 
-[...]
-Enfin, ce sont des règles de gestions lorsque l'on teste les méthodes métiers des objets du modèle métier ou du domaine ou plus souvent les méthodes procédurale des services métiers seules.
+
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
