@@ -100,7 +100,9 @@ Combien ? | Monitoring, logs
 Pourquoi ? | Les noms des tests
 
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aideront fortement la maintenance.
-Ils sont d'autant plus utiles qu'ils décrivent une transformation de données d'un point de vue métier/produit, une fonctionnalité 
+Ils sont d'autant plus utiles qu'ils décrivent une transformation de données d'un point de vue métier/produit, une fonctionnalité et pas un détail technique.
+Les tests fonctionnels documentent qu'une liste revient triée, mais ne testent pas que c'est un algorithme particulier qui est utilisé (Quick Sort, Bubble Sort, Merge Sort, ...).
+Ces tests qui caractérisent un algorithme peuvent être utile pour
 
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
