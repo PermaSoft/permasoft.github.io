@@ -137,11 +137,9 @@ On se sert souvent de la forme en pyramide pour expliquer les différences entre
 - Les TUs stimulent moins de code de production donc on peut aller dans plus de détails fonctionnels
 - Les TUs sont moins sensibles aux évolutions de fonctionnalités connexes car ces autres fonctions ne sont pas exécutées par les TUs.
 - Les TUs peuvent tester les cas aux bornes de chaque fonctionnalité sans devenir fragile, ce n'est pas le cas des tests de workflow
-- - les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
+- Les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
 
 
-Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
-Les tests de workflow sont lents, demandent beaucoup de données pour exécuter le workflow complet, donc elles sont sensibles à chaque évolution à moins de se limiter à des cas nominaux loin des valeurs aux bornes et de savoir nettoyer les systèmes persistants.
 [CF choose the right abstractions for your tests]
 
 ### niveaux de détails adaptés au niveau d'abstraction
