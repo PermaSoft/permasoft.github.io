@@ -156,7 +156,7 @@ Plus on teste de haut, plus on coupe tard, plus on fige le cas d'usage loin des 
 Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc. Bref, la même liste que [[Stratégies de tests#^982865|celle des TUs dans la pyramide de tests]]
 
 ### Choisir le niveau d'abstraction de son test
-
+En conclusion de cette partie les tests fonctionnels automatisé par les développeurs, nous voyons qu'il y a quelques choix à faire sur le point d'entrée du test dans le code de production et sur son point de sortie.
 
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
