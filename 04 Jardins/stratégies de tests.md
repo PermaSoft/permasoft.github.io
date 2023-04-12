@@ -84,7 +84,11 @@ Un test exerce une pression sur un système et on vérifie sa réponse vis à vi
 Un test met en lumière un comportement attendu.
 Il prouve l'existence d'une fonctionnalité (ou d'un détail d'une fonctionnalité).
 En conclusion, il documente des spécifications par des exemples concrets.
-En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris 
+Lorsque les interfaces décrivent ce que fait une fonctionnalité (le quoi : transformer une entrée en sortie), les implémentations décrivent l'algorithme (le comment).
+Les tests
+En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aident fortement la maintenance.
+
+
 La qualité logicielle se mesure en :
 - Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
 - Nombre de WTF par minutes lors d'une revue de code, 
