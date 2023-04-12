@@ -102,7 +102,8 @@ Pourquoi ? | Les noms des tests
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aideront fortement la maintenance.
 
 ## Le retour sur investissement dans les tests fonctionnels
-
+Le gain des tests : une doc par l'exemple
+Le coût : selon la hauteur de tests, l'espace refactorable.
 
 La qualité logicielle se mesure en :
 - Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
