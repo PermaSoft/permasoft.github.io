@@ -139,16 +139,15 @@ On se sert souvent de [la forme en pyramide pour expliquer les différences entr
 - Les TUs peuvent tester les cas aux bornes de chaque fonctionnalité sans devenir fragile, ce n'est pas le cas des tests de workflow
 - Les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
 
-[CF choose the right abstractions for your tests]
 ### niveaux de détails adaptés au niveau d'abstraction
 
 Plus on descend dans la pyramide de tests plus on s'éloigne de l'utilisateur et de son contexte pour se rapprocher d'une règle de gestion.
 [Gerard Meszaros décrit que l'on doit choisir un niveau de détail fonctionnel adapté](https://www.infoq.com/presentations/tests-vocabulary/) à la hauteur du tests.
+Un test unitaire peut vérifier la combinatoire d'une fonctionnalité, ses cas aux bornes, ses détails.
+A l'opposé, un test de workflow traverse beaucoup de fonctionnalité et doit passé au milieu des cas nominaux pour être le plus stable possible malgré les évolutions du produit.
 
+### surface de refactoring
 
-Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
-On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
-Le test exécute du code métier de son point d'appel jusqu'à un retour.
 Ce retour aussi peut se faire à plusieurs endroits :
 - Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
 - Depuis une base de données en mémoire 
