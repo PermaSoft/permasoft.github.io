@@ -74,9 +74,6 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 
 # La stratégie de tests fonctionnels
 
-Beaucoup d'équipes parlent de stratégie de tests pour décrire les attentes en tests automatisés implémentés par les développeurs comme si cette activité de tests automatisés était séparables de l'activité de développement.
-Et pourtant, ces activités font partie de la "Definition of Done (DoD)"" et doivent faire partie des estimations pour réaliser une tâche.
-
 Comme le disait Djikstra, les tests prouvent la présence d'un bug, pas son absence.
 De mon point de vue, les tests doivent prouver l'existence de fonctionnalités attendues et non l'absence de bugs.
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
