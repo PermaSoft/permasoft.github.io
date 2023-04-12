@@ -99,8 +99,9 @@ Comment ? | L'implémentation du code de production
 Combien ? | Monitoring, logs
 Pourquoi ? | Les noms des tests
 
+En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aideront fortement la maintenance.
 
-En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aident fortement la maintenance.
+## Le retour sur investissement dans les tests fonctionnels
 
 
 La qualité logicielle se mesure en :
@@ -145,10 +146,6 @@ Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) po
 	- Ce ajoute à la maintenabilité, et la productivité à long terme grâce à sa valeur documentaire et son couplage au code (tant que ca compile et que ca passe au vert, cette spécification exécutable par l'exemple est à jour).
 - Le test écris en suivant la discipline TDD fourni une exhaustivité des tests sur le fonctionnel existant(y compris quand on supprime des tests lors d'étapes intermédiaires).
 	- 
-## Le retour sur investissement dans les tests qualités
-~~Cette stratégie de tests se dimensionne et se finance par la gestion de risque.
-Le risque qu'un critère soit absent va dimensionner les efforts de tests que vous pouvez faire pour vous en protéger.
-Le ratio entre le coût du risque et le coût de son test est le facteur de retour de retour sur investissement.~~
 
 ## Pendant de temps là du coté du front
 Le front est un code vitrine, sa demie vie est bien plus courte qu'un back.
