@@ -147,7 +147,7 @@ Un test unitaire peut vérifier la combinatoire d'une fonctionnalité, ses cas a
 A l'opposé, un test de workflow traverse beaucoup de fonctionnalité et doit passé au milieu des cas nominaux pour être le plus stable possible malgré les évolutions du produit.
 
 ### surface de refactoring
-
+Nous venons de voir que l'on peut choisir la hauteur où nos tests appellent le code de production.
 Ce retour aussi peut se faire à plusieurs endroits :
 - Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
 - Depuis une base de données en mémoire 
