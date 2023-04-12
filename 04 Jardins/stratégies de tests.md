@@ -142,7 +142,9 @@ On se sert souvent de [la forme en pyramide pour expliquer les différences entr
 [CF choose the right abstractions for your tests]
 ### niveaux de détails adaptés au niveau d'abstraction
 
-Plus on descend dans la pyramide plus on s'éloigne de l'utilisateur et de son contexte pour se rapprocher d'une règle de gestion.
+Plus on descend dans la pyramide de tests plus on s'éloigne de l'utilisateur et de son contexte pour se rapprocher d'une règle de gestion.
+[Gerard Meszaros décrit que l'on doit choisir un niveau de détail fonctionnel adapté](https://www.infoq.com/presentations/tests-vocabulary/) à la hauteur du tests.
+
 
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
