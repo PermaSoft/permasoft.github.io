@@ -131,7 +131,7 @@ Les tests de développeurs peuvent appeler le code de production depuis plusieur
 Ces hauteurs ont été décrites par [Mike Cohn dans une pyramide](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid) dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
 Son étage supérieur correspond aux tests de workflows et autres tests de testeurs, les deux autres étages sont des tests de développeurs.
 On se sert souvent de [la forme en pyramide pour expliquer les différences entres niveau de tests](https://martinfowler.com/articles/practical-test-pyramid.html) :
-- Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs
+- Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs ^982865
 - Les TUS sont plus rapides (4 ms moyen, donc 1'000 prennent 4 secondes)
 - Les TUs demandent moins de préparation de données
 - Les TUs stimulent moins de code de production donc on peut aller dans plus de détails fonctionnels
@@ -153,7 +153,7 @@ Le contre exemple est sur le test d'une règle métier dans un modèle métier (
 Pour les autres tests de cas d'usages ou au-dessus, il y a un enchainement de dépendance qui peut aller jusqu'à un système externe soit déploé, soit mis en mémoire (H2Db, Fongo, etc.).
 Si on fait des tests en dessous des méthodes métiers, on peut figer des détails d'implémentation et empêcher de futurs refactorings.
 Plus on teste de haut, plus on coupe tard, plus on fige le cas d'usage loin des détails d'implémentations et plus on se permet de pouvoir remettre en cause les algorithmes et plus on a de surface refactorable. 
-Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc.
+Plus on a de surface refactorable, plus on exécute du code de production, plus on dépend de fonctionnalités connexe, plus on a de données de tests à préparer, plus le temps d'éxécution est long, etc. Bref, la même liste que celle des TUs dans la pyramide de tests[[Stratégies de tests#^982865]]
 
 Ce retour aussi peut se faire à plusieurs endroits :
 - Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
