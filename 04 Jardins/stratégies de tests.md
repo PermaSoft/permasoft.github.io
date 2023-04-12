@@ -148,6 +148,11 @@ A l'opposé, un test de workflow traverse beaucoup de fonctionnalité et doit pa
 
 ### surface de refactoring
 Nous venons de voir que l'on peut choisir la hauteur où nos tests appellent le code de production.
+Nous pouvons de la même façon choisir où on s'arrête, en général.
+Le contre exemple est sur le test d'une règle métier dans un modèle métier (fonctionnel ou objet) qui ne fait pas d'IO, ses méthodes métier retournent un nouvel état, sans effets de bord, sans dépendance à couper.
+Pour les autres tests de cas d'usages ou au-dessus, il y a un enchainement de dépendance qui peut aller jusqu'à un système externe soit déploé, soit mis en mémoire (H2Db, Fongo, etc.).
+Si on fait des tests en-dessous d
+
 Ce retour aussi peut se faire à plusieurs endroits :
 - Depuis une base de données de tests avec les problèmes de persistance et de nettoyage que cela implique 
 - Depuis une base de données en mémoire 
