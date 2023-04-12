@@ -74,9 +74,14 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 
 # La stratégie de tests fonctionnels
 
+## Les tests ne prouvent pas l'absence de bugs
 Comme le [disait Djikstra](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra), tester un programme montre la présence de bugs, pas leur absence.
 Il semble y avoir une opinion partagée sur [l'impossibilité de garantir l'absence de bugs](http://wiki.c2.com/?TestsCantProveTheAbsenceOfBugs) ou d'erreurs dans un logiciel complexe.
-La démarche proposée étant de garder une solution logicielle aussi simple que possible, se limiter a des solutions qui tiennent dans la tête (j'entends faire du modulaire), ne rendre que les états valides modélisables et faire des tests pour réduire le risque
+La démarche proposée étant de garder une solution logicielle aussi simple que possible, se limiter a des solutions qui tiennent dans la tête (j'y entends faire du modulaire), ne rendre que les états valides modélisables et faire des tests pour réduire le risque d'erreurs sans pouvoir garantir leur absence...
+D'abord, c'est pas fou comme promesse, ensuite, si on ne teste pas pour garantir l'absence de bugs, mais pourquoi on teste ???
+
+
+
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
