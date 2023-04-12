@@ -122,7 +122,9 @@ Les tests de développeurs qui appellent des services REST, ou des cas d'usages 
 
 ### niveaux d'abstractions et surface de refactoring
 
-Les tests de développeurs appellent le code de production qui appelle ses dépendance et ai
+Les tests de développeurs peux appeler le code de production depuis plusieurs endroits
+- Depuis l'extérieur avec une requête HTTP, un message entrant, etc.
+- Depuis l'entrée du s
 Mike Cohn
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
