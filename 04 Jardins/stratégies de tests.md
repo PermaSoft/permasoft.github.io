@@ -107,7 +107,13 @@ Si on ne les garde pas pour leur valeur documentaire, on peut en garder certains
 Sauf qu'ils figent un détail d'implémentation et qu'il faudra du courage et/ou de la confiance pour supprimer ces tests plus tard.
 
 ## Tests unitaires, d'intégrations ET fonctionnels 
-LEs tests unitaires sont ou peuvent être des tests fonctionnels
+Les tests unitaires sont ou peuvent être des tests fonctionnels.
+Les tests d'intégrations sont ou peuvent être des tests fonctionnels.
+Je prends les termes "tests fonctionnels" comme des tests de fonctionnalités métiers/produit.
+Les tests de fonctionnels de testeurs sont des parcours utilisateurs qui passent par plusieurs fonctionnalités pour chaque scénario.
+Ce sont des tests qui stimulent le logiciel déployé de puis l'extérieur, souvent avec des systèmes de persistance déployés aussi.
+Pour rationnaliser ces tests
+
 ### niveaux d'abstractions dans le tests
 Mike Cohn
 
