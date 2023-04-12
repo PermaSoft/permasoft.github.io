@@ -100,17 +100,7 @@ Combien ? | Monitoring, logs
 Pourquoi ? | Les noms des tests
 
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aideront fortement la maintenance.
-
-## Le retour sur investissement dans les tests fonctionnels
-Le gain des tests : une doc par l'exemple
-Le coût : selon la hauteur de tests, l'espace refactorable.
-
-La qualité logicielle se mesure en :
-- Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
-- Nombre de WTF par minutes lors d'une revue de code, 
-- Simplicité de la structure.
-
-
+Ils sont d'autant plus utiles qu'ils décrivent une transformation de données d'un point de vue métier/produit, une fonctionnalité 
 
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
@@ -155,5 +145,16 @@ Le front contient de la logique, des algorithmes.
 Ces bouts de code peuvent avoir besoin des retours sur investissements apportés par les tests fonctionnels décris pour le back pour une durée longue mais plus courte que le back. 
 La longévité de certains front est, dans mes sentiments, suffisante pour que les tests documentant et protégeant des algorithmes soient rentables.
 Vous pouvez être certain que sans tests documentant, vous essaieraient de comprendre ces algorithmes front en vous disant, que ce sont des choix "historiques" en ayant oublié les motivations d'origine.
+
+## Le retour sur investissement dans les tests fonctionnels
+Le gain des tests : une doc par l'exemple
+Le coût du tests : selon la hauteur de tests, l'espace refactorable.
+Les risques couvert : maintenance (instabilité, incompréhensions/régressions, ajout/remplacement)
+Le coût du risque de non maintenance : baisse de productivité (de + en + de retravail), de réputation, de pertinence, de suivi des évolutions du marché.
+
+La qualité logicielle se mesure en :
+- Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
+- Nombre de WTF par minutes lors d'une revue de code, 
+- Simplicité de la structure.
 
 
