@@ -112,7 +112,12 @@ Les tests d'intégrations sont ou peuvent être des tests fonctionnels.
 Je prends les termes "tests fonctionnels" comme des tests de fonctionnalités métiers/produit.
 Les tests de fonctionnels de testeurs sont des parcours utilisateurs qui passent par plusieurs fonctionnalités pour chaque scénario.
 Ce sont des tests qui stimulent le logiciel déployé de puis l'extérieur, souvent avec des systèmes de persistance déployés aussi.
-Pour rationnaliser ces tests
+Pour rationnaliser ces tests (réduire le temps d'exécution, le cout de maintenance), les testeurs vont vérifier un maximum de fonctionnalités en un un seul passage.
+Ces scénarios de tests sont des séries d'étapes qui décrivent un workflow complet.
+On vérifie le résultat de chaque étape.
+Les tests fonctionnels de développeurs ne testent qu'une seule étape.
+Ils n'appellent que cette étape dans le code de production et ne préparent des données de test que pour cette étape.
+Un fichier de tests sur une étape va donc regrouper tous les cas de tests pour cette étapes, cette fonctionnalité.
 
 ### niveaux d'abstractions dans le tests
 Mike Cohn
