@@ -80,6 +80,11 @@ Il semble y avoir une opinion partagée sur [l'impossibilité de garantir l'abse
 La démarche proposée étant de garder une solution logicielle aussi simple que possible, se limiter a des solutions qui tiennent dans la tête (j'y entends faire du modulaire), ne rendre que les états valides modélisables et faire des tests pour réduire le risque d'erreurs sans pouvoir garantir leur absence...
 D'abord, c'est pas fou comme promesse, ensuite, si on ne teste pas pour garantir l'absence de bugs, mais pourquoi on teste ???
 
+Un test exerce une pression sur un système et on vérifie sa réponse vis à vis d'un attendu.
+Un test let en lumière un comportement attendu.
+Il prouve l'existence d'une fonctionnalité (ou d'un détail d'une fonctionnalité).
+Il documente des spécifications par des exemples concrets.
+
 
 
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
