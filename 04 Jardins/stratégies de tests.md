@@ -85,7 +85,7 @@ Un test let en lumière un comportement attendu.
 Il prouve l'existence d'une fonctionnalité (ou d'un détail d'une fonctionnalité).
 Il documente des spécifications par des exemples concrets.
 La qualité logicielle se mesure en :
-- Nombre de fois o
+- Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
 - Nombre de WTF par minutes lors d'une revue de code, 
 - Simplicité de la structure.
 
