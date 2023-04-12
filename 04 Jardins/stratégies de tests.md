@@ -87,7 +87,18 @@ En conclusion, il documente des spécifications par des exemples concrets.
 
 Lorsque les interfaces décrivent ce que fait une fonctionnalité (le quoi : transformer une entrée en sortie), les implémentations en décrivent l'algorithme (le comment).
 Les tests qui appellent ce code vont alors décrire comment on se sert de cette fonctionnalité (le pour qui) et le nom du test peut alors définir l'objectif à atteindre (le pourquoi).
-Cela me fait penser à une méthode de résolution  deproblème QQQOCP
+Cela me fait penser à une méthode de résolution de problème [QQQOCP](https://fr.wikipedia.org/wiki/QQOQCCP#Pr%C3%A9sentation_sous_forme_de_liste) où le besoin métier serait le problème à résoudre :
+
+question | emplacement de la réponse
+-- | --
+Qui ?
+Quoi ?
+Où ?
+Quand ?
+Comment ?
+combien ?
+Pourquoi ?
+
 
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aident fortement la maintenance.
 
