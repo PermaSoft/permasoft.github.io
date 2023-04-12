@@ -128,7 +128,8 @@ Les tests de développeurs peuvent appeler le code de production depuis plusieur
 - Depuis les service métier qui implémentent une unité de cas d'usage
 - Depuis le modèle métier (fonctionnel ou objet) implémente une unité de règle de gestion
 
-Ces hauteurs ont été décrite par Mike Cohn dans une pyramide dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services REST
+Ces hauteurs ont été décrites par Mike Cohn dans une pyramide dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
+Son étage supérieur correspond aux tests de workflows et autres tests de testeurs, les deux autres étages sont des tests de développeurs.
 Mike Cohn
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
