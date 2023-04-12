@@ -91,13 +91,13 @@ Cela me fait penser à une méthode de résolution de problème [QQQOCP](https:/
 
 question | emplacement de la réponse
 -- | --
-Qui ?
-Quoi ?
-Où ?
-Quand ?
-Comment ?
-combien ?
-Pourquoi ?
+Qui ? | L'implémentation des tests
+Quoi ? | L'interface
+Où ? | L'emplacement de l'interface (package, espace de nommage)
+Quand ? | Historique et commentaires git
+Comment ? | L'implémentation du code de production
+Combien ? | Monitoring, logs
+Pourquoi ? | Les noms des tests
 
 
 En ajoutant la légende disant que le code est lu 100 fois plus qu'il n'est écris, on comprend que des tests optimisés pour être relus aident fortement la maintenance.
