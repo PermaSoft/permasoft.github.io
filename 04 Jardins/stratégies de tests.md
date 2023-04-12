@@ -75,7 +75,7 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 # La stratégie de tests fonctionnels
 
 Comme le [disait Djikstra](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra), tester un programme montre la présence de bugs, pas leur absence.
-
+Il semble y avoir une opinion partagée sur l'impossibilité de garantir l'absence de bugs ou d'erreurs dans un logiciel complexe.
 Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
 Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
 
