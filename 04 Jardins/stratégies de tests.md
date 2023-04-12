@@ -118,9 +118,11 @@ On vérifie le résultat de chaque étape.
 Les tests fonctionnels de développeurs ne testent qu'une seule étape.
 Ils n'appellent que cette étape dans le code de production et ne préparent des données de test que pour cette étape.
 Un fichier de tests sur une étape va donc regrouper tous les cas de tests pour cette étape, cette fonctionnalité.
-Les tests de développeurs qui appellent des services REST, ou des cas d'usages métier ou encore des règles de gestions ET qui no
+Les tests de développeurs qui appellent des services REST, ou des cas d'usages métier ou encore des règles de gestions ET qui nomment leur tests de manière à documenter le fonctionnel qu'ils sollicitent sont des tests fonctionnels, même si ils ne correspondent pas aux tests fonctionnels de testeurs.
 
-### niveaux d'abstractions dans le tests
+### niveaux d'abstractions et surface de refactoring
+
+Les tests de développeurs appellent le code de production qui appelle ses dépendance et ai
 Mike Cohn
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
