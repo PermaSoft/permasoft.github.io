@@ -120,7 +120,7 @@ Ils n'appellent que cette étape dans le code de production et ne préparent des
 Un fichier de tests sur une étape va donc regrouper tous les cas de tests pour cette étape, cette fonctionnalité.
 Les tests de développeurs qui appellent des services REST, ou des cas d'usages métier ou encore des règles de gestions ET qui nomment leur tests de manière à documenter le fonctionnel qu'ils sollicitent sont des tests fonctionnels, même si ils ne correspondent pas aux tests fonctionnels de testeurs.
 
-### niveaux d'abstractions et surface de refactoring
+### niveaux d'abstractions
 
 Les tests de développeurs peuvent appeler le code de production depuis plusieurs endroits :
 - Depuis l'extérieur avec une requête HTTP, un message entrant, etc.
@@ -128,9 +128,9 @@ Les tests de développeurs peuvent appeler le code de production depuis plusieur
 - Depuis les service métier qui implémentent une unité de cas d'usage
 - Depuis le modèle métier (fonctionnel ou objet) implémente une unité de règle de gestion
 
-Ces hauteurs ont été décrites par [Mike Cohn dans une pyramide]() dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
+Ces hauteurs ont été décrites par [Mike Cohn dans une pyramide](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid) dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
 Son étage supérieur correspond aux tests de workflows et autres tests de testeurs, les deux autres étages sont des tests de développeurs.
-On se sert souvent de la forme en pyramide pour expliquer les différences entres niveau de tests :
+On se sert souvent de [la forme en pyramide pour expliquer les différences entres niveau de tests](https://martinfowler.com/articles/practical-test-pyramid.html) :
 - Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs
 - Les TUS sont plus rapides (4 ms moyen, donc 1'000 prennent 4 secondes)
 - Les TUs demandent moins de préparation de données
@@ -139,10 +139,11 @@ On se sert souvent de la forme en pyramide pour expliquer les différences entre
 - Les TUs peuvent tester les cas aux bornes de chaque fonctionnalité sans devenir fragile, ce n'est pas le cas des tests de workflow
 - Les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
 
-
 [CF choose the right abstractions for your tests]
-
 ### niveaux de détails adaptés au niveau d'abstraction
+
+Plus on descend dans la pyramide plus on s'éloigne de l'utilisateur et de son contexte pour se rapprocher d'une règle de gestion.
+
 Ces tests d'APIs vérifient une étape dans un workflow utilisateurs, ils valident un cas d'usage.
 On peut démarrer le test par un appel HTTP, ou appeler directement l'implémentation de l'API ou en encore appeler le service métier directement (le port d'une architecture hexagonale).
 Le test exécute du code métier de son point d'appel jusqu'à un retour.
