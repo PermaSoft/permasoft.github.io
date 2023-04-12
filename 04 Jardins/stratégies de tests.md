@@ -81,9 +81,9 @@ La démarche proposée étant de garder une solution logicielle aussi simple que
 D'abord, c'est pas fou comme promesse, ensuite, si on ne teste pas pour garantir l'absence de bugs, mais pourquoi on teste ???
 
 Un test exerce une pression sur un système et on vérifie sa réponse vis à vis d'un attendu.
-Un test let en lumière un comportement attendu.
+Un test met en lumière un comportement attendu.
 Il prouve l'existence d'une fonctionnalité (ou d'un détail d'une fonctionnalité).
-Il documente des spécifications par des exemples concrets.
+En conclusion, il documente des spécifications par des exemples concrets.
 
 La qualité logicielle se mesure en :
 - Nombre de fois où on se demande pourquoi ces quelques lignes de code existent
