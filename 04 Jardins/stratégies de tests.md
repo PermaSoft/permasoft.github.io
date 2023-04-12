@@ -131,7 +131,14 @@ Les tests de développeurs peuvent appeler le code de production depuis plusieur
 Ces hauteurs ont été décrites par Mike Cohn dans une pyramide dont l'idée était d'identifier qu'il n'y avait pas que les tests de workflow et les tests unitaires, il existe aussi des tests de services pour tester une étape seule d'un workflow.
 Son étage supérieur correspond aux tests de workflows et autres tests de testeurs, les deux autres étages sont des tests de développeurs.
 On se sert souvent de la forme en pyramide pour expliquer les différences entres niveau de tests :
-- Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs, que les test
+- Il y a beaucoup plus de tests unitaires que de tests de niveaux supérieurs
+- Les TUS sont plus rapides (4 ms moyen, donc 1'000 prennent 4 secondes)
+- Les TUs demandent moins de préparation de données
+- Les TUs stimulent moins de code de production donc on peut aller dans plus de détails fonctionnels
+- Les TUs sont moins sensibles aux évolutions de fonctionnalités connexes car ces autres fonctions ne sont pas exécutées par les TUs.
+- Les TUs peuvent tester les cas aux bornes de chaque fonctionnalité sans devenir fragile, ce n'est pas le cas des tests de workflow
+- - les TUs sont moins chers a produire, plus stables dans le temps, ne cassent que lorsque la fonctionnalité ciblée doit évoluer, etc.
+- 
 Mike Cohn
 
 Si vous visualisez la pyramide de Mike Cohn, elle décrit des tests de workflow en pointe, des tests de règles de gestions en bas et qu'il y a une catégorie de tests utiles au milieu  qui sont des tests de services, d'APIs.
