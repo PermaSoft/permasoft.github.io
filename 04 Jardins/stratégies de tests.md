@@ -74,7 +74,7 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 
 # La stratégie de tests fonctionnels
 
-## Les tests ne prouvent pas l'absence de bugs
+## Les tests ne prouvent pas l'absence de bugs, mais la présence d'une fonctionnalité
 Comme le [disait Djikstra](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra), tester un programme montre la présence de bugs, pas leur absence.
 Il semble y avoir une opinion partagée sur [l'impossibilité de garantir l'absence de bugs](http://wiki.c2.com/?TestsCantProveTheAbsenceOfBugs) ou d'erreurs dans un logiciel complexe.
 La démarche proposée étant de garder une solution logicielle aussi simple que possible, se limiter a des solutions qui tiennent dans la tête (j'y entends faire du modulaire), ne rendre que les états valides modélisables et faire des tests pour réduire le risque d'erreurs sans pouvoir garantir leur absence...
@@ -104,12 +104,10 @@ Ils sont d'autant plus utiles qu'ils décrivent une transformation de données d
 Les tests fonctionnels documentent qu'une liste revient triée, mais ne testent pas que c'est un algorithme particulier qui est utilisé (Quick Sort, Bubble Sort, Merge Sort, ...).
 Ces tests qui caractérisent un algorithme peuvent être utile pour mettre au point cet algorithme.
 Si on ne les garde pas pour leur valeur documentaire, on peut en garder certains pour le soutien qu'ils fournissent à la maintenance de l'algorithme.
-Sauf qu'ils figent un détail d'implémentation et qu'il faudra du courage et/ou de la confiance pour supprimer ces tests plus tard
-Toujours de mon point de vue, les tests automatisés de développeurs doivent être des tests de fonctionnalités pour être utiles.
-Ils doivent décrire et documenter une transformation de données, un transformation d'entrées en sorties d'un point de vue métier.
+Sauf qu'ils figent un détail d'implémentation et qu'il faudra du courage et/ou de la confiance pour supprimer ces tests plus tard.
 
 ## Tests unitaires, d'intégrations ET fonctionnels 
-
+LEs tests unitaires sont ou peuvent être des tests fonctionnels
 ### niveaux d'abstractions dans le tests
 Mike Cohn
 
