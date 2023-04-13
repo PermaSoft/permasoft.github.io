@@ -81,10 +81,19 @@ Quitte a construire et maintenir des tests, vous pouvez essayer de faire en sort
 
 ## La variété de tests de critères qualité
 Les testeurs certifiés ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
-Pour notre culture, j'utilise [les critères de qualité produit de la norme ISO25010](https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:25010:ed-1:v1:en)(64.2) pour faire ma liste de course en terme de critères de qualité externes.
+Pour notre culture, j'utilise [les critères de qualité produit de la norme ISO25010](https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:25010:ed-1:v1:en)(§4.2 et §4.1) pour faire ma liste de courses en terme de critères de qualité externes.
 Le critère de maintenabilité étant un problème de développeurs, je l'adresse dans la partie sur la la stratégie de tests fonctionnels.
 
 A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
+
+## Les tests d'endurance, de charge et de performance
+Capter des extrait de campagne de tests manuels ou de production pour capter des scénario réaliste, rendre les variables paramétrable pour les jouer en masse.
+
+
+
+## les tests de sécurité
+ANSSI, OWASP, faites auditer votre sécurité par l'exterieur
+Les tests négatif, le sules dont la fonctionnalité est de refuser de servir l'utilisateur
 
 # La stratégie de tests fonctionnels
 
