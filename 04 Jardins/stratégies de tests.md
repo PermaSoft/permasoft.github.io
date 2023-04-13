@@ -169,7 +169,8 @@ En stimulant plus de couches, il faut lier les dépendances entre elles et avec 
 
 Une fois un cas d'usage nominal implémenté, le temps d'exécution de ce type de tests et la quantité de données de tests à préparer incite à tester la combinatoire fonctionnelle à des nivaux plus bas.
 Plus le coût du test est faible, plus est possible d'essayer des choses pour voir et pour savoir.
-
+Comme la meilleure idée n'est généralement ni la première à venir, ni la plus simple à implémenter, il utile de pouvoir essayer pour le moins cher possible.
+Les tests fonctionnels et unitaires testent la c
 
 et permet un max de refacto.
 
