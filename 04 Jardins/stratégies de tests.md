@@ -19,7 +19,7 @@ Nous allons séparer les tests de testeurs qui sont des tests manuels ou des tes
 Les tests de testeurs testent le système de l'extérieur et le système y est une boite noire.
 Ces tests sont adaptés a la validation de critères de qualité externe comme la performance, la tolérance aux pannes, ...
 Ils ont un problème de persistance de données qui implique un nettoyage entre chaque scénario.
-Ces tests sont optimisés pour valider un maximum de criètres fonctionnels ou non en un minimum de scenarios.
+Ces tests sont optimisés pour valider un maximum de critères fonctionnels ou non en un minimum de scenarios.
 Cela les rends très fragiles lorsque le fonctionnel change en début de workflow, il n'est pas rare de voir de scenarios en échec.
 En restant manuels, le testeur peux mettre le scénario à jour en même temps qu'il le joue.
 Ces tests passent massivement en échec lorsqu'ils sont automatisé, les toutes les fins de workflow doivent être corrigées.
@@ -32,6 +32,8 @@ Il sont réalisé sans le workflow qui précède la règle de gestion à vérifi
 Le test a donc moins de contexte à préparer, et il n'y a souvent pas de persistance à nettoyer.
 En conclusion, les tests de développeurs sont adaptés "à la vérification programmée de cas d'usage, de règles de gestions internes à un système vu comme comme une boite blanche".
 
+## Les tests en contexte agile
+Il y a des choix à faire sur la propriété et la responsabilité de chaque ty
 
 # La stratégie de tests qualité
 
@@ -177,14 +179,15 @@ Les praticiens de TDD décrivent cette approche de [double boucle de feedback](h
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
 
-Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
+Ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
 Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
 	- C'est un plus pour la fiabilité car on capture et valide le comportement du code de production.
+	- C'est ce que l'on fait du code non testé lorsque l'on veut le refactorer.
 - Le test écris avant le code de production fournit un preuve qu'une fonctionnalité existe.
 	- C'est un plus pour la fiabilité et la maintenabilité car on conçoit le test à partir d'un objectif, une spécification, un exemple, un critère d'acceptance.
 - Le test nommé sous forme de fonctionnalité ou de détail fonctionnel valide quelque soit les "bonnes" valeurs utilisées dans le test
-	- Ce ajoute à la maintenabilité, et la productivité à long terme grâce à sa valeur documentaire et son couplage au code (tant que ca compile et que ca passe au vert, cette spécification exécutable par l'exemple est à jour).
+	- Cela ajoute à la maintenabilité, et la productivité à long terme grâce à sa valeur documentaire et son couplage au code (tant que ca compile et que ca passe au vert, cette spécification exécutable par l'exemple est à jour).
 - Le test écris en suivant la discipline TDD fourni une exhaustivité des tests sur le fonctionnel existant(y compris quand on supprime des tests lors d'étapes intermédiaires).
 	- 
 
