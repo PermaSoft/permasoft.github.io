@@ -161,7 +161,13 @@ Les tests ont pour rôle premier de documenter le métier (workflow, cas d'usage
 L'implémentation du test un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes et valides que l'implémentation pourrait avoir.
 
 Il est tentant de commencer par un test de cas d'usage qui tape aussi haut que possible pour documenter un use case en étant aussi proche que possible d'un point de vue utilisateur ou d'une user story.
-Si on peut descendre jusqu'à une persistance en mémoire, on obtient des tests qui fige des fonctionnalités d'un point de vue utilisateur qui ne fige ni les algorithme métier, ni la persistance.
+Si on peut descendre jusqu'à une persistance en mémoire, on obtient des tests qui figent des fonctionnalités d'un point de vue utilisateur qui ne fige ni les algorithmes métier, ni la persistance.
+Et ca n'est pas un monde idéal, malheureusement.
+En stimulant plusieurs couches, on doit préparer plus de données de tests, comme les référentiels en base de données qui sont pointées par des clefs étrangères.
+En stimulant plus de code, les tests ont des bugs dans des endroits plus variés.
+En stimulant plus de couche, il faut lier les dépendances entre elles et avec une persistance en mémoire, il faut souvent démarrer le moteur d'injection de dépendances ce qui ralenti beaucoup le temps d'exécution d'un test.
+
+
 
 et permet un max de refacto.
 
