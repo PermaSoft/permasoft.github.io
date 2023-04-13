@@ -43,7 +43,11 @@ L'exemple le plus varié est un test de règles de gestion :
 - Les exemples sont proposés soit par le BA, soit par le testeur
 - Les exemples sont challengés et mis sous formes de tests ou de critères d'acceptance par tous
 - Ces tests sont implémentés par les développeurs (qui les exécutent en local)
-- Ces tests sont exécuté et leur 
+- Ces tests sont exécuté et leur rapport sont émis par les outils d'intégration continue.
+
+Si vous voulez mettre au point un fonctionnement d'équipe, ou un RACI, vous devez définir pour chaque type de tests qui le conçoit, qui le met au point (scénarise, automatise, implémente) et qui l'exécute et le rapporte.
+Un idéal étant, une conception en équipe (cf BDD et Example Mapping), une mise au point par les développeurs et une exécution automatique par la CI.
+
 Sauf que le cycle de vie du test doit être découpé plus fin qu'une seule responsabilité.
 Le cycle de vie d'un test commence par une conception
 
