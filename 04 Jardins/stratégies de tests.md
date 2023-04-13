@@ -34,6 +34,8 @@ En conclusion, les tests de développeurs sont adaptés "à la vérification pro
 
 ## Les tests en contexte agile
 Il y a des choix à faire sur la propriété et la responsabilité de chaque type de tests.
+Entre, les PO/BA, QA et Dev, qui fait quels tests ?
+Certains font des RACI, d'autres 
 Sauf que le cycle de vie du test doit être découpé plus fin qu'une seule responsabilité.
 Le cycle de vie d'un test commence par une conception
 
