@@ -33,7 +33,9 @@ Le test a donc moins de contexte à préparer, et il n'y a souvent pas de persis
 En conclusion, les tests de développeurs sont adaptés "à la vérification programmée de cas d'usage, de règles de gestions internes à un système vu comme comme une boite blanche".
 
 ## Les tests en contexte agile
-Il y a des choix à faire sur la propriété et la responsabilité de chaque ty
+Il y a des choix à faire sur la propriété et la responsabilité de chaque type de tests.
+Sauf que le cycle de vie du test doit être découpé plus fin qu'une seule responsabilité.
+Le cycle de vie d'un test commence par une conception
 
 # La stratégie de tests qualité
 
