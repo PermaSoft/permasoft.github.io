@@ -48,9 +48,6 @@ L'exemple le plus varié est un test de règles de gestion :
 Si vous voulez mettre au point un fonctionnement d'équipe, ou un RACI, vous devez définir pour chaque type de tests qui le conçoit, qui le met au point (scénarise, automatise, implémente) et qui l'exécute et le rapporte.
 Un idéal étant, une conception en équipe (cf BDD et Example Mapping), une mise au point par les développeurs et une exécution automatique par la CI.
 
-Sauf que le cycle de vie du test doit être découpé plus fin qu'une seule responsabilité.
-Le cycle de vie d'un test commence par une conception
-
 # La stratégie de tests qualité
 
 ## La stratégie, c'est de la politique
@@ -84,9 +81,8 @@ Quitte a construire et maintenir des tests, vous pouvez essayer de faire en sort
 
 ## La variété de tests de critères qualité
 Les testeurs certifiés ISTQB avec sous la partie agile pourront vous en dire long sur le sujet.
-Pour notre culture, j'utilise les critère de qualité produit de la norme ISO25010 pour faire ma liste de course en terme de critères de qualité externes.
+Pour notre culture, j'utilise [les critères de qualité produit de la norme ISO25010](https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:25010:ed-1:v1:en)(64.2) pour faire ma liste de course en terme de critères de qualité externes.
 Le critère de maintenabilité étant un problème de développeurs, je l'adresse dans la partie sur la la stratégie de tests fonctionnels.
-
 
 A ce moment, vous n'en aurez que la moitié car il vous manquera des critères de qualité implicite (fautes d'orthographes, fonctionnel fiables, sans perte de données, ...).
 
