@@ -160,14 +160,13 @@ En conclusion de cette partie les tests fonctionnels automatisés par les dével
 Les tests ont pour rôle premier de documenter le métier (workflow, cas d'usages et règles de gestion) avec des exemples concrets.
 L'implémentation du test un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes et valides que l'implémentation pourrait avoir.
 
-Il est tentant de commencer par un test de cas d'usage qui tape aussi haut que possible pour documenter un use case en étant aussi proche que possible d'un point de vue utilisateur ou d'une user story.
+Il est tentant de commencer par un test de cas d'usage nominale qui tape aussi haut que possible pour documenter un cas d'usage en étant aussi proche que possible d'un point de vue utilisateur ou d'une user story pour montrer que les données sont bien intégrées (stockées et restituées).
 Si on peut descendre jusqu'à une persistance en mémoire, on obtient des tests qui figent des fonctionnalités d'un point de vue utilisateur qui ne fige ni les algorithmes métier, ni la persistance.
 Et ca n'est pas un monde idéal, malheureusement.
 En stimulant plusieurs couches, on doit préparer plus de données de tests, comme les référentiels en base de données qui sont pointées par des clefs étrangères.
 En stimulant plus de code, les tests ont des bugs dans des endroits plus variés.
 En stimulant plus de couche, il faut lier les dépendances entre elles et avec une persistance en mémoire, il faut souvent démarrer le moteur d'injection de dépendances ce qui ralenti beaucoup le temps d'exécution d'un test.
-
-
+ commencer par un test d'intégration aussi haut que possible qui montre un cas nominal avec un maximum de valeurs saisies pour montrer que le données sont bien stockées et restituées
 
 et permet un max de refacto.
 
