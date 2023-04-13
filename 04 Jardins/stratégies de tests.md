@@ -158,7 +158,9 @@ Plus on a de surface refactorable, plus on exécute du code de production, plus 
 ### Le bon test fonctionnel
 En conclusion de cette partie les tests fonctionnels automatisés par les développeurs, nous voyons qu'il y a quelques choix à faire sur le point d'entrée du test dans le code de production et sur son point de sortie.
 Les tests ont pour rôle premier de documenter le métier (workflow, cas d'usages et règles de gestion) avec des exemples concrets.
-L'implémentation du est un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes de l'implémentation 
+L'implémentation du test un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes et valides que l'implémentation pourrait avoir.
+Il est tentant de commencer par un test de cas d'usage qui tape haut et permet un max de refacto.
+
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
