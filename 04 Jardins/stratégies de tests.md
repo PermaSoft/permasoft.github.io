@@ -174,7 +174,7 @@ Les tests fonctionnels et unitaires testent la combinatoire fonctionnelle, les c
 Ils appellent les règles de gestion là où elles sont implémentées.
 
 Cette démarche de tests haut niveaux suivis d'itérations dans des tests de plus niveaux fournissent des boucles de feedback imbriquées qui permettent de toujours avoir un focus, un objectif a atteindre.
-LEs prat
+Les praticiens de TDD décrivent cette approche de [double loop]().
 
 et permet un max de refacto.
 
