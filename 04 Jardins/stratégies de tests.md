@@ -88,12 +88,16 @@ A ce moment, vous n'en aurez que la moitié car il vous manquera des critères d
 
 ## Les tests d'endurance, de charge et de performance
 Capter des extrait de campagne de tests manuels ou de production pour capter des scénario réaliste, rendre les variables paramétrable pour les jouer en masse.
-
-
+Suivre les tutos de gatling (entre autres)
+sur montée en charge, pic de charge, fuite de ressources, ...
 
 ## les tests de sécurité
 ANSSI, OWASP, faites auditer votre sécurité par l'exterieur
 Les tests négatif, le sules dont la fonctionnalité est de refuser de servir l'utilisateur
+
+## les tests exploratoires
+Beaucoup d'impressions ne sont pas mesurables par un outil.
+Les qualités d'autonomie de l'utilisateurs (de bonne blague sans explication à un manuel d'autoformation intégré), l'ergonomie, l'A11Y, ...
 
 # La stratégie de tests fonctionnels
 
