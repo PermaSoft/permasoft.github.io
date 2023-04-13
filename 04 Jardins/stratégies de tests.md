@@ -173,15 +173,12 @@ Comme la meilleure idée n'est généralement ni la première à venir, ni la pl
 Les tests fonctionnels et unitaires testent la combinatoire fonctionnelle, les cas aux bornes ou aux limites, les gestions d'erreurs métiers, etc.
 Ils appellent les règles de gestion là où elles sont implémentées.
 
-Cette démarche de tests haut niveaux suivis d'itérations dans des tests de plus niveaux fournissent des boucles de feedback imbriquées qui permettent de toujours avoir un focus, un objectif a atteindre.
-Les praticiens de TDD décrivent cette approche de [double loop]().
-
-et permet un max de refacto.
-
+Les praticiens de TDD décrivent cette approche de [double boucle de feedback](https://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/) fournie par les deux niveaux de tests.
 
 ## Tests après, tests avant, tests moteurs (mais pas pilotes!)
+
 Bref, ces tests de développeur se font au quotidien, en même temps que le code de prod qu'ils testent (avant, en fait).
-Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
+Selon la méthode (test first ou non), la discipline (TDD) et méthode (BDD) pour les concevoir, ils peuvent contribuer à certains critères de qualité logicielle.
 - Le test après avoir écris le code fournit une preuve technique qu'une caractéristique existe.
 	- C'est un plus pour la fiabilité car on capture et valide le comportement du code de production.
 - Le test écris avant le code de production fournit un preuve qu'une fonctionnalité existe.
