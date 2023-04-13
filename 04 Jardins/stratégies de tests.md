@@ -161,6 +161,7 @@ Les tests ont pour rôle premier de documenter le métier (workflow, cas d'usage
 L'implémentation du test un exemple concret d'un usage, son nom est une description générique du détail fonctionnel que l'on teste qui reste vrai quelque soit les valeurs concrètes et valides que l'implémentation pourrait avoir.
 
 Il est tentant de commencer par un test de cas d'usage qui tape aussi haut que possible pour documenter un use case en étant aussi proche que possible d'un point de vue utilisateur ou d'une user story.
+Si on peut descendre jusqu'à une persistance en mémoire, on obtient des tests qui fige des fonctionnalités d'un point de vue utilisateur qui ne fige ni les algorithme métier, ni la persistance.
 
 et permet un max de refacto.
 
