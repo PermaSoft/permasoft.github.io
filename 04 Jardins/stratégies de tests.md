@@ -165,8 +165,11 @@ Si on peut descendre jusqu'à une persistance en mémoire, on obtient des tests 
 Et ca n'est pas un monde idéal, malheureusement.
 En stimulant plusieurs couches, on doit préparer plus de données de tests, comme les référentiels en base de données qui sont pointées par des clefs étrangères.
 En stimulant plus de code, les tests ont des bugs dans des endroits plus variés.
-En stimulant plus de couche, il faut lier les dépendances entre elles et avec une persistance en mémoire, il faut souvent démarrer le moteur d'injection de dépendances ce qui ralenti beaucoup le temps d'exécution d'un test.
- commencer par un test d'intégration aussi haut que possible qui montre un cas nominal avec un maximum de valeurs saisies pour montrer que le données sont bien stockées et restituées
+En stimulant plus de couches, il faut lier les dépendances entre elles et avec une persistance en mémoire, il faut souvent démarrer le moteur d'injection de dépendances ce qui ralenti beaucoup le temps d'exécution d'un test.
+
+Une fois un cas d'usage nominal implémenté, le temps d'exécution de ce type de tests et la quantité de données de tests à préparer incite à tester la combinatoire fonctionnelle à des nivaux plus bas.
+Plus le coût du test est faible, plus est possible d'essayer des choses pour voir et pour savoir.
+
 
 et permet un max de refacto.
 
