@@ -173,7 +173,8 @@ Comme la meilleure idée n'est généralement ni la première à venir, ni la pl
 Les tests fonctionnels et unitaires testent la combinatoire fonctionnelle, les cas aux bornes ou aux limites, les gestions d'erreurs métiers, etc.
 Ils appellent les règles de gestion là où elles sont implémentées.
 
-
+Cette démarche de tests haut niveaux suivis d'itérations dans des tests de plus niveaux fournissent des boucles de feedback imbriquées qui permettent de toujours avoir un focus, un objectif a atteindre.
+LEs prat
 
 et permet un max de refacto.
 
