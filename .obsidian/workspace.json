@@ -40,8 +40,22 @@
               }
             },
             "group": "ac334c67e9db3336"
+          },
+          {
+            "id": "039006f3aa9baa86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Jardins/Sans titre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1120032ef0a19f3c",
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
+                "file": "04 Jardins/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
+                "file": "04 Jardins/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Jardins/Stratégies de tests.md"
+                "file": "04 Jardins/Sans titre.md"
               }
             }
           }
@@ -172,11 +185,12 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "3e186f4ed750ec86",
+  "active": "039006f3aa9baa86",
   "lastOpenFiles": [
+    "04 Jardins/Stratégies de tests.md",
+    "04 Jardins/Sans titre.md",
     "Bienvenue.md",
     "04 Jardins/katas/FizzBuzz.md",
-    "04 Jardins/Stratégies de tests.md",
     "04 Jardins/Agile Testing Quadrant.md",
     "04 Jardins/Architecture Modulaire d'application web de gestion.md",
     "00 Entrée/Offres de services.md",
