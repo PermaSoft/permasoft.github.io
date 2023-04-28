@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12a6a46a59070356",
+        "id": "f6a85a4ae5a46435",
         "type": "tabs",
         "children": [
           {
-            "id": "7f3841d887ed98b7",
+            "id": "d2cf5e1073ff935f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "ac334c67e9db3336"
-          }
-        ]
-      },
-      {
-        "id": "69bce57a1575ee6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e186f4ed750ec86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Jardins/Stratégies de tests.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "ac334c67e9db3336"
-          },
-          {
-            "id": "039006f3aa9baa86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Jardins/Architecture logicielle pour une application de gestion interne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Jardins/Architecture logicielle pour une application de gestion interne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Jardins/Architecture logicielle pour une application de gestion interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 Jardins/Architecture logicielle pour une application de gestion interne.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,7 +141,7 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "039006f3aa9baa86",
+  "active": "d2cf5e1073ff935f",
   "lastOpenFiles": [
     "04 Jardins/Stratégies de tests.md",
     "04 Jardins/Architecture logicielle pour une application de gestion interne.md",
