@@ -11,8 +11,13 @@
             "id": "d2cf5e1073ff935f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 Bibliothèque/Getting Things Done/Getting Things Done.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Bibliothèque/Getting Things Done/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Bibliothèque/Getting Things Done/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Bibliothèque/Getting Things Done/Getting Things Done.md"
+              }
             }
           }
         ]
@@ -151,6 +160,14 @@
   },
   "active": "d2cf5e1073ff935f",
   "lastOpenFiles": [
+    "03 Garage/Obsidian.md",
+    "03 Garage/GTD avec Obsidian.md",
+    "02 Bibliothèque/Zettelkasten.md",
+    "02 Bibliothèque/Getting Things Done/workflow_map.pdf",
+    "02 Bibliothèque/Getting Things Done/planification naturelle.md",
+    "02 Bibliothèque/Getting Things Done/horizons d'attention.md",
+    "02 Bibliothèque/Getting Things Done/Getting Things Done.md",
+    "02 Bibliothèque/Getting Things Done/gestion des tâches.md",
     "04 Jardins/Stratégies de tests.md",
     "04 Jardins/Architecture logicielle pour une application de gestion interne.md",
     "Bienvenue.md",
@@ -159,7 +176,6 @@
     "04 Jardins/Architecture Modulaire d'application web de gestion.md",
     "00 Entrée/Offres de services.md",
     "04 Jardins/Refactoring.md",
-    "03 Garage/GTD avec Obsidian.md",
     "04 Jardins/Stratégies de tests 2.md",
     "04 Jardins/katas/faire mon propre kata.md",
     "04 Jardins/d2utmpZPf0U9",
