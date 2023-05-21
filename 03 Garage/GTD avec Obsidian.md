@@ -25,11 +25,14 @@ Cette vue que j'utilise surtout sur ordinateur m'aide a faire une revue de mes p
 Voici la vidéo qui m'a fait expérimenter ce plugin :
 [Actually getting things done with Obsidian // Checklist plugin](https://www.youtube.com/watch?v=ODhHTngIMJE)
 
-GTD place les tâches dépendante du temps dans un calendrier.
+GTD place les tâches fixes dans le temps dans un calendrier.
 Obsidian propose des plugins qui affichent [votre calendrier externe dans Obsidian](https://obsidian.md/plugins?id=obsidian-full-calendar).
 Cela permet de référencer vos évènements depuis vos notes, mais le calendrier externe reste en lecture seule.
 Vous pouvez avoir un calendrier local en écriture.
 Bref, je préfère mon calendrier en ligne qui fonctionne déjà sur l'ordinateur et le téléphone.
+
+Ceci dit, il existe des tâches qui ont une date limite pour être faite mais elles peuvent être faite n'importe quand avant.
+A ce moment, vous serez peut-être uintéressé par un plugin de gestion des tâches plus avancé que la gestion de Todo mais que je n'ai pas encore essayé : [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin)
 
 #### Plugins Internes (Principaux)
 
@@ -52,6 +55,7 @@ Le coeur du template de note quotidienne contient cet extrait :
 #todo/inbox
 - [ ] 
 ```
+Je suis passé a templater pour créer des notes quotidiennes, mais aussi hebdomadaire et mensuelles qui sont pré-remplies de tâches récurrentes.
 
 ## Contraintes méthodologiques
 
