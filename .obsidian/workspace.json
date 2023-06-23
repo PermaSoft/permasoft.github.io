@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Garage/GTD avec Obsidian.md",
+                "file": "00 Entrée/Offres de services.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Garage/GTD avec Obsidian.md",
+                "file": "00 Entrée/Offres de services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Garage/GTD avec Obsidian.md",
+                "file": "00 Entrée/Offres de services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Garage/GTD avec Obsidian.md"
+                "file": "00 Entrée/Offres de services.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "d2cf5e1073ff935f",
   "lastOpenFiles": [
-    "03 Garage/Obsidian.md",
     "03 Garage/GTD avec Obsidian.md",
+    "03 Garage/Obsidian.md",
     "02 Bibliothèque/Getting Things Done/Getting Things Done.md",
     "02 Bibliothèque/Zettelkasten.md",
     "02 Bibliothèque/Getting Things Done/workflow_map.pdf",
